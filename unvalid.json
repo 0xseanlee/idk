@@ -1211,5 +1211,350 @@
     "source": "vwebhook_auto_purge",
     "reason": "Dead / 404 during vwebhook check",
     "checkedAt": "2026-08-27T12:59:41.466Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509236757277708391/q01BcfdfN7Ya80lyOrM5v1m0JZQI7oT9xZHIo8eSx0SHPArpncB_NihO5MAfPVeepbXZ",
+    "source": "np28tys55h-rgb/-my-stock-radar/9f6fef6d3ab7ef6028a94046cde9a0fef552adb4",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542317690255839402/lJKv3K4988iwAhvc7Jpay8zvBhJ4aXB3dL6GMPGR8o4D9FauC3cuGoIcrOTfJBzAZkPU",
+    "source": "anasmouquinee/omnipulse-ai-studio/8a1310c5841edb9929cfee093ec5917ac0e057ab/.github/workflows/autopilot-cron.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1432197549149786115/grpP5AhY2_KGK3yYfmwhtDZC5qwJQ5TT00c2Ubwn34Y0ec8MrdBp7Qpm1xu9W7TVJvGs",
+    "source": "manual_import",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509022602671427695/76fqELDrhV9Pj7TAd7fvq56VQTIUMi8ZwokSwaWSN-rWq0zMlUDr4zfhFJd35_Ioocyr",
+    "source": "bshk93/nbn-api/81ee21349cbd7e3659e5cff9287d70ecad9843fd/routers/bets.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1540819156927123516/aXP9qH7jsX1-9FraDyHcgQwoEmAxqh-LDTSU66BzuIXyKlX3NAw0UsPLUMQBXeH8E4jF",
+    "source": "deanizzo/ESPN-Auction-Watcher/683c090f8f100fb340e7cd81624a63119692e67a/draft_listener.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542217374701322310/ZqMKUGzMtjqPfJ53VojmGtWias22-6GFExKgnqTySq0-DgNCaqMcmc9gr2_6D20djvu5",
+    "source": "higor119/keyauth-higor/3a76ffd4d7c8117d3cc057b3dd7764a524acf879/server.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542215590327095437/wjvLezllfpjTea4D4TGtg-ufa5MnmguuNeDULhXJGEy636BKH1nM-u2M4ILbqi_fRqyU",
+    "source": "matheuspcgamerconfig-stack/xiters-cheat-engine/5afddf49dbf193cf442f02b63d673b5e8513c3a7/cheat.lua",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542212244543373485/qhAuWyEUzebcEymH8uQsho-djLBlFWdQZ1fm9jcdFBtuoDuV3-ysK4MyA-qkKIy3XJss",
+    "source": "solimankhalid2012-ctrl/3d-store/ac22c155d57d8a542a18d317bc454453029ff4e0/js/main.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1520984005908889632/yt2mJf9N9EprxM25pnFcLH3wEIEGryIZzYSmuyQhrN-zHGEAJS0WhC0wj54nMDPzp1os",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixPunishments/webhooks.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1535123326513582112/0L3ZnSWw4sJxL5McXsNyjRT2kDNPlmK2pd8DxoWMhC5DmU8dSk-vUbHduQO-O7yhJ8-y",
+    "source": "null8878/homelab-network/3ce68c41b86a00014ab2488522ff5236c12db17e/dating-monitor.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541991805795700788/FT4lYa4YHvWWL3toQ_LO4Ne0micLnZBCq4mahR4_0-RvlTNqQXOZlZErcdGnCFrPJ7sl",
+    "source": "Marmotinha01/garnix-configs/a5ba2a53c89ec8f7a4e885b1a33616e94a715e88/GarnixStoreActivation/webhook.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990942805069945/LK_0wkmRmEpQoxxmS6KPQtqXirvcy2HZoc4txVqLqhbRBrwf4DGiy9XYKUadNwE5tTXe",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixAntiNuker/profiles/farm.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1514503331597258815/yjXkjHKDtHMQ2YVPAZ1tHgIdxCIjrPD8ORL3y5ljEjfVlI1Qs8SZrOKylxySV710EfEr",
+    "source": "varun2507027108-oss/AlertOps/8ceea2f32fe9dd82cdf076ec8216807f5b26053e/hooks/useAlertStream.ts",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537260208324354089/vhe5PAGqNm4R7fAK5niRk-ODv3E-FF_MMuP2n4xZCzrtISGZLtyIghSsB8Hl_hyK4B2m",
+    "source": "guiwalrich/evoetec/0d2d09030dd811ded6bc4808313bcefb7e100ff4/.env.example",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990378910253069/7oU5PRSYiVB7GuJ5Xp11DuHV49H4vyzu5Nhlon5reJdNIW1MgkTux5WwiZ_cfdqayUJv",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixPunishments/webhooks.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990787368091748/DnW05np7WE_ms5HIqR5z4V-Vmgg8S4D16gBV8MoyDgWvATO-G-Y10Z8tu0zaQdeSroSe",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixAntiNuker/profiles/mining.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541989951737167982/P26EGHvhgU5CPB8XkgVruQSBDF6jwpvz5JhCyN_-CcwcfwZoT4A7c_McBlJTYZdX6o4j",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixPunishments/webhooks.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537244241108009001/BKjHrpuVJYoKIB2XFXELEUmdn5AA-KPjDyZrW-Owbu-04ztfmhsYQMZaRswnLJPizA58",
+    "source": "guiwalrich/evoetec/0d2d09030dd811ded6bc4808313bcefb7e100ff4/.env.example",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541637002691223552/kw1RoUPlcge7tHA7Y0ftHDrUF8PZIsxAxhsfUFb9Fhb9uOvm4umFiGeITUCCuYtqR6pT",
+    "source": "tymeo51100-sudo/Sheckles-simulator/22e2f1e1ffdaa7e573ae9525b4a6f337434c86b6/index.html",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541696262347431996/SoiCLL6V8braAJe-8daOXcvcrlaCk3U_YUkEE6Iv8cxflz73dcKCpRF9Nqw3ZZfuG0wF",
+    "source": "steirnjosi-code/caixa/4da0f1a32dd8d50b87b9ea90f877aa4955df4506/app/api/login/route.ts",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542003238608306207/3oUJJbQje0XRIoV1wkhLkRiquSnZdD1gObmzFtp-7xV2-IjiKjIx1DdE9JGggSRIiSCZ",
+    "source": "PedroT4skr/stremio-releases/ab26c569f6a87ccd15fd9d192973d581d6390183/beta_config.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541716427071819858/t30PNmg-72eTI9p5NnwPzDZGz6wm1B4DNWgPvHcQrMuNrnCQQSeb0bT5iyiKYH2ya3W1",
+    "source": "zyz445038-maker/al-muhtaraz/c2258d391052778cadfd0f63d41b993ce4c7e978/src/components/DevLab.tsx",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541917978021466274/vazXI01trpbh-fozTKvFthmCR-LcbQtpt9O_ENDvvhz0RV_COjKzT8NsdWThr8QqNwlq",
+    "source": "tymeo51100-sudo/Sheckles-simulator/22e2f1e1ffdaa7e573ae9525b4a6f337434c86b6/index.html",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541582601473630290/FafPgDou17r4zwwB5KsvhNkjsdw_cUVprNv1D7764AacpRFAv-U9y5ppxMFakzzjkCPy",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583062859780237/nWxnEbPCZPAq4AqqNLGL7rvF2kUquTQbexOxxMjQkU9TKwSyI2nvqKERSsbPv6e_IC6d",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541585989342859394/TThI62eXN_n2X13h7uop-eknAQJupFht6G4Dx14HEXoRh5BlizptN2BcuSgWUq6Ydtd0",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1038160738621071400/-Ysm6IGT58osi1JsnSUw2UEBO7pA1qTEvyiHu0iGDtzDwuPiCFuIj_rujGfv7Ogx7dzc",
+    "source": "Tapuz97/Aqua-Shopify/07f02b1958b34e5b8875d5c5e9472f5ca79077d0/config/webhooks.txt",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541582943665922048/ArBO2i-lfRhbkKMIx1BORDIx9GRwdis2gQDfbUdyKh1ag9F3S1cUvXb4D1WFWUdKl8au",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541784654326136873/ygFhAT3XQwgSGsnMrnl9c-6DFLkYt_TefUumfCvUn9Si_bqgofHhjkPzQZyzgkXlhxuD",
+    "source": "enhelp/en.help/018cc30d3d89fcc1e3aaef7bc20ec9632912e221/index.html",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541640265461137538/YDaXpIpBQl0MWbIzeFLvcSTI4zbpPTqTkTgKfc1PusePVzOrtK6GiGC1CTlUx7Q78Hwa",
+    "source": "foxyguyz1/bloxlink2/a815faa96c9f9a301fcb32f55ad52e9d9806d151/js/app.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583647272861757/F0nnS4LCXDPleA3ERiM3JMModemBkzP4QklTuLUBPwqQ2N5svBqtd4EJtev72hJf_Y3N",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583542092435566/P2Dd5-ZEVXbgO43UYVZsbt1dZzD5ESUDJNFmYorRSuWhnWwSfDOwAiztyAry2TIg3ErZ",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583365415768198/YEB8z7jTy-d4krmuIRIAK0Kpx22E_bsqlBJ1wpbsDInHWj_4fgq40uyRLMFfHswUGZM1",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541595512442982460/IjYT1oXwhh8Y56Fi57nrIkQLUjyFX8BuFWS7jox8A-78LZXs8rzIiMzg3G8Y6woH_tpZ",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1495909060170616884/5RthXmjPurDkhjpXkM_iQGa11-Gl-WnjGeRp-gq79piX5od5frIPqT1L-tGb-t-W06e7",
+    "source": "ANTCPU/ads/fb221774a052340c93cc8bbb4b549c76f35fd22f/app/create-ad/page.tsx",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1530559937179156591/DM25oGSR1j7kat18KS4hZQRSIwd8UtC9Sm30JRNBkEUVEAArv7MLq-p4cbTdz5yKJEeq",
+    "source": "KhaledWithD/Dolphin-Cloud-Network/7820c9928ef314a19f58b3d8d9a0ac4471b4778a/src/Assets/Json/LoginData.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541833911313895467/SA2Jzh0JXA11L8XqMKln5R0UVVbdioMXLWNmmiXkVCjUbNbDnhvqjy68DlXqOf-19Kvo",
+    "source": "St-ary/testingg/97bd33ccad96ca444f38802f43d89748789b9589/idk.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1441524957426483231/yQn2hdpiVDG-Y2JxZxKyDECvnCrAm5wCfUbmpOJjKzVebn6CKH8cbF1YQOepk8ZlH8kD",
+    "source": "iamkaika/NODEZ-BJ/b6921c232ac2812667d6b990f3933fccaaec16c3/NODEZ STAKE WEB BJ 2.0.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1399672969462284429/9WzK1RPHcRlR5ERks42o7b5ii0CplUvUsXC1K3sjlq07xDhnM6tyuq4OqH94jzFTKwXc",
+    "source": "sqryxz/mts-data-pipeline/258a6b2181dc8201a87140e01de1379e9623613f/config/strategy_discord_webhooks.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1440817160640401519/x1nVjUyCpGfIHiwsExcghKwVy2sf9ASpvrzvgEF0R4-LberFuSS501GhehJztzRFp09a",
+    "source": "stewart-r1/pokemon-stock-bot/dac264a58accd7d7a5b0627771b63ca9a6eac2e7/checker.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1408273388753129504/_w8oTulee_396ULSikz3My0yImCp-c2kyciTNCWJQIbM8uV35ZNuIRC4y0p6m6HionPT",
+    "source": "sqryxz/mts-data-pipeline/258a6b2181dc8201a87140e01de1379e9623613f/config/strategy_discord_webhooks.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1441330277279469578/DsysO-Ce_53G5q8Nw8-PBZi9M5P4Hd9SHdcfDa8qEKrGCmqwVZQDPN8j8y8V3WYfaQl0",
+    "source": "syahmisharil-star/SQARepository/5708c6d373578e91392aaf57404b21117c09e9d3/.github/workflows/ci.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1409124445573873695/V6_VcCYNjCHoGIjcb9LqQyJwJBTQm-UtGvD6O6sBaOOJz_9ABIg-yxYOZu-dE5E12x7t",
+    "source": "hadimpratama6-hue/bagibagi-webhook/465434c0ec28744511810cd605cadeb41e064c39/app.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1292959956357611682/t4dYiIvlhZ6iVt3d7yGavDyB-SLaMoWXO6LaOJ62g7y7U_tPkLG-iDFMYSehLgtDnews",
+    "source": "LckyClovr/LckyProxy/c153dc9e9b201abae9380b5695e442807c4219c6/.env",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1441192876208951336/r9jpQXjkn1jCCwMItPt15cGU3WrFGvYLPsq0f_9kttsk01dIKeLFTJxL2ey2SWYYKGtc",
+    "source": "Krib-Devs/krib-web/b65077f0a4f0a7bab5aa5cbb705d697055970ea4/js/main.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1406661640732151828/cgMyFkUdojQcByZVekiDi02ueWq0jVfr8k7RjlPo7t_A3GbRtMl-7CDZcgMHau_E3_Af",
+    "source": "GilangZhanuardy/PS-StudentAssessment-SeleniumAutomation/7db29a80ee5c1f4a26a802692efed1b7c696632e/src/test/java/pages/TestListener.java",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542423199860527154/WbofVJ4OF_hZtXkshynf3pj__fbAed255JDxzO9dIccqRgZ18yl-YQ4oN_KDUWlwuhbm",
+    "source": "svert1x/q/3212a8115882704cc17d4c7829eba639335d3a47/script.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1373196970763751464/jPsu1oO3Jip1XhyUMNP6t8iky-3yIPmSl4YW_LTQ4hLY9eLd3oYsuOlyduL-f5a8Wo7Z",
+    "source": "pouyashaeri/AutoGrapesJS/eb6fce1c9331248688e82e47804379b06ef610a2/templates/editor.html",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542451950669271090/EGJV0gT6ZTpfskRdR2GAL5m8h8-jqJo5MygLn6JR9yVJtZ_OLo_0saWf0bR1iBbdj9Y_",
+    "source": "purorodriguez903-oss/louncherafa/677048f45fd28b865d9008de19a7d8182821beb1/config.json",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1374732573888217170/FHXrqAp9wSizTTwgYklvIPTpDH7PUoLMFoBZECGUT1-y3s8Ah7O6eXyzScg_hocfkdhK",
+    "source": "lucaspujol/cpp-tetris/326020a6575679efdda0ada184ee7475ee947f41/.github/workflows/build.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1476219593893609573/GWS6ZxFxw1dQODkvylSSTBre9VnlkozCjnCU6BYTfAQIMJUOQ4K2o7jYeN5kCUdYKgmX",
+    "source": "choigod1023/weekly_baekjoon/63f05cb84e35aa86154faf5f73a7f0df5d077d00/.env",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1410333374085857280/wd3SnzWcrsGQ5nTCPspKHCS8lSUVqMAuQqo24T9r2FSZ9jjYpX3XOOXOGascmTT7TgfZ",
+    "source": "Micor-byte/test/398481a357a1b08f3571e8f925d1dadc07286866/app.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1417184822111113326/f3ah4RcK7YNEFZ5LD_uBdVuOtEWNDhufgzSXXv9fkPeCBMTQjr8KMeGRsya1_XFbjTpd",
+    "source": "pascariucosmin93/calculatorgaz/00624874700f6d01b9600a81f9847b5ad3fd6a7e/k8s/calculatorgaz.yaml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1353511267889053767/AAHMBVG7vyD0SHEFK3pYf8sxsYS9_MEbQhINx_c1ASJbG_1fMrMlo8EvCaeGcF5wulcT",
+    "source": "ZeroX0368/Script/ea8850ead8121bad71d4d111dcc1cb13bbe02cc4/gay.lua",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1298699024924151899/5_GM4ZKIRgFc04fthbYR6YtrcHXT_N-NG1lZVJQwpgCIWRyD2rUR_xnqYKQMMivvfnvh",
+    "source": "HagopA/PriceMonitor/cf699d1341ff6aa3bd9168c1b6b7a0b98d22c09a/bestbuy/monitor.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1334619793025925203/Il8yPSV08Dm5x2-cYCk04xImoRdbt_8PWNOCzXlSz3N_5u1C_iCIKCPRX1Zvb6trVAUQ",
+    "source": "HagopA/PriceMonitor/cf699d1341ff6aa3bd9168c1b6b7a0b98d22c09a/homedepot/monitor.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1399852301455331489/0fcL_iopRGsuKnf9-6p-j4dA_fSAJIZp3ozlpq0mV7VdzJaXtBFkD2WYmqleEc7fO5pO",
+    "source": "EscarScript/Script-sonnette-police./073cf93e01442eb54fd71687e2166d4624cdd1a8/call_police_lobby/server.lua",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1476512160375898253/k-JS80yPgRMhZSXfcBBKHXjsphfrVFfbqqSu8aH8-yinfVynF_8rJdjUfaps1Fcf6V4I",
+    "source": "discreteBody/monitoringSystem/e77fab65200420109f7da26cd5c2a5b469202b3d/alertmanager.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1147262918199611484/mQyvGE3rE1MKGXpFLjKYKicyjyeV_Q7tvq3BVp9TdenHOQSk2qMohPGnHV5tiAoIA90l",
+    "source": "HenryZhangxiao/Carleton-Library-Autobooking/928f6855783039a6367277e2dffcd3b0ff053372/Autobook.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1332303227252641793/ztflhUtvm4JkXr5tc-J_YaIx62oa_LeqJpgkh0_DRi0TPDAjxR1K1PZeb8fOPQZ1oZl3",
+    "source": "NSM-Barii/NetBruter/05878cd6dc7cf3595f3f87bafdae06970a828a3e/main.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1538622527864180771/OFYw8QoFH9wXWzuFa-8hG7Xlux3lTfX5AFyj4v247WBCW3Rmjbg1BjDHMVv62liVBDmP",
+    "source": "vlcpenguin/webhook/f38b11693b9de45cbe88f0fc58e3aa4815a4af4d/config",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1300813067138891828/N09MygqqoFn2FlSFH1ipxe1-c-oEboMUfM8UKIMHAJzWnNcHP-EmyCiQeEZPrBjOM86o",
+    "source": "adem-hosni/AtomicShieldServer/7a846f95bffe98ec5b3175ca9b767b3adf794470/src/AtomicShield/settings.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1539301251953459281/sjoCNigtLjuHW74MNP2fh-MbogXpQUvmkIzBohlTWjCQHdCnvDL5u0nvzZrTxyvYGCQU",
+    "source": "vlcpenguin/webhook/f38b11693b9de45cbe88f0fc58e3aa4815a4af4d/config",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1338345507046822041/WX6whV2qGSCOEwNbDnlz-BbTESwcg0NOKjrNQrf0ODX5V1LjggLlk6eg3ZMJbkc8qRF-",
+    "source": "callum-saxon/OSINT-ThreatScan/9f311ab97c809694667f74107e48d89b934cee7c/alerts/alert_system.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1539301255543918702/nsKSB3gLqySOBdr6XPX5jdUo-Nseb-Pce-t2b6D9SDR7LTW7yqBi4Sa5ORNXePCFDj3y",
+    "source": "vlcpenguin/webhook/f38b11693b9de45cbe88f0fc58e3aa4815a4af4d/config",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1308126937847300268/ilSVXY5AoCQAV_hZoL1FvZhorBof2T32Nbbji4k06jHyO3aKF-GLQvXXnTWYqhVBqzQW",
+    "source": "Nyx-Off/DiceRoll/9d17ffbf241a4a1beafbda283bee682410b1a4a2/discord_webhook.php",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1412523374445596752/oL41bfjmy73q-ZSDZ7RBjd3N1BPTJIEh6hceW6cCMB9rQ1j4hGy3H14CoDM46DTXiAlC",
+    "source": "zestifyre/Zestifyre/31f34a3b348b78442afec7d4e5d92194ca4a59ba/env.example",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1324450942438871050/PXVreIUhLdpC8i9mA_pG65D8X60--19XE2LR5alJNXwZIv7DMz7mpJSMPajjaKmKkqBH",
+    "source": "wdawdasd/help-me/2ebe95c3e76d2356398ed75495d568277669b5b6",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1411830234445254697/3M-Jl16eaWtCO9MzsgZuo0vOQCOC67AdSwtwN274yj1oZrMtUKTLLFGOAXuJfyBUCTEr",
+    "source": "NicxOp1/TuGerenteComponente/fb83a4e10e6df67ec848c6963ff85eeba91c1a30/src/js/airtable-service.js",
+    "reason": "Webhook revoked / Dead during re-check"
   }
 ]
