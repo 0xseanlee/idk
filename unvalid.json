@@ -2385,5 +2385,81 @@
     "source": "vwebhook_auto_purge",
     "reason": "Dead / 404 during vwebhook check",
     "checkedAt": "2026-08-27T13:30:19.292Z"
+  },
+  {
+    "commitSha": "bcb40a4156ebfe9de60ade9a57afdb372767988d",
+    "source": "0x5t4l1n/hunting/bcb40a4156ebfe9de60ade9a57afdb372767988d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "80eb35a9005e77e9ac1f4d26f6bf1a5491960488",
+    "source": "cycle-five/cracktunes/80eb35a9005e77e9ac1f4d26f6bf1a5491960488",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8490adb37d3681b57040d24907cc1337bbc70d73",
+    "source": "derekpon17-prog/sharp-indicator/8490adb37d3681b57040d24907cc1337bbc70d73",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d0c57d446f96cf9df56356a044f202608a7b4edf",
+    "source": "fartherr97/florida-roleplay-manager/d0c57d446f96cf9df56356a044f202608a7b4edf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3b84462295b6bf7d7e668b32e7cf5ab458ea06e4",
+    "source": "sss654654/cgv-infra/3b84462295b6bf7d7e668b32e7cf5ab458ea06e4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2a0ef9c118f9d56d4dbb88d7c1c4f196ed8b1de6",
+    "source": "seralifatih/docdrifter/2a0ef9c118f9d56d4dbb88d7c1c4f196ed8b1de6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2e6f7468450affb3e9d16693ed192778d91aa692",
+    "source": "0xH4KU/babel-discord-translator/2e6f7468450affb3e9d16693ed192778d91aa692",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e29dea0d9a0e3f4f925f2049814705df74988b9d",
+    "source": "anthonyhdd/kamo/e29dea0d9a0e3f4f925f2049814705df74988b9d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "98422345df62f15aded4d9f6c609cbf278c4863b",
+    "source": "Maijied/Cursor-Curse-Monitor-by-Lorapok/98422345df62f15aded4d9f6c609cbf278c4863b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9b06ede820d4f99117cad382420ccbca370af024",
+    "source": "evansuckedatlife/cr-sim/9b06ede820d4f99117cad382420ccbca370af024",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c7a4a33a009234354d4ba7c9331649736a8db3d6",
+    "source": "sean-lai-sh/morpheus/c7a4a33a009234354d4ba7c9331649736a8db3d6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2192e94bc534ca13207abbb34dd8d9eb78b20c90",
+    "url": "https://discord.com/api/webhooks/1517890636810817569/7MW228lLGQkhh7Ykx4ijABkm9xIrqfDhrLCICyE8vOtMeW_4tLdLHT3-88vAYp8k5yCj",
+    "source": "bshk93/nbn-api/2192e94bc534ca13207abbb34dd8d9eb78b20c90/routers/draft.py",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "34f32cf929f9e6db13588be2a5e66acda5a97522",
+    "source": "elianengelberg/Taller-0/34f32cf929f9e6db13588be2a5e66acda5a97522",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1bc292316fabb661819e37e396ffaed33aec617c",
+    "source": "CrowdRelay/crowdrelay-control-plane/1bc292316fabb661819e37e396ffaed33aec617c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "dad8b93458b0fd67bb73329105457a9c5c07aaa6",
+    "source": "Tumult1337/smokeping-go/dad8b93458b0fd67bb73329105457a9c5c07aaa6",
+    "reason": "No webhook pattern found"
   }
 ]
