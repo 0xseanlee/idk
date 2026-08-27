@@ -893,5 +893,323 @@
     "commitSha": "948b067e8bd7ef02a1aaf1df17816444c650a347",
     "source": "dm2book/NexusHub/948b067e8bd7ef02a1aaf1df17816444c650a347",
     "reason": "No webhook pattern found"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1432197549149786115/grpP5AhY2_KGK3yYfmwhtDZC5qwJQ5TT00c2Ubwn34Y0ec8MrdBp7Qpm1xu9W7TVJvGs",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:38.709Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542317690255839402/lJKv3K4988iwAhvc7Jpay8zvBhJ4aXB3dL6GMPGR8o4D9FauC3cuGoIcrOTfJBzAZkPU",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:38.723Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509236757277708391/q01BcfdfN7Ya80lyOrM5v1m0JZQI7oT9xZHIo8eSx0SHPArpncB_NihO5MAfPVeepbXZ",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:38.749Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1540819156927123516/aXP9qH7jsX1-9FraDyHcgQwoEmAxqh-LDTSU66BzuIXyKlX3NAw0UsPLUMQBXeH8E4jF",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:38.965Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990378910253069/7oU5PRSYiVB7GuJ5Xp11DuHV49H4vyzu5Nhlon5reJdNIW1MgkTux5WwiZ_cfdqayUJv",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:38.977Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1520984005908889632/yt2mJf9N9EprxM25pnFcLH3wEIEGryIZzYSmuyQhrN-zHGEAJS0WhC0wj54nMDPzp1os",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.027Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542217374701322310/ZqMKUGzMtjqPfJ53VojmGtWias22-6GFExKgnqTySq0-DgNCaqMcmc9gr2_6D20djvu5",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.033Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537260208324354089/vhe5PAGqNm4R7fAK5niRk-ODv3E-FF_MMuP2n4xZCzrtISGZLtyIghSsB8Hl_hyK4B2m",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.061Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542215590327095437/wjvLezllfpjTea4D4TGtg-ufa5MnmguuNeDULhXJGEy636BKH1nM-u2M4ILbqi_fRqyU",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.062Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1514503331597258815/yjXkjHKDtHMQ2YVPAZ1tHgIdxCIjrPD8ORL3y5ljEjfVlI1Qs8SZrOKylxySV710EfEr",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.068Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542212244543373485/qhAuWyEUzebcEymH8uQsho-djLBlFWdQZ1fm9jcdFBtuoDuV3-ysK4MyA-qkKIy3XJss",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.083Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541989951737167982/P26EGHvhgU5CPB8XkgVruQSBDF6jwpvz5JhCyN_-CcwcfwZoT4A7c_McBlJTYZdX6o4j",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.086Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541991805795700788/FT4lYa4YHvWWL3toQ_LO4Ne0micLnZBCq4mahR4_0-RvlTNqQXOZlZErcdGnCFrPJ7sl",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.099Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990787368091748/DnW05np7WE_ms5HIqR5z4V-Vmgg8S4D16gBV8MoyDgWvATO-G-Y10Z8tu0zaQdeSroSe",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.123Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541716427071819858/t30PNmg-72eTI9p5NnwPzDZGz6wm1B4DNWgPvHcQrMuNrnCQQSeb0bT5iyiKYH2ya3W1",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.223Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541640265461137538/YDaXpIpBQl0MWbIzeFLvcSTI4zbpPTqTkTgKfc1PusePVzOrtK6GiGC1CTlUx7Q78Hwa",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.238Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990942805069945/LK_0wkmRmEpQoxxmS6KPQtqXirvcy2HZoc4txVqLqhbRBrwf4DGiy9XYKUadNwE5tTXe",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.242Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1535123326513582112/0L3ZnSWw4sJxL5McXsNyjRT2kDNPlmK2pd8DxoWMhC5DmU8dSk-vUbHduQO-O7yhJ8-y",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.269Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541585989342859394/TThI62eXN_n2X13h7uop-eknAQJupFht6G4Dx14HEXoRh5BlizptN2BcuSgWUq6Ydtd0",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.285Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541784654326136873/ygFhAT3XQwgSGsnMrnl9c-6DFLkYt_TefUumfCvUn9Si_bqgofHhjkPzQZyzgkXlhxuD",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.290Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542003238608306207/3oUJJbQje0XRIoV1wkhLkRiquSnZdD1gObmzFtp-7xV2-IjiKjIx1DdE9JGggSRIiSCZ",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.346Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537244241108009001/BKjHrpuVJYoKIB2XFXELEUmdn5AA-KPjDyZrW-Owbu-04ztfmhsYQMZaRswnLJPizA58",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.359Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541917978021466274/vazXI01trpbh-fozTKvFthmCR-LcbQtpt9O_ENDvvhz0RV_COjKzT8NsdWThr8QqNwlq",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.360Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541582601473630290/FafPgDou17r4zwwB5KsvhNkjsdw_cUVprNv1D7764AacpRFAv-U9y5ppxMFakzzjkCPy",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.387Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583542092435566/P2Dd5-ZEVXbgO43UYVZsbt1dZzD5ESUDJNFmYorRSuWhnWwSfDOwAiztyAry2TIg3ErZ",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.394Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583647272861757/F0nnS4LCXDPleA3ERiM3JMModemBkzP4QklTuLUBPwqQ2N5svBqtd4EJtev72hJf_Y3N",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.405Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541582943665922048/ArBO2i-lfRhbkKMIx1BORDIx9GRwdis2gQDfbUdyKh1ag9F3S1cUvXb4D1WFWUdKl8au",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.495Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583365415768198/YEB8z7jTy-d4krmuIRIAK0Kpx22E_bsqlBJ1wpbsDInHWj_4fgq40uyRLMFfHswUGZM1",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.560Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541595512442982460/IjYT1oXwhh8Y56Fi57nrIkQLUjyFX8BuFWS7jox8A-78LZXs8rzIiMzg3G8Y6woH_tpZ",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.709Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541637002691223552/kw1RoUPlcge7tHA7Y0ftHDrUF8PZIsxAxhsfUFb9Fhb9uOvm4umFiGeITUCCuYtqR6pT",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.876Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1495909060170616884/5RthXmjPurDkhjpXkM_iQGa11-Gl-WnjGeRp-gq79piX5od5frIPqT1L-tGb-t-W06e7",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.894Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541696262347431996/SoiCLL6V8braAJe-8daOXcvcrlaCk3U_YUkEE6Iv8cxflz73dcKCpRF9Nqw3ZZfuG0wF",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.899Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1399672969462284429/9WzK1RPHcRlR5ERks42o7b5ii0CplUvUsXC1K3sjlq07xDhnM6tyuq4OqH94jzFTKwXc",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:39.974Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1038160738621071400/-Ysm6IGT58osi1JsnSUw2UEBO7pA1qTEvyiHu0iGDtzDwuPiCFuIj_rujGfv7Ogx7dzc",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.044Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1406661640732151828/cgMyFkUdojQcByZVekiDi02ueWq0jVfr8k7RjlPo7t_A3GbRtMl-7CDZcgMHau_E3_Af",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.358Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1408273388753129504/_w8oTulee_396ULSikz3My0yImCp-c2kyciTNCWJQIbM8uV35ZNuIRC4y0p6m6HionPT",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.444Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1409124445573873695/V6_VcCYNjCHoGIjcb9LqQyJwJBTQm-UtGvD6O6sBaOOJz_9ABIg-yxYOZu-dE5E12x7t",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.460Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1373196970763751464/jPsu1oO3Jip1XhyUMNP6t8iky-3yIPmSl4YW_LTQ4hLY9eLd3oYsuOlyduL-f5a8Wo7Z",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.544Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1410333374085857280/wd3SnzWcrsGQ5nTCPspKHCS8lSUVqMAuQqo24T9r2FSZ9jjYpX3XOOXOGascmTT7TgfZ",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.654Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1292959956357611682/t4dYiIvlhZ6iVt3d7yGavDyB-SLaMoWXO6LaOJ62g7y7U_tPkLG-iDFMYSehLgtDnews",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.667Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542423199860527154/WbofVJ4OF_hZtXkshynf3pj__fbAed255JDxzO9dIccqRgZ18yl-YQ4oN_KDUWlwuhbm",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.709Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1476219593893609573/GWS6ZxFxw1dQODkvylSSTBre9VnlkozCjnCU6BYTfAQIMJUOQ4K2o7jYeN5kCUdYKgmX",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.711Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542451950669271090/EGJV0gT6ZTpfskRdR2GAL5m8h8-jqJo5MygLn6JR9yVJtZ_OLo_0saWf0bR1iBbdj9Y_",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.735Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1353511267889053767/AAHMBVG7vyD0SHEFK3pYf8sxsYS9_MEbQhINx_c1ASJbG_1fMrMlo8EvCaeGcF5wulcT",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.926Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1298699024924151899/5_GM4ZKIRgFc04fthbYR6YtrcHXT_N-NG1lZVJQwpgCIWRyD2rUR_xnqYKQMMivvfnvh",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:40.974Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1334619793025925203/Il8yPSV08Dm5x2-cYCk04xImoRdbt_8PWNOCzXlSz3N_5u1C_iCIKCPRX1Zvb6trVAUQ",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:41.001Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1147262918199611484/mQyvGE3rE1MKGXpFLjKYKicyjyeV_Q7tvq3BVp9TdenHOQSk2qMohPGnHV5tiAoIA90l",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:41.180Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1539301251953459281/sjoCNigtLjuHW74MNP2fh-MbogXpQUvmkIzBohlTWjCQHdCnvDL5u0nvzZrTxyvYGCQU",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:41.277Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583062859780237/nWxnEbPCZPAq4AqqNLGL7rvF2kUquTQbexOxxMjQkU9TKwSyI2nvqKERSsbPv6e_IC6d",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:41.318Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1539301255543918702/nsKSB3gLqySOBdr6XPX5jdUo-Nseb-Pce-t2b6D9SDR7LTW7yqBi4Sa5ORNXePCFDj3y",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:41.329Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1324450942438871050/PXVreIUhLdpC8i9mA_pG65D8X60--19XE2LR5alJNXwZIv7DMz7mpJSMPajjaKmKkqBH",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:41.442Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1538622527864180771/OFYw8QoFH9wXWzuFa-8hG7Xlux3lTfX5AFyj4v247WBCW3Rmjbg1BjDHMVv62liVBDmP",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:41.444Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1412523374445596752/oL41bfjmy73q-ZSDZ7RBjd3N1BPTJIEh6hceW6cCMB9rQ1j4hGy3H14CoDM46DTXiAlC",
+    "source": "vwebhook_auto_purge",
+    "reason": "Dead / 404 during vwebhook check",
+    "checkedAt": "2026-08-27T12:59:41.466Z"
   }
 ]
