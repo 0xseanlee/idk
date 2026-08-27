@@ -2461,5 +2461,50 @@
     "commitSha": "dad8b93458b0fd67bb73329105457a9c5c07aaa6",
     "source": "Tumult1337/smokeping-go/dad8b93458b0fd67bb73329105457a9c5c07aaa6",
     "reason": "No webhook pattern found"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1437559378529095760/LBVgyLa0_8WCa27KvVw1CDZllrDTmXsYYi9RbhV8GCIso82927kKi0dHjpaZiV7COEbW",
+    "source": "manual_import",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1534228797333704784/PabBX-26YiBpgX5Ax11XzIEkwcxvZWLvTdkz73oETQVPR400oxiQXCB3YVbzWoAMoTeh",
+    "source": "manual_import",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542272268896444497/9UbbiiSFA6ykNG30f-eEE5e0sUVfwpz-q1cdTYDp3dY3xw4XaGKRontnKYXFF13bVTLo",
+    "source": "missionchiefdispatchers-ai/MissionChief_dispatchers_site/f819ec5e8865bf9d1337ee7b22db7a61890ebc6a/script.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1442982398756257914/QFnEGwYxqWW5cYNzaY9O489U2unJWpfUpagSPUo2NEq-mWa0E1OMu75-9SkIo5n1dARN",
+    "source": "cloudboy-jh/churn/ff71d8ffb0e864ea667eac3cfbd3396a8e8301c4/.github/workflows/discord-commits.yml",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1440729780986318848/lgpcwCFeGN4nX0xYpeNjxth-ZID-KBPCb8kMV8rMNe0ILkHYrOYq0Q9ZM1Bya3qmsH5n",
+    "source": "anondevv69/infobot/def62eada404aad4ff786bb1110e639b77e8c14e/LOGGING_SETUP.md",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1347955350195929088/8bOudKDzusU5LQVPllbs236I4UZVCWPhCCi6pDJvoJ9zG1YH0NXSg0zZESO5H091BJ5T",
+    "source": "Viktrix8/sellex/c370e6e9b285fb83f4b2b4f6bd3e6a05460f80e8/src/app/api/tickets/create/route.ts",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1339722452904968245/zefgzYUHAy_kCa4X6rycmRlD2brwD9uYhVUHXdpnB-u-wPKOF12sMC7_TFXXI-HpPW36",
+    "source": "HeroOfSpielberg/warframe_api_alert/dcd7d786d8994a5d8e215c9dfcfa6ec4622f980a/item_fetch_discord.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1304084233052225547/iFurL29amzLukt-Un6HC0fdE2TiwVJLw0UL5_TjYTdai19ttCSwHr-JvtvEnlyZkqNee",
+    "source": "Trusstree/woomzip_frontend/4f47c844495dcb3cebceb60591ca6f2711ddefa5/src/actions/apis/alarmAPI.ts",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1474639674478952739/5apeBluL80iW956ckoKCZWA7fw059Cn3LWPcaWqZijwS7qBE9SpnX7LWOI8Cn9V0PzuA",
+    "source": "plangeberg/intake/ffbb41aa98ab36e503879557fc3302783bbfed63/config.py",
+    "reason": "Webhook revoked / Dead during re-check"
   }
 ]
