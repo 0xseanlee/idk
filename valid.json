@@ -1,1 +1,230 @@
-[]
+[
+  {
+    "url": "https://discord.com/api/webhooks/1542321961001025548/FY2xKBvM6APL-khHJXaGJ5SMonmt2mn5CRMexkLPhonedZxu78aV6T6TitHF9EYFU0mv",
+    "source": "dalasnouri497-cell/dodo/07494e5d887e2ac75cbe62b85e95c56b0122b1f4/config.js",
+    "commitMessage": "Enable live Discord Webhook logging and real OAuth2 user ID sync",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-27T00:58:15.000+01:00",
+    "commitUrl": "https://github.com/dalasnouri497-cell/dodo/commit/07494e5d887e2ac75cbe62b85e95c56b0122b1f4",
+    "webhookData": {
+      "application_id": "1542163343484125204",
+      "avatar": null,
+      "channel_id": "1542210979318857770",
+      "guild_id": "833297719908368384",
+      "id": "1542321961001025548",
+      "name": "Blackstore Orders Log",
+      "type": 1,
+      "token": "FY2xKBvM6APL-khHJXaGJ5SMonmt2mn5CRMexkLPhonedZxu78aV6T6TitHF9EYFU0mv",
+      "url": "https://discord.com/api/webhooks/1542321961001025548/FY2xKBvM6APL-khHJXaGJ5SMonmt2mn5CRMexkLPhonedZxu78aV6T6TitHF9EYFU0mv"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542317690255839402/lJKv3K4988iwAhvc7Jpay8zvBhJ4aXB3dL6GMPGR8o4D9FauC3cuGoIcrOTfJBzAZkPU",
+    "source": "anasmouquinee/omnipulse-ai-studio/8a1310c5841edb9929cfee093ec5917ac0e057ab/.github/workflows/autopilot-cron.yml",
+    "commitMessage": "feat(discord): configured user Discord webhook as default for instant notifications",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-27T00:40:53.000+01:00",
+    "commitUrl": "https://github.com/anasmouquinee/omnipulse-ai-studio/commit/8a1310c5841edb9929cfee093ec5917ac0e057ab",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542317661780975616",
+      "guild_id": "1139785161966370877",
+      "id": "1542317690255839402",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "lJKv3K4988iwAhvc7Jpay8zvBhJ4aXB3dL6GMPGR8o4D9FauC3cuGoIcrOTfJBzAZkPU",
+      "url": "https://discord.com/api/webhooks/1542317690255839402/lJKv3K4988iwAhvc7Jpay8zvBhJ4aXB3dL6GMPGR8o4D9FauC3cuGoIcrOTfJBzAZkPU"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542272268896444497/9UbbiiSFA6ykNG30f-eEE5e0sUVfwpz-q1cdTYDp3dY3xw4XaGKRontnKYXFF13bVTLo",
+    "source": "missionchiefdispatchers-ai/MissionChief_dispatchers_site/f819ec5e8865bf9d1337ee7b22db7a61890ebc6a/script.js",
+    "commitMessage": "Update DISCORD_WEBHOOK_URL to obfuscated value",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T18:32:38.000-05:00",
+    "commitUrl": "https://github.com/missionchiefdispatchers-ai/MissionChief_dispatchers_site/commit/f819ec5e8865bf9d1337ee7b22db7a61890ebc6a",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1530016901671948408",
+      "guild_id": "1528794749970944000",
+      "id": "1542272268896444497",
+      "name": "DC2",
+      "type": 1,
+      "token": "9UbbiiSFA6ykNG30f-eEE5e0sUVfwpz-q1cdTYDp3dY3xw4XaGKRontnKYXFF13bVTLo",
+      "url": "https://discord.com/api/webhooks/1542272268896444497/9UbbiiSFA6ykNG30f-eEE5e0sUVfwpz-q1cdTYDp3dY3xw4XaGKRontnKYXFF13bVTLo"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509279615921815747/EQtW417anG62OTnJYgmZJe9E-klKpVuIQ1LGzIFn2qRrpp5bgnRAunc_oElKBW6zTT98",
+    "source": "kameramerate-star/aimesp/151207c3b810a523e80945fc613e8311c2a318e8/espaim",
+    "commitMessage": "Implement Discord webhook for script execution notifications\n\nAdded a webhook notification feature to notify Discord when the script is executed.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-27T20:34:49.000-03:00",
+    "commitUrl": "https://github.com/kameramerate-star/aimesp/commit/151207c3b810a523e80945fc613e8311c2a318e8",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "d7fea56d5fcf5721b60c7ce8f4fc850f",
+      "channel_id": "1509278981558636576",
+      "guild_id": "1509278979612348697",
+      "id": "1509279615921815747",
+      "name": "maldade das maldade",
+      "type": 1,
+      "token": "EQtW417anG62OTnJYgmZJe9E-klKpVuIQ1LGzIFn2qRrpp5bgnRAunc_oElKBW6zTT98",
+      "url": "https://discord.com/api/webhooks/1509279615921815747/EQtW417anG62OTnJYgmZJe9E-klKpVuIQ1LGzIFn2qRrpp5bgnRAunc_oElKBW6zTT98"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509022602671427695/76fqELDrhV9Pj7TAd7fvq56VQTIUMi8ZwokSwaWSN-rWq0zMlUDr4zfhFJd35_Ioocyr",
+    "source": "bshk93/nbn-api/81ee21349cbd7e3659e5cff9287d70ecad9843fd/routers/bets.py",
+    "commitMessage": "Refactor: split 4664-line main.py into focused router modules\n\nrouters/constants.py  — paths, VALID_TEAMS, locks, shared constants\nrouters/storage.py    — read_csv, write_csv, log_write, _load_json/_save_json, shared helpers\nrouters/auth.py       — auth deps + member/token routes\nrouters/players.py    — player bios, OVR, jersey, team-map\nrouters/roster_picks.py — roster, picks, trading-block, team-state, deadcap, rules\nrouters/transactions.py — transactions, validation, apply logic (~1200 lines)\nrouters/boxscores.py  — boxscore parse/commit/upload/pending + build trigger\nrouters/bets.py       — bets, balances, ledger, Discord webhooks\nrouters/proposals.py  — proposals + constitution\nrouters/misc.py       — awards, calendar, trivia, rookie-scale, cap-levels, standings\n\nmain.py shrinks from 4664 → 32 lines (app init + include_router calls).\nNo behavior changes.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-27T20:26:48.000Z",
+    "commitUrl": "https://github.com/bshk93/nbn-api/commit/81ee21349cbd7e3659e5cff9287d70ecad9843fd",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "443868d8edab1bdce0e9b48d7b6b8877",
+      "channel_id": "1509019074322239689",
+      "guild_id": "663877058405072901",
+      "id": "1509022602671427695",
+      "name": "NBN.Today BOOKIE",
+      "type": 1,
+      "token": "76fqELDrhV9Pj7TAd7fvq56VQTIUMi8ZwokSwaWSN-rWq0zMlUDr4zfhFJd35_Ioocyr",
+      "url": "https://discord.com/api/webhooks/1509022602671427695/76fqELDrhV9Pj7TAd7fvq56VQTIUMi8ZwokSwaWSN-rWq0zMlUDr4zfhFJd35_Ioocyr"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1508896517677649980/bQ_GZmIB931fWeMmbP0ujRz42N9gJlIGFhau7-Aen6rgR9tdOYBa41dl61UmFZsrf4CS",
+    "source": "rolandwichmann94-design/Roland-ling/e4c7888c559275c100e898057bdc133631300b7e/Roland ling",
+    "commitMessage": "Add GUI for sending messages to Discord webhook",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-27T20:40:41.000+02:00",
+    "commitUrl": "https://github.com/rolandwichmann94-design/Roland-ling/commit/e4c7888c559275c100e898057bdc133631300b7e",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1464302157229457442",
+      "guild_id": "1464302156067897692",
+      "id": "1508896517677649980",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "bQ_GZmIB931fWeMmbP0ujRz42N9gJlIGFhau7-Aen6rgR9tdOYBa41dl61UmFZsrf4CS",
+      "url": "https://discord.com/api/webhooks/1508896517677649980/bQ_GZmIB931fWeMmbP0ujRz42N9gJlIGFhau7-Aen6rgR9tdOYBa41dl61UmFZsrf4CS"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509236757277708391/q01BcfdfN7Ya80lyOrM5v1m0JZQI7oT9xZHIo8eSx0SHPArpncB_NihO5MAfPVeepbXZ",
+    "source": "np28tys55h-rgb/-my-stock-radar/9f6fef6d3ab7ef6028a94046cde9a0fef552adb4",
+    "commitMessage": "Create taiwan_stock.p\n\nimport os\r\nimport sys\r\nimport time\r\n\r\n# ==========================================\r\n# 🌟 iPhone 免黑視窗專用：自動下載環境套件\r\n# ==========================================\r\ntry:\r\n    import yfinance as yf\r\n    import lxml\r\nexcept ImportError:\r\n    print(\"📡 偵測到雲端主機尚未安裝套件，正在自動幫您裝載環境...\")\r\n    os.system(f\"{sys.executable} -m pip install --user yfinance pandas lxml\")\r\n    print(\"✅ 環境裝載成功！重啟程式中...\")\r\n    # 讓程式自動重新讀取新安裝的套件\r\n    os.execv(sys.executable, ['python3'] + sys.argv)\r\n\r\nimport requests\r\nimport pandas as pd\r\nfrom datetime import datetime\r\n\r\n# ==========================================\r\n# ⚙️ 核心設定區：您的 Discord Webhook 網址\r\n# ==========================================\r\nDISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1509236757277708391/q01BcfdfN7Ya80lyOrM5v1m0JZQI7oT9xZHIo8eSx0SHPArpncB_NihO5MAfPVeepbXZ'\r\n\r\ndef send_discord(message):\r\n    \"\"\"發送 Discord 通知\"\"\"\r\n    payload = {\"content\": message}\r\n    try:\r\n        response = requests.post(DISCORD_WEBHOOK_URL, json=payload)\r\n        return response.status_code in [200, 204]\r\n    except:\r\n        return False\r\n\r\ndef get_all_tw_tickers():\r\n    \"\"\"自動從證交所抓取所有最新的上市股票代號，並過濾掉權證與ETF\"\"\"\r\n    print(\"📡 正在向台灣證券交易所獲取最新股票清單...\")\r\n    url = \"https://isin.twse.com.tw/isin/C_public.jsp?strMode=2\"\r\n    \r\n    try:\r\n        tables = pd.read_html(url)\r\n        df = tables[0]\r\n        df.columns = df.iloc[0]\r\n        df = df.iloc[1:]\r\n        \r\n        df = df[df['CFICode'] == 'ESVTFR']\r\n        \r\n        ticker_dict = {}\r\n        for item in df['有價證券代號及名稱']:\r\n            try:\r\n                code, name = item.split('\\u3000')\r\n                if len(code) == 4 and code.isdigit():\r\n                    ticker_dict[f\"{code}.TW\"] = name\r\n            except:\r\n                continue\r\n                \r\n        print(f\"✅ 成功獲取上市股票共 {len(ticker_dict)} 檔！\")\r\n        return ticker_dict\r\n    except Exception as e:\r\n        print(f\"❌ 擷取證交所清單失敗: {e}\")\r\n        return {\"2330.TW\": \"台積電\", \"2317.TW\": \"鴻海\"}\r\n\r\ndef scan_engine(stock_code, name):\r\n    \"\"\"核心濾網邏輯：均線糾結 + 爆量突破\"\"\"\r\n    try:\r\n        stock = yf.Ticker(stock_code)\r\n        df = stock.history(period=\"35d\", progress=False)\r\n        \r\n        if len(df) < 20:\r\n            return False\r\n            \r\n        df = df.reset_index()\r\n        df.columns = df.columns.str.lower()\r\n        \r\n        df['ma5'] = df['close'].rolling(5).mean()\r\n        df['ma10'] = df['close'].rolling(10).mean()\r\n        df['ma20'] = df['close'].rolling(20).mean()\r\n        df['vol_ma20'] = df['volume'].rolling(20).mean()\r\n        \r\n        today = df.iloc[-1]\r\n        today_vol_sheets = today['volume'] / 1000\r\n        avg_vol_20d_sheets = today['vol_ma20'] / 1000\r\n        \r\n        ma_list = [today['ma5'], today['ma10'], today['ma20']]\r\n        dispersion = (max(ma_list) - min(ma_list)) / today['close'] * 100\r\n        \r\n        is_糾結 = dispersion <= 2.5\r\n        is_站上均線 = today['close'] > max(ma_list)\r\n        is_爆量 = today['volume'] > (today['vol_ma20'] * 1.8) and today_vol_sheets > 1000\r\n        is_紅K = today['close'] > today['open'] * 1.025\r\n        \r\n        if is_糾結 and is_站上均線 and is_爆量 and is_紅K:\r\n            msg = (\r\n                f\"```ini\\n\"\r\n                f\"🌟【全台股掃描：黑馬突破股現形】🌟\\n\"\r\n                f\"📌 股票：{stock_code.split('.')[0]} {name}\\n\"\r\n                f\"📈 收盤價：{today['close']:.2f} 元\\n\"\r\n                f\"📐 均線密集度：{dispersion:.2f}% (籌碼高度集中)\\n\"\r\n                f\"📊 今日成交量：{today_vol_sheets:.0f} 張 (達20日均量 {today_vol_sheets/max(1, avg_vol_20d_sheets):.1f} 倍)\\n\"\r\n                f\"📋 實戰備忘：此檔橫盤整理平台遭帶量長紅突破，請列入明日自選焦點！\\n\"\r\n                f\"```\"\r\n            )\r\n            send_discord(msg)\r\n            print(f\"🎯 發現標的：{stock_code} {name}\")\r\n            return True\r\n    except:\r\n        pass\r\n    return False\r\n\r\nif __name__ == \"__main__\":\r\n    start_time = datetime.now()\r\n    send_discord(f\"🚀 全台股雷達開工！開始全面清洗 1000 多檔標的...\")\r\n    \r\n    watch_list = get_all_tw_tickers()\r\n    match_count = 0\r\n    \r\n    for i, (code, name) in enumerate(watch_list.items()):\r\n        if i % 50 == 0 and i > 0:\r\n            time.sleep(0.5)\r\n            print(f\"已掃描 {i} 檔股票...\")\r\n            \r\n        if scan_engine(code, name):\r\n            match_count += 1\r\n            \r\n    end_time = datetime.now()\r\n    duration = (end_time - start_time).seconds\r\n    \r\n    report = f\"🏁 全台股地毯式掃描完畢！\\n⏱️ 總耗時：{duration // 60} 分 {duration % 60} 秒\\n🎯 今日符合【糾結爆量突破】共：{match_count} 檔。\"\r\n    print(report)\r\n    send_discord(f\"```\\n{report}\\n```\")",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-28T02:23:41.000+08:00",
+    "commitUrl": "https://github.com/np28tys55h-rgb/-my-stock-radar/commit/9f6fef6d3ab7ef6028a94046cde9a0fef552adb4",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1509224859161329764",
+      "guild_id": "1475833483694702697",
+      "id": "1509236757277708391",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "q01BcfdfN7Ya80lyOrM5v1m0JZQI7oT9xZHIo8eSx0SHPArpncB_NihO5MAfPVeepbXZ",
+      "url": "https://discord.com/api/webhooks/1509236757277708391/q01BcfdfN7Ya80lyOrM5v1m0JZQI7oT9xZHIo8eSx0SHPArpncB_NihO5MAfPVeepbXZ"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1473938540139253834/XXWsRliRH7keLMEKrlnCcPPriR-iniyUhfCZU9MubNBBoZESBOLgvl8GqBAwYdajiEp7",
+    "source": "FREELABEL/iris-daemon/8c15f7596494609be818d8d43628923644fd998b/som/batch-with-login.spec.ts",
+    "commitMessage": "security: purge hardcoded credentials from all client-shipped files\n\nCRITICAL fixes from production readiness audit (#109803, #109794, #109560):\n\n- auth-helper.ts: removed hardcoded admin profile (id:193, email, phone,\n  session key). Now reads user_id from ~/.iris/config.json\n- 5 SOM spec files: removed hardcoded API token (ca54cd87...) and\n  Discord webhook URL. Now require HEYIRIS_TOKEN env var\n- som-config.js: removed 9 inline Freelabel campaigns (board IDs, IG\n  accounts). Now API-only with disk cache fallback\n- index.js: CORS allowlist reads from config.json + BRIDGE_CORS_ORIGINS env\n- task-executor.js: findFreelabelPath() removed 6 hardcoded ~/Sites/freelabel\n  guesses. custom_playwright uses findFreelabelPath() instead of hardcoded paths.\n  Added hive_search task type, _saveToHiveInbox with encryption + auto-prune.\n\nZero hardcoded credentials remain in client-shipped code.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-26T22:25:14.000-05:00",
+    "commitUrl": "https://github.com/FREELABEL/iris-daemon/commit/8c15f7596494609be818d8d43628923644fd998b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1473938461055516692",
+      "guild_id": "872124790876549170",
+      "id": "1473938540139253834",
+      "name": "LMKBOT",
+      "type": 1,
+      "token": "XXWsRliRH7keLMEKrlnCcPPriR-iniyUhfCZU9MubNBBoZESBOLgvl8GqBAwYdajiEp7",
+      "url": "https://discord.com/api/webhooks/1473938540139253834/XXWsRliRH7keLMEKrlnCcPPriR-iniyUhfCZU9MubNBBoZESBOLgvl8GqBAwYdajiEp7"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537817848661942372/Kz6jjYs0OU7YP5Xz3TpeaLIivtASMsA9Njb_sGmwoqF_xYKcbVvSP1GuF0AymVZYJv7E",
+    "source": "KinsBand/kins-link-tree/49907f7c60e652b19d58387433933a4dca899ae3/src/components/modals/CommunitySubmissionModal.astro",
+    "commitMessage": "Update Discord webhooks & submission flows\n\nReplace legacy discordapp.com webhooks with new discord.com endpoints and standardize embed formatting across CommunitySubmissionModal, FeedbackModal, and feedback API. Adjust embed titles, colors, field names, emojis and footers (including unified 'Kins Site Diagnostics' footer). Enhance requestSongController: make handler async, disable button with spinner during submit, send cover requests to a dedicated webhook with richer embed (reason, contact), and add error handling for webhook failures.",
+    "matchedKeyword": "discordapp.com/api/webhooks",
+    "commitDate": "2026-08-15T00:19:07.000+10:00",
+    "commitUrl": "https://github.com/KinsBand/kins-link-tree/commit/49907f7c60e652b19d58387433933a4dca899ae3",
+    "webhookData": {
+      "application_id": "1531151386761236692",
+      "avatar": null,
+      "channel_id": "1537817841301192865",
+      "guild_id": "1531126774061203524",
+      "id": "1537817848661942372",
+      "name": "Kins Fan Clip Submissions",
+      "type": 1,
+      "token": "Kz6jjYs0OU7YP5Xz3TpeaLIivtASMsA9Njb_sGmwoqF_xYKcbVvSP1GuF0AymVZYJv7E",
+      "url": "https://discord.com/api/webhooks/1537817848661942372/Kz6jjYs0OU7YP5Xz3TpeaLIivtASMsA9Njb_sGmwoqF_xYKcbVvSP1GuF0AymVZYJv7E"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537823829039124541/ePyQFBCtvGO9nHQWWopo6l4NDvjiweDq0R1WeURZBxsuAVpqco4hM0LC1r9nXnrpEuJg",
+    "source": "KinsBand/kins-link-tree/49907f7c60e652b19d58387433933a4dca899ae3/src/components/modals/FeedbackModal.astro",
+    "commitMessage": "Update Discord webhooks & submission flows\n\nReplace legacy discordapp.com webhooks with new discord.com endpoints and standardize embed formatting across CommunitySubmissionModal, FeedbackModal, and feedback API. Adjust embed titles, colors, field names, emojis and footers (including unified 'Kins Site Diagnostics' footer). Enhance requestSongController: make handler async, disable button with spinner during submit, send cover requests to a dedicated webhook with richer embed (reason, contact), and add error handling for webhook failures.",
+    "matchedKeyword": "discordapp.com/api/webhooks",
+    "commitDate": "2026-08-15T00:19:07.000+10:00",
+    "commitUrl": "https://github.com/KinsBand/kins-link-tree/commit/49907f7c60e652b19d58387433933a4dca899ae3",
+    "webhookData": {
+      "application_id": "1531151386761236692",
+      "avatar": null,
+      "channel_id": "1537823824496820285",
+      "guild_id": "1531126774061203524",
+      "id": "1537823829039124541",
+      "name": "Kins Bug Issues Webhook",
+      "type": 1,
+      "token": "ePyQFBCtvGO9nHQWWopo6l4NDvjiweDq0R1WeURZBxsuAVpqco4hM0LC1r9nXnrpEuJg",
+      "url": "https://discord.com/api/webhooks/1537823829039124541/ePyQFBCtvGO9nHQWWopo6l4NDvjiweDq0R1WeURZBxsuAVpqco4hM0LC1r9nXnrpEuJg"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537823842880192573/B11FLr0cU92wYSN_8Jl06K8gARQjvtznFJzL5ZZmXZISABg0RSHHVbxjmS_sjk4LaF8k",
+    "source": "KinsBand/kins-link-tree/49907f7c60e652b19d58387433933a4dca899ae3/src/components/modals/FeedbackModal.astro",
+    "commitMessage": "Update Discord webhooks & submission flows\n\nReplace legacy discordapp.com webhooks with new discord.com endpoints and standardize embed formatting across CommunitySubmissionModal, FeedbackModal, and feedback API. Adjust embed titles, colors, field names, emojis and footers (including unified 'Kins Site Diagnostics' footer). Enhance requestSongController: make handler async, disable button with spinner during submit, send cover requests to a dedicated webhook with richer embed (reason, contact), and add error handling for webhook failures.",
+    "matchedKeyword": "discordapp.com/api/webhooks",
+    "commitDate": "2026-08-15T00:19:07.000+10:00",
+    "commitUrl": "https://github.com/KinsBand/kins-link-tree/commit/49907f7c60e652b19d58387433933a4dca899ae3",
+    "webhookData": {
+      "application_id": "1531151386761236692",
+      "avatar": null,
+      "channel_id": "1537823838509989969",
+      "guild_id": "1531126774061203524",
+      "id": "1537823842880192573",
+      "name": "Kins Content Fixes Webhook",
+      "type": 1,
+      "token": "B11FLr0cU92wYSN_8Jl06K8gARQjvtznFJzL5ZZmXZISABg0RSHHVbxjmS_sjk4LaF8k",
+      "url": "https://discord.com/api/webhooks/1537823842880192573/B11FLr0cU92wYSN_8Jl06K8gARQjvtznFJzL5ZZmXZISABg0RSHHVbxjmS_sjk4LaF8k"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537817839199854622/MHgzq6-LRPJzNybsWx_wRhR7zDl5sCslZNxzHQtQRcMAn5rrB3Qu46X2IpNaMiP2uYXV",
+    "source": "KinsBand/kins-link-tree/49907f7c60e652b19d58387433933a4dca899ae3/src/scripts/controllers/requestSongController.js",
+    "commitMessage": "Update Discord webhooks & submission flows\n\nReplace legacy discordapp.com webhooks with new discord.com endpoints and standardize embed formatting across CommunitySubmissionModal, FeedbackModal, and feedback API. Adjust embed titles, colors, field names, emojis and footers (including unified 'Kins Site Diagnostics' footer). Enhance requestSongController: make handler async, disable button with spinner during submit, send cover requests to a dedicated webhook with richer embed (reason, contact), and add error handling for webhook failures.",
+    "matchedKeyword": "discordapp.com/api/webhooks",
+    "commitDate": "2026-08-15T00:19:07.000+10:00",
+    "commitUrl": "https://github.com/KinsBand/kins-link-tree/commit/49907f7c60e652b19d58387433933a4dca899ae3",
+    "webhookData": {
+      "application_id": "1531151386761236692",
+      "avatar": null,
+      "channel_id": "1537817834242056222",
+      "guild_id": "1531126774061203524",
+      "id": "1537817839199854622",
+      "name": "Kins Cover Request System",
+      "type": 1,
+      "token": "MHgzq6-LRPJzNybsWx_wRhR7zDl5sCslZNxzHQtQRcMAn5rrB3Qu46X2IpNaMiP2uYXV",
+      "url": "https://discord.com/api/webhooks/1537817839199854622/MHgzq6-LRPJzNybsWx_wRhR7zDl5sCslZNxzHQtQRcMAn5rrB3Qu46X2IpNaMiP2uYXV"
+    }
+  }
+]
