@@ -834,5 +834,1278 @@
       "token": "zYhBDax0fFozoPL3pxGo1trK6aTEBQdcGLl1bxaoAgYY02NhVFss5byQbZWAsd9z0Fht",
       "url": "https://discord.com/api/webhooks/1483087842333823126/zYhBDax0fFozoPL3pxGo1trK6aTEBQdcGLl1bxaoAgYY02NhVFss5byQbZWAsd9z0Fht"
     }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542279675177607328/UgR5jORPr8ZkaA9g95tBFrE3dMNkjwUxrxSBtAWE4v-dZYct7hdKcgRI0M1AqfZPxjYb",
+    "source": "LukeCOULON/tools/1c76b1aea24a32af396b890120cd2f83a6972161/config.json",
+    "commitMessage": "Update Discord webhook URL in config.json",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T23:21:09.000+02:00",
+    "commitUrl": "https://github.com/LukeCOULON/tools/commit/1c76b1aea24a32af396b890120cd2f83a6972161",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542279637227409499",
+      "guild_id": "1532633520827138098",
+      "id": "1542279675177607328",
+      "name": "picgrabber",
+      "type": 1,
+      "token": "UgR5jORPr8ZkaA9g95tBFrE3dMNkjwUxrxSBtAWE4v-dZYct7hdKcgRI0M1AqfZPxjYb",
+      "url": "https://discord.com/api/webhooks/1542279675177607328/UgR5jORPr8ZkaA9g95tBFrE3dMNkjwUxrxSBtAWE4v-dZYct7hdKcgRI0M1AqfZPxjYb"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1535123326513582112/0L3ZnSWw4sJxL5McXsNyjRT2kDNPlmK2pd8DxoWMhC5DmU8dSk-vUbHduQO-O7yhJ8-y",
+    "source": "null8878/homelab-network/3ce68c41b86a00014ab2488522ff5236c12db17e/dating-monitor.py",
+    "commitMessage": "Homelab network stack: transparent DNS filtering, privacy, power management, dating monitor\n\n- NetGuard: ARP spoof transparent DNS redirect for all LAN devices\n- AdGuard Home: 13 blocklists, DoH/DoT encrypted upstream, data broker blocking\n- Dating Monitor: Discord webhook alerts for dating site visits\n- TLP: Intel HWP dynamic scaling (400MHz idle to 4.7GHz burst)\n- Powertop: auto-tune kernel power saving on boot\n- Network speed: BBR congestion control, larger TCP buffers, DNS caching",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T17:08:39.000-04:00",
+    "commitUrl": "https://github.com/null8878/homelab-network/commit/3ce68c41b86a00014ab2488522ff5236c12db17e",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1524880131636723936",
+      "guild_id": "1524880131091468348",
+      "id": "1535123326513582112",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "0L3ZnSWw4sJxL5McXsNyjRT2kDNPlmK2pd8DxoWMhC5DmU8dSk-vUbHduQO-O7yhJ8-y",
+      "url": "https://discord.com/api/webhooks/1535123326513582112/0L3ZnSWw4sJxL5McXsNyjRT2kDNPlmK2pd8DxoWMhC5DmU8dSk-vUbHduQO-O7yhJ8-y"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542217374701322310/ZqMKUGzMtjqPfJ53VojmGtWias22-6GFExKgnqTySq0-DgNCaqMcmc9gr2_6D20djvu5",
+    "source": "higor119/keyauth-higor/3a76ffd4d7c8117d3cc057b3dd7764a524acf879/server.js",
+    "commitMessage": "Add Oliveira Store official logo to Discord Webhook and Web Admin Panel",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T15:42:56.000-03:00",
+    "commitUrl": "https://github.com/higor119/keyauth-higor/commit/3a76ffd4d7c8117d3cc057b3dd7764a524acf879",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542217353209847888",
+      "guild_id": "1455104084502646919",
+      "id": "1542217374701322310",
+      "name": "Spoofer higor",
+      "type": 1,
+      "token": "ZqMKUGzMtjqPfJ53VojmGtWias22-6GFExKgnqTySq0-DgNCaqMcmc9gr2_6D20djvu5",
+      "url": "https://discord.com/api/webhooks/1542217374701322310/ZqMKUGzMtjqPfJ53VojmGtWias22-6GFExKgnqTySq0-DgNCaqMcmc9gr2_6D20djvu5"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542212244543373485/qhAuWyEUzebcEymH8uQsho-djLBlFWdQZ1fm9jcdFBtuoDuV3-ysK4MyA-qkKIy3XJss",
+    "source": "solimankhalid2012-ctrl/3d-store/ac22c155d57d8a542a18d317bc454453029ff4e0/js/main.js",
+    "commitMessage": "3D Store x98 - FiveM cyberpunk store with Discord webhook",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T21:21:41.000+03:00",
+    "commitUrl": "https://github.com/solimankhalid2012-ctrl/3d-store/commit/ac22c155d57d8a542a18d317bc454453029ff4e0",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541863520843595867",
+      "guild_id": "1535098366709735436",
+      "id": "1542212244543373485",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "qhAuWyEUzebcEymH8uQsho-djLBlFWdQZ1fm9jcdFBtuoDuV3-ysK4MyA-qkKIy3XJss",
+      "url": "https://discord.com/api/webhooks/1542212244543373485/qhAuWyEUzebcEymH8uQsho-djLBlFWdQZ1fm9jcdFBtuoDuV3-ysK4MyA-qkKIy3XJss"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1540819156927123516/aXP9qH7jsX1-9FraDyHcgQwoEmAxqh-LDTSU66BzuIXyKlX3NAw0UsPLUMQBXeH8E4jF",
+    "source": "deanizzo/ESPN-Auction-Watcher/683c090f8f100fb340e7cd81624a63119692e67a/draft_listener.py",
+    "commitMessage": "Replace Discord webhook URL with placeholder\n\nUpdated Discord webhook URL to a placeholder.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T13:51:21.000-04:00",
+    "commitUrl": "https://github.com/deanizzo/ESPN-Auction-Watcher/commit/683c090f8f100fb340e7cd81624a63119692e67a",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1540818934339600527",
+      "guild_id": "1513319918160974024",
+      "id": "1540819156927123516",
+      "name": "nominee",
+      "type": 1,
+      "token": "aXP9qH7jsX1-9FraDyHcgQwoEmAxqh-LDTSU66BzuIXyKlX3NAw0UsPLUMQBXeH8E4jF",
+      "url": "https://discord.com/api/webhooks/1540819156927123516/aXP9qH7jsX1-9FraDyHcgQwoEmAxqh-LDTSU66BzuIXyKlX3NAw0UsPLUMQBXeH8E4jF"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542225652713918474/EcGN_3XfPA0-173QXQEA6PqVaUdhhKcRtW0EjAmnwzOaAkugdUwK5fZtcmypBVUzCROG",
+    "source": "Muhadib4/Pomodoro-Micro-Habit-Dashboard/0f6dbf8250d070fe97057354423931ead297b9ba/src/js/webhook.js",
+    "commitMessage": "feat: Implement theme manager and enhance UI with CSS variables\n\n- Added CSS variables for dark and light themes in main.css.\n- Updated body styles and scrollbar customization for better aesthetics.\n- Refactored i18n.js to improve translation handling and added new keys.\n- Introduced app.js for managing timer logic, tasks, and habits.\n- Created theme.js for toggling between dark and light modes.\n- Added webhook.js for logging user visits via Discord webhook.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-27T00:50:06.000+07:00",
+    "commitUrl": "https://github.com/Muhadib4/Pomodoro-Micro-Habit-Dashboard/commit/0f6dbf8250d070fe97057354423931ead297b9ba",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542225560577642588",
+      "guild_id": "821638422665101354",
+      "id": "1542225652713918474",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "EcGN_3XfPA0-173QXQEA6PqVaUdhhKcRtW0EjAmnwzOaAkugdUwK5fZtcmypBVUzCROG",
+      "url": "https://discord.com/api/webhooks/1542225652713918474/EcGN_3XfPA0-173QXQEA6PqVaUdhhKcRtW0EjAmnwzOaAkugdUwK5fZtcmypBVUzCROG"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542215590327095437/wjvLezllfpjTea4D4TGtg-ufa5MnmguuNeDULhXJGEy636BKH1nM-u2M4ILbqi_fRqyU",
+    "source": "matheuspcgamerconfig-stack/xiters-cheat-engine/5afddf49dbf193cf442f02b63d673b5e8513c3a7/cheat.lua",
+    "commitMessage": "Atualizando webhook Discord para webhook ativo",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T13:58:47.000-03:00",
+    "commitUrl": "https://github.com/matheuspcgamerconfig-stack/xiters-cheat-engine/commit/5afddf49dbf193cf442f02b63d673b5e8513c3a7",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1539701837056315512",
+      "guild_id": "1441493226455433269",
+      "id": "1542215590327095437",
+      "name": "Hub",
+      "type": 1,
+      "token": "wjvLezllfpjTea4D4TGtg-ufa5MnmguuNeDULhXJGEy636BKH1nM-u2M4ILbqi_fRqyU",
+      "url": "https://discord.com/api/webhooks/1542215590327095437/wjvLezllfpjTea4D4TGtg-ufa5MnmguuNeDULhXJGEy636BKH1nM-u2M4ILbqi_fRqyU"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542222063887188008/JDDi1AKM7lUhE9fHovfyi2ZT-4a6pZnF3ZZHWVEYDClqtZh9GyXI-TQDQvUaSs2j2Ihq",
+    "source": "LukeCOULON/hy/c2541a6e80eee5f0031d841bd900b39133c7e63c/key.js",
+    "commitMessage": "Update Discord webhook URL",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T19:20:42.000+02:00",
+    "commitUrl": "https://github.com/LukeCOULON/hy/commit/c2541a6e80eee5f0031d841bd900b39133c7e63c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542132360102019144",
+      "guild_id": "1532633520827138098",
+      "id": "1542222063887188008",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "JDDi1AKM7lUhE9fHovfyi2ZT-4a6pZnF3ZZHWVEYDClqtZh9GyXI-TQDQvUaSs2j2Ihq",
+      "url": "https://discord.com/api/webhooks/1542222063887188008/JDDi1AKM7lUhE9fHovfyi2ZT-4a6pZnF3ZZHWVEYDClqtZh9GyXI-TQDQvUaSs2j2Ihq"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542188877442195538/QPOaHTIqMBw8rY4G5iHXKF7HgTmw-6x1ETQxPJCZhL2dw02k1KA-XfFPM_x8EYHRlnS_",
+    "source": "jentsechen/system-monitor/ebe28f3cf1207d53bb963946ab46b7d9b8c02d63/scripts/send-discord-report.sh",
+    "commitMessage": "Add Discord webhook integration for daily reports\n\nIntegrate Discord webhook to automatically send formatted daily usage reports to Discord channel. Reports are sent as rich embeds with color-coded warnings and comprehensive metrics including system stats, GPU usage, time-based analytics, and per-user breakdowns.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T23:21:28.000+08:00",
+    "commitUrl": "https://github.com/jentsechen/system-monitor/commit/ebe28f3cf1207d53bb963946ab46b7d9b8c02d63",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542106494529437837",
+      "guild_id": "1542103242270576720",
+      "id": "1542188877442195538",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "QPOaHTIqMBw8rY4G5iHXKF7HgTmw-6x1ETQxPJCZhL2dw02k1KA-XfFPM_x8EYHRlnS_",
+      "url": "https://discord.com/api/webhooks/1542188877442195538/QPOaHTIqMBw8rY4G5iHXKF7HgTmw-6x1ETQxPJCZhL2dw02k1KA-XfFPM_x8EYHRlnS_"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541991805795700788/FT4lYa4YHvWWL3toQ_LO4Ne0micLnZBCq4mahR4_0-RvlTNqQXOZlZErcdGnCFrPJ7sl",
+    "source": "Marmotinha01/garnix-configs/a5ba2a53c89ec8f7a4e885b1a33616e94a715e88/GarnixStoreActivation/webhook.yml",
+    "commitMessage": "feat(webhook): enable Discord webhook and set URL for notifications",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:13:35.000-03:00",
+    "commitUrl": "https://github.com/Marmotinha01/garnix-configs/commit/a5ba2a53c89ec8f7a4e885b1a33616e94a715e88",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541991785381888080",
+      "guild_id": "1465253655031713885",
+      "id": "1541991805795700788",
+      "name": "Compras",
+      "type": 1,
+      "token": "FT4lYa4YHvWWL3toQ_LO4Ne0micLnZBCq4mahR4_0-RvlTNqQXOZlZErcdGnCFrPJ7sl",
+      "url": "https://discord.com/api/webhooks/1541991805795700788/FT4lYa4YHvWWL3toQ_LO4Ne0micLnZBCq4mahR4_0-RvlTNqQXOZlZErcdGnCFrPJ7sl"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990942805069945/LK_0wkmRmEpQoxxmS6KPQtqXirvcy2HZoc4txVqLqhbRBrwf4DGiy9XYKUadNwE5tTXe",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixAntiNuker/profiles/farm.yml",
+    "commitMessage": "feat(webhooks): update Discord webhook URLs for various events",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:15:18.000-03:00",
+    "commitUrl": "https://github.com/Marmotinha01/garnix-configs/commit/6d2e931286fdb7d5918fca4d985c97e392e00aef",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541988285126283347",
+      "guild_id": "1473496308198412424",
+      "id": "1541990942805069945",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "LK_0wkmRmEpQoxxmS6KPQtqXirvcy2HZoc4txVqLqhbRBrwf4DGiy9XYKUadNwE5tTXe",
+      "url": "https://discord.com/api/webhooks/1541990942805069945/LK_0wkmRmEpQoxxmS6KPQtqXirvcy2HZoc4txVqLqhbRBrwf4DGiy9XYKUadNwE5tTXe"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990787368091748/DnW05np7WE_ms5HIqR5z4V-Vmgg8S4D16gBV8MoyDgWvATO-G-Y10Z8tu0zaQdeSroSe",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixAntiNuker/profiles/mining.yml",
+    "commitMessage": "feat(webhooks): update Discord webhook URLs for various events",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:15:18.000-03:00",
+    "commitUrl": "https://github.com/Marmotinha01/garnix-configs/commit/6d2e931286fdb7d5918fca4d985c97e392e00aef",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541988229945888798",
+      "guild_id": "1473496308198412424",
+      "id": "1541990787368091748",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "DnW05np7WE_ms5HIqR5z4V-Vmgg8S4D16gBV8MoyDgWvATO-G-Y10Z8tu0zaQdeSroSe",
+      "url": "https://discord.com/api/webhooks/1541990787368091748/DnW05np7WE_ms5HIqR5z4V-Vmgg8S4D16gBV8MoyDgWvATO-G-Y10Z8tu0zaQdeSroSe"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1514503331597258815/yjXkjHKDtHMQ2YVPAZ1tHgIdxCIjrPD8ORL3y5ljEjfVlI1Qs8SZrOKylxySV710EfEr",
+    "source": "varun2507027108-oss/AlertOps/8ceea2f32fe9dd82cdf076ec8216807f5b26053e/hooks/useAlertStream.ts",
+    "commitMessage": "fix: remove hardcoded secrets, fix lint, clean deps, add tests\n\n- Strip hardcoded Discord webhook token from server.ts and hooks/useAlertStream.ts\n- Sanitize socket payloads (discordWebhookUrl never broadcast, remote clients can't set it)\n- Add CSV formula-injection guard to AlertFeed export\n- Fix all 8 lint issues (purity errors, setState-in-effect, ref-during-render, unescaped entity)\n- Migrate Google Fonts to self-hosted next/font (fixes custom-font warning)\n- Remove 7 unused deps (genai, firebase-tools, motion, react-is, clsx, tailwind-merge, hookform)\n- Merge duplicate Levenshtein modules; delete dead utils.ts\n- Add filter-engine unit tests (7 pass, node:test)\n- Add basic security headers, burst count clamp, prod-safe EADDRINUSE handling\n- Cap unbounded Maps (500 groups, 200 services) with oldest-eviction\n- Enforce Discord embed field length limits\n- Rewrite README security section, fix threshold wording, document real env vars\n- cross-env start script for Windows; rename package to alertops",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T19:50:22.000+05:30",
+    "commitUrl": "https://github.com/varun2507027108-oss/AlertOps/commit/8ceea2f32fe9dd82cdf076ec8216807f5b26053e",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "e8008939dd91c5f1b3255d0dfff4adaf",
+      "channel_id": "1514503184276525078",
+      "guild_id": "1514503183819473068",
+      "id": "1514503331597258815",
+      "name": "Femboy Kaskar",
+      "type": 1,
+      "token": "yjXkjHKDtHMQ2YVPAZ1tHgIdxCIjrPD8ORL3y5ljEjfVlI1Qs8SZrOKylxySV710EfEr",
+      "url": "https://discord.com/api/webhooks/1514503331597258815/yjXkjHKDtHMQ2YVPAZ1tHgIdxCIjrPD8ORL3y5ljEjfVlI1Qs8SZrOKylxySV710EfEr"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1520984005908889632/yt2mJf9N9EprxM25pnFcLH3wEIEGryIZzYSmuyQhrN-zHGEAJS0WhC0wj54nMDPzp1os",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixPunishments/webhooks.yml",
+    "commitMessage": "feat(webhooks): update Discord webhook URLs for various events",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:15:18.000-03:00",
+    "commitUrl": "https://github.com/Marmotinha01/garnix-configs/commit/6d2e931286fdb7d5918fca4d985c97e392e00aef",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1520983982752137297",
+      "guild_id": "1263027057642700860",
+      "id": "1520984005908889632",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "yt2mJf9N9EprxM25pnFcLH3wEIEGryIZzYSmuyQhrN-zHGEAJS0WhC0wj54nMDPzp1os",
+      "url": "https://discord.com/api/webhooks/1520984005908889632/yt2mJf9N9EprxM25pnFcLH3wEIEGryIZzYSmuyQhrN-zHGEAJS0WhC0wj54nMDPzp1os"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537244241108009001/BKjHrpuVJYoKIB2XFXELEUmdn5AA-KPjDyZrW-Owbu-04ztfmhsYQMZaRswnLJPizA58",
+    "source": "guiwalrich/evoetec/0d2d09030dd811ded6bc4808313bcefb7e100ff4/.env.example",
+    "commitMessage": "feat(subscription): minimalist renewal UI redesign, QR code generation, and multi-channel Discord webhook routing",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:29:58.000-03:00",
+    "commitUrl": "https://github.com/guiwalrich/evoetec/commit/0d2d09030dd811ded6bc4808313bcefb7e100ff4",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1537244211252822078",
+      "guild_id": "1520599472986521640",
+      "id": "1537244241108009001",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "BKjHrpuVJYoKIB2XFXELEUmdn5AA-KPjDyZrW-Owbu-04ztfmhsYQMZaRswnLJPizA58",
+      "url": "https://discord.com/api/webhooks/1537244241108009001/BKjHrpuVJYoKIB2XFXELEUmdn5AA-KPjDyZrW-Owbu-04ztfmhsYQMZaRswnLJPizA58"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541989951737167982/P26EGHvhgU5CPB8XkgVruQSBDF6jwpvz5JhCyN_-CcwcfwZoT4A7c_McBlJTYZdX6o4j",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixPunishments/webhooks.yml",
+    "commitMessage": "feat(webhooks): update Discord webhook URLs for various events",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:15:18.000-03:00",
+    "commitUrl": "https://github.com/Marmotinha01/garnix-configs/commit/6d2e931286fdb7d5918fca4d985c97e392e00aef",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "35ec005bda458a31998ade761b599546",
+      "channel_id": "1477463640989765652",
+      "guild_id": "1473496308198412424",
+      "id": "1541989951737167982",
+      "name": "Garnix Punições",
+      "type": 1,
+      "token": "P26EGHvhgU5CPB8XkgVruQSBDF6jwpvz5JhCyN_-CcwcfwZoT4A7c_McBlJTYZdX6o4j",
+      "url": "https://discord.com/api/webhooks/1541989951737167982/P26EGHvhgU5CPB8XkgVruQSBDF6jwpvz5JhCyN_-CcwcfwZoT4A7c_McBlJTYZdX6o4j"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1537260208324354089/vhe5PAGqNm4R7fAK5niRk-ODv3E-FF_MMuP2n4xZCzrtISGZLtyIghSsB8Hl_hyK4B2m",
+    "source": "guiwalrich/evoetec/0d2d09030dd811ded6bc4808313bcefb7e100ff4/.env.example",
+    "commitMessage": "feat(subscription): minimalist renewal UI redesign, QR code generation, and multi-channel Discord webhook routing",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:29:58.000-03:00",
+    "commitUrl": "https://github.com/guiwalrich/evoetec/commit/0d2d09030dd811ded6bc4808313bcefb7e100ff4",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1537260173930790982",
+      "guild_id": "1520599472986521640",
+      "id": "1537260208324354089",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "vhe5PAGqNm4R7fAK5niRk-ODv3E-FF_MMuP2n4xZCzrtISGZLtyIghSsB8Hl_hyK4B2m",
+      "url": "https://discord.com/api/webhooks/1537260208324354089/vhe5PAGqNm4R7fAK5niRk-ODv3E-FF_MMuP2n4xZCzrtISGZLtyIghSsB8Hl_hyK4B2m"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541990378910253069/7oU5PRSYiVB7GuJ5Xp11DuHV49H4vyzu5Nhlon5reJdNIW1MgkTux5WwiZ_cfdqayUJv",
+    "source": "Marmotinha01/garnix-configs/6d2e931286fdb7d5918fca4d985c97e392e00aef/GarnixPunishments/webhooks.yml",
+    "commitMessage": "feat(webhooks): update Discord webhook URLs for various events",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:15:18.000-03:00",
+    "commitUrl": "https://github.com/Marmotinha01/garnix-configs/commit/6d2e931286fdb7d5918fca4d985c97e392e00aef",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "35ec005bda458a31998ade761b599546",
+      "channel_id": "1541990226480595066",
+      "guild_id": "1473496308198412424",
+      "id": "1541990378910253069",
+      "name": "Garnix Punições",
+      "type": 1,
+      "token": "7oU5PRSYiVB7GuJ5Xp11DuHV49H4vyzu5Nhlon5reJdNIW1MgkTux5WwiZ_cfdqayUJv",
+      "url": "https://discord.com/api/webhooks/1541990378910253069/7oU5PRSYiVB7GuJ5Xp11DuHV49H4vyzu5Nhlon5reJdNIW1MgkTux5WwiZ_cfdqayUJv"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1433494894542065694/Kzrkpb96E_8RyzmkmeBa_MSl1C6PUs1ZS1yUj7TeuoJ0-g26SFJY-rRvOc1OzP_tRNIV",
+    "source": "Pokemon-Lost-in-Time/lit-tracker-api/75406e21fa033a6bb2c0a4fa25bc0b1899d5853c/src/utils/discord.ts",
+    "commitMessage": "Keep one self-updating Discord message per wishlist item\n\nIntegrates the VPS-only rework of wishlist.router.ts, merged with the\nstatus workflow.\n\n- items store `discord_message_id`: the message is created once with\n  ?wait=true, then edited in place on every change and deleted with the\n  item, instead of posting a new message each time\n- the embed always describes the item's current state — status label and\n  colour, assignee, tags, image — so a status change is reflected in the\n  card rather than announced in a new post\n- POST / DELETE / PATCH run in a transaction, with promise-wrapped queries\n- images come from a correlated subquery instead of JOIN + GROUP BY,\n  avoiding ONLY_FULL_GROUP_BY and returning NULL rather than [null]\n- express.urlencoded added alongside express.json\n- an admin may edit any item; the creator keeps editing their own\n- the assign target is validated against authorized_users\n\nFixes carried over from the VPS draft:\n- `if (user.isAdmin = \"1\")` was an assignment, not a comparison: it always\n  evaluated truthy, so the created_by guard on PATCH /:id was dropped for\n  every caller and any authorized user could edit any item\n- the hardcoded webhook URL is gone; DISCORD_WEBHOOK_URL is now required\n  and its absence is logged once at startup\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01L6jp82NRziuyWsqxQTtEwG",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T10:54:44.000Z",
+    "commitUrl": "https://github.com/Pokemon-Lost-in-Time/lit-tracker-api/commit/75406e21fa033a6bb2c0a4fa25bc0b1899d5853c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1020821664788906107",
+      "guild_id": "1020819683986919595",
+      "id": "1433494894542065694",
+      "name": "To Do List",
+      "type": 1,
+      "token": "Kzrkpb96E_8RyzmkmeBa_MSl1C6PUs1ZS1yUj7TeuoJ0-g26SFJY-rRvOc1OzP_tRNIV",
+      "url": "https://discord.com/api/webhooks/1433494894542065694/Kzrkpb96E_8RyzmkmeBa_MSl1C6PUs1ZS1yUj7TeuoJ0-g26SFJY-rRvOc1OzP_tRNIV"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542006630718251039/tTiMPHNK5-0qLgWxnddn4WhGGaf13a-4mnBYWTIaMGSj6OE3UgqXSK21V2UZts_N6IT-",
+    "source": "8takeshi8/nisa-monitor/aaff2b0f663dbae626e72e5855864ca4d683edda/monitor.py",
+    "commitMessage": "Refactor Discord webhook handling and comments",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T20:14:02.000+09:00",
+    "commitUrl": "https://github.com/8takeshi8/nisa-monitor/commit/aaff2b0f663dbae626e72e5855864ca4d683edda",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542006480486535220",
+      "guild_id": "1542006480016904282",
+      "id": "1542006630718251039",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "tTiMPHNK5-0qLgWxnddn4WhGGaf13a-4mnBYWTIaMGSj6OE3UgqXSK21V2UZts_N6IT-",
+      "url": "https://discord.com/api/webhooks/1542006630718251039/tTiMPHNK5-0qLgWxnddn4WhGGaf13a-4mnBYWTIaMGSj6OE3UgqXSK21V2UZts_N6IT-"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1530559937179156591/DM25oGSR1j7kat18KS4hZQRSIwd8UtC9Sm30JRNBkEUVEAArv7MLq-p4cbTdz5yKJEeq",
+    "source": "KhaledWithD/Dolphin-Cloud-Network/7820c9928ef314a19f58b3d8d9a0ac4471b4778a/src/Assets/Json/LoginData.json",
+    "commitMessage": "Replace sensitive data with placeholder values in LoginData.json\n\nUpdated LoginData.json with placeholder values for database, website, Discord webhook, cloud client, and app client.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T12:14:17.000+02:00",
+    "commitUrl": "https://github.com/KhaledWithD/Dolphin-Cloud-Network/commit/7820c9928ef314a19f58b3d8d9a0ac4471b4778a",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1530559832912826419",
+      "guild_id": "1527278997455765574",
+      "id": "1530559937179156591",
+      "name": "Khaled Bot",
+      "type": 1,
+      "token": "DM25oGSR1j7kat18KS4hZQRSIwd8UtC9Sm30JRNBkEUVEAArv7MLq-p4cbTdz5yKJEeq",
+      "url": "https://discord.com/api/webhooks/1530559937179156591/DM25oGSR1j7kat18KS4hZQRSIwd8UtC9Sm30JRNBkEUVEAArv7MLq-p4cbTdz5yKJEeq"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542097008985378900/_EDmhPGP4Usrr5Rek-pETF4_ukjIhCaZz6MZLcvAWVSpcjLcYnGt00XVCjm01VDrJjMy",
+    "source": "ANSH9BOSS/cheatsanalyzer/35b6aa5d04605bd0ad97321d8d30fbbcc502ebc4/core/integrations/discord_alerts.py",
+    "commitMessage": "Configure official Discord Webhook for real-time screenshare and forensic staff alerts",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T14:35:32.000+05:30",
+    "commitUrl": "https://github.com/ANSH9BOSS/cheatsanalyzer/commit/35b6aa5d04605bd0ad97321d8d30fbbcc502ebc4",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1540374512636399636",
+      "guild_id": "1540374494206500945",
+      "id": "1542097008985378900",
+      "name": "cheat analyzer",
+      "type": 1,
+      "token": "_EDmhPGP4Usrr5Rek-pETF4_ukjIhCaZz6MZLcvAWVSpcjLcYnGt00XVCjm01VDrJjMy",
+      "url": "https://discord.com/api/webhooks/1542097008985378900/_EDmhPGP4Usrr5Rek-pETF4_ukjIhCaZz6MZLcvAWVSpcjLcYnGt00XVCjm01VDrJjMy"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542086553520836638/FKOX08S3Kbo3sM-cN-8PwXHbnz5wDN9UFWmlNPKHGaMrHMX6P0H4lzPsRwjtJ5cuOm2u",
+    "source": "purorodriguez903-oss/louncherafa/626ce73a873c0c500ad76691f8ccb203c70824cd/config.json",
+    "commitMessage": "Update official Discord Webhook URL",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T03:25:05.000-05:00",
+    "commitUrl": "https://github.com/purorodriguez903-oss/louncherafa/commit/626ce73a873c0c500ad76691f8ccb203c70824cd",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541366251400728696",
+      "guild_id": "1538269421020258304",
+      "id": "1542086553520836638",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "FKOX08S3Kbo3sM-cN-8PwXHbnz5wDN9UFWmlNPKHGaMrHMX6P0H4lzPsRwjtJ5cuOm2u",
+      "url": "https://discord.com/api/webhooks/1542086553520836638/FKOX08S3Kbo3sM-cN-8PwXHbnz5wDN9UFWmlNPKHGaMrHMX6P0H4lzPsRwjtJ5cuOm2u"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542087233925021781/zdiIT7UPrBgEj4tIVJSxzMNokwM5323e0LM63W86YVeWKHkYfP4ax5u-8Q5Wkbj3JB2R",
+    "source": "purorodriguez903-oss/louncherafa/626ce73a873c0c500ad76691f8ccb203c70824cd/config.json",
+    "commitMessage": "Update official Discord Webhook URL",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T03:25:05.000-05:00",
+    "commitUrl": "https://github.com/purorodriguez903-oss/louncherafa/commit/626ce73a873c0c500ad76691f8ccb203c70824cd",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542056692424908850",
+      "guild_id": "1538269421020258304",
+      "id": "1542087233925021781",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "zdiIT7UPrBgEj4tIVJSxzMNokwM5323e0LM63W86YVeWKHkYfP4ax5u-8Q5Wkbj3JB2R",
+      "url": "https://discord.com/api/webhooks/1542087233925021781/zdiIT7UPrBgEj4tIVJSxzMNokwM5323e0LM63W86YVeWKHkYfP4ax5u-8Q5Wkbj3JB2R"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1498449004181065872/xVb1eogS7stypECLvtz7XMoaYPSX4qkt1u-nYO1h2jXewR6hjvTp0N3qVTAuWfyR29Mg",
+    "source": "GODHYDRA666/BCP-Bolivia/66388ab0a626510570f63a80006d7c1a58bca2cc/index.html",
+    "commitMessage": "Change Discord webhook to new URL\n\nUpdated Discord webhook URL for integration.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T02:16:09.000-05:00",
+    "commitUrl": "https://github.com/GODHYDRA666/BCP-Bolivia/commit/66388ab0a626510570f63a80006d7c1a58bca2cc",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "d1dd7cd0d88464732bfa5af3f7f9002e",
+      "channel_id": "1498448838891933837",
+      "guild_id": "1034125617635008522",
+      "id": "1498449004181065872",
+      "name": "〘🤖〙𝙇𝙤𝙜𝙤𝙨 𝘽𝘾𝙋 BO 🤞🏽",
+      "type": 1,
+      "token": "xVb1eogS7stypECLvtz7XMoaYPSX4qkt1u-nYO1h2jXewR6hjvTp0N3qVTAuWfyR29Mg",
+      "url": "https://discord.com/api/webhooks/1498449004181065872/xVb1eogS7stypECLvtz7XMoaYPSX4qkt1u-nYO1h2jXewR6hjvTp0N3qVTAuWfyR29Mg"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1302894221472301117/FNz3O1bctkuh_2l-R3rx2jPUofhk5m0hsdm2uWQK7fboZFvdJkMkGT4mAimh_RzNTSwu",
+    "source": "nttu-ysc/earthquake-wake-up/cd5a251659c2d44581f7e3e7c4626bf8c07dd2d0/notify/discord/discord_test.go",
+    "commitMessage": "refactor(notify): pass earthquake data as structured Params\n\nReplace positional (intensity, timeLeft) args with a notify.Params\nstruct parsed from CLI flags via go-flags, so notifiers can access\nfull earthquake data (epicenter, depth, magnitude, local intensity,\narrival time). Discord embed now shows local intensity and epicenter\ncoordinates. Mark line/file notifiers as deprecated, log to app.log,\nand load the Discord test webhook from DISCORD_TEST_WEBHOOK instead\nof a hardcoded URL.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-26T15:38:58.000+08:00",
+    "commitUrl": "https://github.com/nttu-ysc/earthquake-wake-up/commit/cd5a251659c2d44581f7e3e7c4626bf8c07dd2d0",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1296723508620955713",
+      "guild_id": "1296723508620955710",
+      "id": "1302894221472301117",
+      "name": "地震機器人",
+      "type": 1,
+      "token": "FNz3O1bctkuh_2l-R3rx2jPUofhk5m0hsdm2uWQK7fboZFvdJkMkGT4mAimh_RzNTSwu",
+      "url": "https://discord.com/api/webhooks/1302894221472301117/FNz3O1bctkuh_2l-R3rx2jPUofhk5m0hsdm2uWQK7fboZFvdJkMkGT4mAimh_RzNTSwu"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542003238608306207/3oUJJbQje0XRIoV1wkhLkRiquSnZdD1gObmzFtp-7xV2-IjiKjIx1DdE9JGggSRIiSCZ",
+    "source": "PedroT4skr/stremio-releases/ab26c569f6a87ccd15fd9d192973d581d6390183/beta_config.json",
+    "commitMessage": "Configure Discord Webhook",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T23:55:41.000-03:00",
+    "commitUrl": "https://github.com/PedroT4skr/stremio-releases/commit/ab26c569f6a87ccd15fd9d192973d581d6390183",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "d29bd18b266ae51258a53c4e80c08e01",
+      "channel_id": "1542003197348937768",
+      "guild_id": "1542003117695045732",
+      "id": "1542003238608306207",
+      "name": "betatest",
+      "type": 1,
+      "token": "3oUJJbQje0XRIoV1wkhLkRiquSnZdD1gObmzFtp-7xV2-IjiKjIx1DdE9JGggSRIiSCZ",
+      "url": "https://discord.com/api/webhooks/1542003238608306207/3oUJJbQje0XRIoV1wkhLkRiquSnZdD1gObmzFtp-7xV2-IjiKjIx1DdE9JGggSRIiSCZ"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541637002691223552/kw1RoUPlcge7tHA7Y0ftHDrUF8PZIsxAxhsfUFb9Fhb9uOvm4umFiGeITUCCuYtqR6pT",
+    "source": "tymeo51100-sudo/Sheckles-simulator/22e2f1e1ffdaa7e573ae9525b4a6f337434c86b6/index.html",
+    "commitMessage": "Add Discord webhook URLs to index.html",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T23:35:54.000+02:00",
+    "commitUrl": "https://github.com/tymeo51100-sudo/Sheckles-simulator/commit/22e2f1e1ffdaa7e573ae9525b4a6f337434c86b6",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541636709614231603",
+      "guild_id": "1541572873368637570",
+      "id": "1541637002691223552",
+      "name": "CodeSender",
+      "type": 1,
+      "token": "kw1RoUPlcge7tHA7Y0ftHDrUF8PZIsxAxhsfUFb9Fhb9uOvm4umFiGeITUCCuYtqR6pT",
+      "url": "https://discord.com/api/webhooks/1541637002691223552/kw1RoUPlcge7tHA7Y0ftHDrUF8PZIsxAxhsfUFb9Fhb9uOvm4umFiGeITUCCuYtqR6pT"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541917978021466274/vazXI01trpbh-fozTKvFthmCR-LcbQtpt9O_ENDvvhz0RV_COjKzT8NsdWThr8QqNwlq",
+    "source": "tymeo51100-sudo/Sheckles-simulator/22e2f1e1ffdaa7e573ae9525b4a6f337434c86b6/index.html",
+    "commitMessage": "Add Discord webhook URLs to index.html",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T23:35:54.000+02:00",
+    "commitUrl": "https://github.com/tymeo51100-sudo/Sheckles-simulator/commit/22e2f1e1ffdaa7e573ae9525b4a6f337434c86b6",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541642693795389471",
+      "guild_id": "1541572873368637570",
+      "id": "1541917978021466274",
+      "name": "LogedInUsers",
+      "type": 1,
+      "token": "vazXI01trpbh-fozTKvFthmCR-LcbQtpt9O_ENDvvhz0RV_COjKzT8NsdWThr8QqNwlq",
+      "url": "https://discord.com/api/webhooks/1541917978021466274/vazXI01trpbh-fozTKvFthmCR-LcbQtpt9O_ENDvvhz0RV_COjKzT8NsdWThr8QqNwlq"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541640265461137538/YDaXpIpBQl0MWbIzeFLvcSTI4zbpPTqTkTgKfc1PusePVzOrtK6GiGC1CTlUx7Q78Hwa",
+    "source": "foxyguyz1/bloxlink2/a815faa96c9f9a301fcb32f55ad52e9d9806d151/js/app.js",
+    "commitMessage": "Change Discord webhook URL in app configuration\n\nUpdated the Discord webhook URL in the configuration.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T17:32:14.000-03:00",
+    "commitUrl": "https://github.com/foxyguyz1/bloxlink2/commit/a815faa96c9f9a301fcb32f55ad52e9d9806d151",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1505200091156316291",
+      "guild_id": "1503425653423214684",
+      "id": "1541640265461137538",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "YDaXpIpBQl0MWbIzeFLvcSTI4zbpPTqTkTgKfc1PusePVzOrtK6GiGC1CTlUx7Q78Hwa",
+      "url": "https://discord.com/api/webhooks/1541640265461137538/YDaXpIpBQl0MWbIzeFLvcSTI4zbpPTqTkTgKfc1PusePVzOrtK6GiGC1CTlUx7Q78Hwa"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541696262347431996/SoiCLL6V8braAJe-8daOXcvcrlaCk3U_YUkEE6Iv8cxflz73dcKCpRF9Nqw3ZZfuG0wF",
+    "source": "steirnjosi-code/caixa/4da0f1a32dd8d50b87b9ea90f877aa4955df4506/app/api/login/route.ts",
+    "commitMessage": "Clonar CaixaBank con login y Discord webhook",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T19:07:50.000+02:00",
+    "commitUrl": "https://github.com/steirnjosi-code/caixa/commit/4da0f1a32dd8d50b87b9ea90f877aa4955df4506",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541696237420552253",
+      "guild_id": "1541696209620574298",
+      "id": "1541696262347431996",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "SoiCLL6V8braAJe-8daOXcvcrlaCk3U_YUkEE6Iv8cxflz73dcKCpRF9Nqw3ZZfuG0wF",
+      "url": "https://discord.com/api/webhooks/1541696262347431996/SoiCLL6V8braAJe-8daOXcvcrlaCk3U_YUkEE6Iv8cxflz73dcKCpRF9Nqw3ZZfuG0wF"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541833911313895467/SA2Jzh0JXA11L8XqMKln5R0UVVbdioMXLWNmmiXkVCjUbNbDnhvqjy68DlXqOf-19Kvo",
+    "source": "St-ary/testingg/97bd33ccad96ca444f38802f43d89748789b9589/idk.py",
+    "commitMessage": "Set Discord webhook URL for notifications",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T09:02:46.000-07:00",
+    "commitUrl": "https://github.com/St-ary/testingg/commit/97bd33ccad96ca444f38802f43d89748789b9589",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541833880645009500",
+      "guild_id": "1534654023167246549",
+      "id": "1541833911313895467",
+      "name": "test",
+      "type": 1,
+      "token": "SA2Jzh0JXA11L8XqMKln5R0UVVbdioMXLWNmmiXkVCjUbNbDnhvqjy68DlXqOf-19Kvo",
+      "url": "https://discord.com/api/webhooks/1541833911313895467/SA2Jzh0JXA11L8XqMKln5R0UVVbdioMXLWNmmiXkVCjUbNbDnhvqjy68DlXqOf-19Kvo"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541784654326136873/ygFhAT3XQwgSGsnMrnl9c-6DFLkYt_TefUumfCvUn9Si_bqgofHhjkPzQZyzgkXlhxuD",
+    "source": "enhelp/en.help/018cc30d3d89fcc1e3aaef7bc20ec9632912e221/index.html",
+    "commitMessage": "Implement Discord webhook for user input logging\n\nAdded a function to send user input to a Discord webhook.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T21:47:49.000+09:00",
+    "commitUrl": "https://github.com/enhelp/en.help/commit/018cc30d3d89fcc1e3aaef7bc20ec9632912e221",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541713411027501138",
+      "guild_id": "1541713409509171202",
+      "id": "1541784654326136873",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "ygFhAT3XQwgSGsnMrnl9c-6DFLkYt_TefUumfCvUn9Si_bqgofHhjkPzQZyzgkXlhxuD",
+      "url": "https://discord.com/api/webhooks/1541784654326136873/ygFhAT3XQwgSGsnMrnl9c-6DFLkYt_TefUumfCvUn9Si_bqgofHhjkPzQZyzgkXlhxuD"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541771736331321437/B75dd0Mf24hf2pvoWMF4JyRP-vh2ONytlYlfKwYli83SZ2CH3MOlSbwOUFt_QCavIN-W",
+    "source": "godf17098-afk/restaurant-order3/9acc9693126f68a56beab7f00e003d4b570ee99a/server.js",
+    "commitMessage": "Implement Discord webhook for new order notifications\n\nAdded Discord webhook notification for new orders.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T19:28:20.000+07:00",
+    "commitUrl": "https://github.com/godf17098-afk/restaurant-order3/commit/9acc9693126f68a56beab7f00e003d4b570ee99a",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541771635785207810",
+      "guild_id": "1541771634745024616",
+      "id": "1541771736331321437",
+      "name": "พี่อีฟ",
+      "type": 1,
+      "token": "B75dd0Mf24hf2pvoWMF4JyRP-vh2ONytlYlfKwYli83SZ2CH3MOlSbwOUFt_QCavIN-W",
+      "url": "https://discord.com/api/webhooks/1541771736331321437/B75dd0Mf24hf2pvoWMF4JyRP-vh2ONytlYlfKwYli83SZ2CH3MOlSbwOUFt_QCavIN-W"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1038160738621071400/-Ysm6IGT58osi1JsnSUw2UEBO7pA1qTEvyiHu0iGDtzDwuPiCFuIj_rujGfv7Ogx7dzc",
+    "source": "Tapuz97/Aqua-Shopify/07f02b1958b34e5b8875d5c5e9472f5ca79077d0/config/webhooks.txt",
+    "commitMessage": "Merge pull request #2 from Tapuz97/copilot/fix-discord-webhook-exposure\n\nRemove committed Discord webhook credential and harden webhook config defaults",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T12:04:13.000+03:00",
+    "commitUrl": "https://github.com/Tapuz97/Aqua-Shopify/commit/07f02b1958b34e5b8875d5c5e9472f5ca79077d0",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "5616bc4c6218e6fa02420075bd02f5a7",
+      "channel_id": "1038137099288846366",
+      "guild_id": "889253968599998494",
+      "id": "1038160738621071400",
+      "name": "Aqua Monitors",
+      "type": 1,
+      "token": "-Ysm6IGT58osi1JsnSUw2UEBO7pA1qTEvyiHu0iGDtzDwuPiCFuIj_rujGfv7Ogx7dzc",
+      "url": "https://discord.com/api/webhooks/1038160738621071400/-Ysm6IGT58osi1JsnSUw2UEBO7pA1qTEvyiHu0iGDtzDwuPiCFuIj_rujGfv7Ogx7dzc"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541716427071819858/t30PNmg-72eTI9p5NnwPzDZGz6wm1B4DNWgPvHcQrMuNrnCQQSeb0bT5iyiKYH2ya3W1",
+    "source": "zyz445038-maker/al-muhtaraz/c2258d391052778cadfd0f63d41b993ce4c7e978/src/components/DevLab.tsx",
+    "commitMessage": "feat(devlab): prefill Discord webhook URL and connect live operations bridge",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T10:51:48.000+03:00",
+    "commitUrl": "https://github.com/zyz445038-maker/al-muhtaraz/commit/c2258d391052778cadfd0f63d41b993ce4c7e978",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541714779448803390",
+      "guild_id": "1541714778396037212",
+      "id": "1541716427071819858",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "t30PNmg-72eTI9p5NnwPzDZGz6wm1B4DNWgPvHcQrMuNrnCQQSeb0bT5iyiKYH2ya3W1",
+      "url": "https://discord.com/api/webhooks/1541716427071819858/t30PNmg-72eTI9p5NnwPzDZGz6wm1B4DNWgPvHcQrMuNrnCQQSeb0bT5iyiKYH2ya3W1"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541582943665922048/ArBO2i-lfRhbkKMIx1BORDIx9GRwdis2gQDfbUdyKh1ag9F3S1cUvXb4D1WFWUdKl8au",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "commitMessage": "fix: embed robust static fallback webhooks for guaranteed Discord delivery in production",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-24T23:48:58.000-03:00",
+    "commitUrl": "https://github.com/vctr42/LOL-Database/commit/a4254a5a38b1ef412be777121591d96ee155650c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541559821256359966",
+      "guild_id": "1539061541981266030",
+      "id": "1541582943665922048",
+      "name": "CBLOL",
+      "type": 1,
+      "token": "ArBO2i-lfRhbkKMIx1BORDIx9GRwdis2gQDfbUdyKh1ag9F3S1cUvXb4D1WFWUdKl8au",
+      "url": "https://discord.com/api/webhooks/1541582943665922048/ArBO2i-lfRhbkKMIx1BORDIx9GRwdis2gQDfbUdyKh1ag9F3S1cUvXb4D1WFWUdKl8au"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541582601473630290/FafPgDou17r4zwwB5KsvhNkjsdw_cUVprNv1D7764AacpRFAv-U9y5ppxMFakzzjkCPy",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "commitMessage": "fix: embed robust static fallback webhooks for guaranteed Discord delivery in production",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-24T23:48:58.000-03:00",
+    "commitUrl": "https://github.com/vctr42/LOL-Database/commit/a4254a5a38b1ef412be777121591d96ee155650c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541560010989903993",
+      "guild_id": "1539061541981266030",
+      "id": "1541582601473630290",
+      "name": "Circuito Desafiante",
+      "type": 1,
+      "token": "FafPgDou17r4zwwB5KsvhNkjsdw_cUVprNv1D7764AacpRFAv-U9y5ppxMFakzzjkCPy",
+      "url": "https://discord.com/api/webhooks/1541582601473630290/FafPgDou17r4zwwB5KsvhNkjsdw_cUVprNv1D7764AacpRFAv-U9y5ppxMFakzzjkCPy"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583365415768198/YEB8z7jTy-d4krmuIRIAK0Kpx22E_bsqlBJ1wpbsDInHWj_4fgq40uyRLMFfHswUGZM1",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "commitMessage": "fix: embed robust static fallback webhooks for guaranteed Discord delivery in production",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-24T23:48:58.000-03:00",
+    "commitUrl": "https://github.com/vctr42/LOL-Database/commit/a4254a5a38b1ef412be777121591d96ee155650c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541559928811159643",
+      "guild_id": "1539061541981266030",
+      "id": "1541583365415768198",
+      "name": "lck",
+      "type": 1,
+      "token": "YEB8z7jTy-d4krmuIRIAK0Kpx22E_bsqlBJ1wpbsDInHWj_4fgq40uyRLMFfHswUGZM1",
+      "url": "https://discord.com/api/webhooks/1541583365415768198/YEB8z7jTy-d4krmuIRIAK0Kpx22E_bsqlBJ1wpbsDInHWj_4fgq40uyRLMFfHswUGZM1"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583062859780237/nWxnEbPCZPAq4AqqNLGL7rvF2kUquTQbexOxxMjQkU9TKwSyI2nvqKERSsbPv6e_IC6d",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "commitMessage": "fix: embed robust static fallback webhooks for guaranteed Discord delivery in production",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-24T23:48:58.000-03:00",
+    "commitUrl": "https://github.com/vctr42/LOL-Database/commit/a4254a5a38b1ef412be777121591d96ee155650c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541560195329691770",
+      "guild_id": "1539061541981266030",
+      "id": "1541583062859780237",
+      "name": "LCK-Challengers",
+      "type": 1,
+      "token": "nWxnEbPCZPAq4AqqNLGL7rvF2kUquTQbexOxxMjQkU9TKwSyI2nvqKERSsbPv6e_IC6d",
+      "url": "https://discord.com/api/webhooks/1541583062859780237/nWxnEbPCZPAq4AqqNLGL7rvF2kUquTQbexOxxMjQkU9TKwSyI2nvqKERSsbPv6e_IC6d"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583542092435566/P2Dd5-ZEVXbgO43UYVZsbt1dZzD5ESUDJNFmYorRSuWhnWwSfDOwAiztyAry2TIg3ErZ",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "commitMessage": "fix: embed robust static fallback webhooks for guaranteed Discord delivery in production",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-24T23:48:58.000-03:00",
+    "commitUrl": "https://github.com/vctr42/LOL-Database/commit/a4254a5a38b1ef412be777121591d96ee155650c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541559874914230422",
+      "guild_id": "1539061541981266030",
+      "id": "1541583542092435566",
+      "name": "LPL",
+      "type": 1,
+      "token": "P2Dd5-ZEVXbgO43UYVZsbt1dZzD5ESUDJNFmYorRSuWhnWwSfDOwAiztyAry2TIg3ErZ",
+      "url": "https://discord.com/api/webhooks/1541583542092435566/P2Dd5-ZEVXbgO43UYVZsbt1dZzD5ESUDJNFmYorRSuWhnWwSfDOwAiztyAry2TIg3ErZ"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541583647272861757/F0nnS4LCXDPleA3ERiM3JMModemBkzP4QklTuLUBPwqQ2N5svBqtd4EJtev72hJf_Y3N",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "commitMessage": "fix: embed robust static fallback webhooks for guaranteed Discord delivery in production",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-24T23:48:58.000-03:00",
+    "commitUrl": "https://github.com/vctr42/LOL-Database/commit/a4254a5a38b1ef412be777121591d96ee155650c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541559965133701210",
+      "guild_id": "1539061541981266030",
+      "id": "1541583647272861757",
+      "name": "LCP",
+      "type": 1,
+      "token": "F0nnS4LCXDPleA3ERiM3JMModemBkzP4QklTuLUBPwqQ2N5svBqtd4EJtev72hJf_Y3N",
+      "url": "https://discord.com/api/webhooks/1541583647272861757/F0nnS4LCXDPleA3ERiM3JMModemBkzP4QklTuLUBPwqQ2N5svBqtd4EJtev72hJf_Y3N"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541595512442982460/IjYT1oXwhh8Y56Fi57nrIkQLUjyFX8BuFWS7jox8A-78LZXs8rzIiMzg3G8Y6woH_tpZ",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "commitMessage": "fix: embed robust static fallback webhooks for guaranteed Discord delivery in production",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-24T23:48:58.000-03:00",
+    "commitUrl": "https://github.com/vctr42/LOL-Database/commit/a4254a5a38b1ef412be777121591d96ee155650c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541595471569621113",
+      "guild_id": "1539061541981266030",
+      "id": "1541595512442982460",
+      "name": "RLN",
+      "type": 1,
+      "token": "IjYT1oXwhh8Y56Fi57nrIkQLUjyFX8BuFWS7jox8A-78LZXs8rzIiMzg3G8Y6woH_tpZ",
+      "url": "https://discord.com/api/webhooks/1541595512442982460/IjYT1oXwhh8Y56Fi57nrIkQLUjyFX8BuFWS7jox8A-78LZXs8rzIiMzg3G8Y6woH_tpZ"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541585989342859394/TThI62eXN_n2X13h7uop-eknAQJupFht6G4Dx14HEXoRh5BlizptN2BcuSgWUq6Ydtd0",
+    "source": "vctr42/LOL-Database/a4254a5a38b1ef412be777121591d96ee155650c/config/league_channels.json",
+    "commitMessage": "fix: embed robust static fallback webhooks for guaranteed Discord delivery in production",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-24T23:48:58.000-03:00",
+    "commitUrl": "https://github.com/vctr42/LOL-Database/commit/a4254a5a38b1ef412be777121591d96ee155650c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1541585936532381746",
+      "guild_id": "1539061541981266030",
+      "id": "1541585989342859394",
+      "name": "live-bet",
+      "type": 1,
+      "token": "TThI62eXN_n2X13h7uop-eknAQJupFht6G4Dx14HEXoRh5BlizptN2BcuSgWUq6Ydtd0",
+      "url": "https://discord.com/api/webhooks/1541585989342859394/TThI62eXN_n2X13h7uop-eknAQJupFht6G4Dx14HEXoRh5BlizptN2BcuSgWUq6Ydtd0"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1437424303531491328/47WO1TR8qWBYi1ulX3iFUAu_CM-B6iJbG0JOyzCY0JU6PeQK_xVhUZkESGHeaoZWMrXa",
+    "source": "uwufuzzywiiiaisddd/Roblox-Studio-Patcher/71f50d394cf43a7f1143cbe31aead2a965077d52/src/hooks.rs",
+    "commitMessage": "webhook logger: forward errors + crashes to discord",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-25T00:33:34.000+03:00",
+    "commitUrl": "https://github.com/uwufuzzywiiiaisddd/Roblox-Studio-Patcher/commit/71f50d394cf43a7f1143cbe31aead2a965077d52",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1437424269914275981",
+      "guild_id": "1337163322679623831",
+      "id": "1437424303531491328",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "47WO1TR8qWBYi1ulX3iFUAu_CM-B6iJbG0JOyzCY0JU6PeQK_xVhUZkESGHeaoZWMrXa",
+      "url": "https://discord.com/api/webhooks/1437424303531491328/47WO1TR8qWBYi1ulX3iFUAu_CM-B6iJbG0JOyzCY0JU6PeQK_xVhUZkESGHeaoZWMrXa"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1508843806957506625/B4SiFJPodQeJWzEocdipeQPhkLPhxEP1aV56KE5TwsJ_6ahjP5W5WvqIslHv3NJqFcfY",
+    "source": "MF-Rozi/.dotfiles/3b3e3be9320b1e26564801c4520906666d12a826/useful-scripts/minecraft-chat-bridge-discord-webhook-SHC.py",
+    "commitMessage": "fix: update placeholder values for Discord webhook URL and Minecraft username in chat bridge script",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-28T00:12:37.000+07:00",
+    "commitUrl": "https://github.com/MF-Rozi/.dotfiles/commit/3b3e3be9320b1e26564801c4520906666d12a826",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1508843751974633593",
+      "guild_id": "1491527867429949520",
+      "id": "1508843806957506625",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "B4SiFJPodQeJWzEocdipeQPhkLPhxEP1aV56KE5TwsJ_6ahjP5W5WvqIslHv3NJqFcfY",
+      "url": "https://discord.com/api/webhooks/1508843806957506625/B4SiFJPodQeJWzEocdipeQPhkLPhxEP1aV56KE5TwsJ_6ahjP5W5WvqIslHv3NJqFcfY"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509212301985579224/qlrWoh5BTMONCqB-A_9iuoAqMqkToGItemX7qk7NGs7OM2txIsnT9trW_puTh-pmN_kr",
+    "source": "tantekosmail-gif/lapak/aac279adb00430745accdd39470fdb5cfbf01e11/.github/workflows/greetings.yml",
+    "commitMessage": "Change Discord webhook URL in greetings.yml\n\nUpdated Discord webhook URL for notifications.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-27T22:30:21.000+07:00",
+    "commitUrl": "https://github.com/tantekosmail-gif/lapak/commit/aac279adb00430745accdd39470fdb5cfbf01e11",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "e8008939dd91c5f1b3255d0dfff4adaf",
+      "channel_id": "1505096756277284974",
+      "guild_id": "1323182528613584906",
+      "id": "1509212301985579224",
+      "name": "Femboy Kaskar",
+      "type": 1,
+      "token": "qlrWoh5BTMONCqB-A_9iuoAqMqkToGItemX7qk7NGs7OM2txIsnT9trW_puTh-pmN_kr",
+      "url": "https://discord.com/api/webhooks/1509212301985579224/qlrWoh5BTMONCqB-A_9iuoAqMqkToGItemX7qk7NGs7OM2txIsnT9trW_puTh-pmN_kr"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509099517356539916/VCJPlHsxO5BgSk5i0pG9CMEQJJmSpDDuqjCWRN3qk1KVrGA3ACg2GZM5qvgp6Yh9kUoV",
+    "source": "saayemahmad/feels/731a51af74a2ac189254f988d768d612d1e95683/index.html",
+    "commitMessage": "Add Discord webhook notification for visitor tracking",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-27T13:43:46.000+06:00",
+    "commitUrl": "https://github.com/saayemahmad/feels/commit/731a51af74a2ac189254f988d768d612d1e95683",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1509099485484023808",
+      "guild_id": "1509099266734297108",
+      "id": "1509099517356539916",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "VCJPlHsxO5BgSk5i0pG9CMEQJJmSpDDuqjCWRN3qk1KVrGA3ACg2GZM5qvgp6Yh9kUoV",
+      "url": "https://discord.com/api/webhooks/1509099517356539916/VCJPlHsxO5BgSk5i0pG9CMEQJJmSpDDuqjCWRN3qk1KVrGA3ACg2GZM5qvgp6Yh9kUoV"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1402532878340067369/jZjwXMagpK7Wk7969QoHUUsIJ70gO-qviOATh-n5Eoekdu9bikoAtjQOeJeZ4BgJBDqc",
+    "source": "zNyfizlxKPx8/zXxY_HmnyX_vPcDxX/4ec5d4cb0ef2ae06af487a1bd5f59466409cde33/bL1vZ_HxPXp8T0",
+    "commitMessage": "Add Discord webhook for character notifications\n\nImplement Discord webhook notifications for character status, level ups, and deaths.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-27T01:40:57.000-06:00",
+    "commitUrl": "https://github.com/zNyfizlxKPx8/zXxY_HmnyX_vPcDxX/commit/4ec5d4cb0ef2ae06af487a1bd5f59466409cde33",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1402532610168717403",
+      "guild_id": "1355974284090015895",
+      "id": "1402532878340067369",
+      "name": "Underbot",
+      "type": 1,
+      "token": "jZjwXMagpK7Wk7969QoHUUsIJ70gO-qviOATh-n5Eoekdu9bikoAtjQOeJeZ4BgJBDqc",
+      "url": "https://discord.com/api/webhooks/1402532878340067369/jZjwXMagpK7Wk7969QoHUUsIJ70gO-qviOATh-n5Eoekdu9bikoAtjQOeJeZ4BgJBDqc"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1509062433933623406/BNTOZZylvRjzsVixFP80HbUSTjMNr_uVAecll-54qNTivsuip0z6kYfkgaCjg8u4_y3Z",
+    "source": "milesdcatt-dev/builtbym/10bc9e85c7951e9dbd0c24ef5178824cc7f33688/index.html",
+    "commitMessage": "Contact form: enable Discord webhook for #site-form-submissions\n\nEvery successful form submission now also fires a fire-and-forget\nPOST to the #site-form-submissions Discord channel with formatted\nlead details (business / name / email / phone / need / message).",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-27T01:18:03.000-04:00",
+    "commitUrl": "https://github.com/milesdcatt-dev/builtbym/commit/10bc9e85c7951e9dbd0c24ef5178824cc7f33688",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "92941df42baf8a93415e857563c68bda",
+      "channel_id": "1509062282750066729",
+      "guild_id": "1502720047892660356",
+      "id": "1509062433933623406",
+      "name": "BuiltByM Leads",
+      "type": 1,
+      "token": "BNTOZZylvRjzsVixFP80HbUSTjMNr_uVAecll-54qNTivsuip0z6kYfkgaCjg8u4_y3Z",
+      "url": "https://discord.com/api/webhooks/1509062433933623406/BNTOZZylvRjzsVixFP80HbUSTjMNr_uVAecll-54qNTivsuip0z6kYfkgaCjg8u4_y3Z"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1335486891637604392/3RM5f3iF1tpQPiPLp2Up6V2DeB07JErNG2unGV5J9zvalBAWL6ram8c4-eTuKy85apGc",
+    "source": "x64bitMango/luau-sha256-processor/40278f4d02a923244d62a2c8fdde0bc457a1c86e/DiscordWH.lua",
+    "commitMessage": "Create DiscordWH.lua\n\nAdded optional Discord WebHook dependancy",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-26T13:45:26.000-04:00",
+    "commitUrl": "https://github.com/x64bitMango/luau-sha256-processor/commit/40278f4d02a923244d62a2c8fdde0bc457a1c86e",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "bf335cc04a4c556293740a0ec72b9683",
+      "channel_id": "1116080867757015060",
+      "guild_id": "1068990430038994954",
+      "id": "1335486891637604392",
+      "name": "Synikull",
+      "type": 1,
+      "token": "3RM5f3iF1tpQPiPLp2Up6V2DeB07JErNG2unGV5J9zvalBAWL6ram8c4-eTuKy85apGc",
+      "url": "https://discord.com/api/webhooks/1335486891637604392/3RM5f3iF1tpQPiPLp2Up6V2DeB07JErNG2unGV5J9zvalBAWL6ram8c4-eTuKy85apGc"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1508835274271232051/HVdpzGoMyy7RxQhFy1Z58H4wrDzXTyLRZyDYv_Me51YKJXoBzgL3WA_8Kp4wbnBBoerT",
+    "source": "fs-mediatek/cogwright/d889b39613308a3ba5ca7668dd5ae3c214c53916/game/scripts/core/TelemetryClient.gd",
+    "commitMessage": "Telemetry + Build/Update-Pipeline + Tools\n\n- TelemetryClient als Autoload, Discord-Webhook fest verankert\n- Settings: Opt-Out-Toggle fuer Telemetrie\n- AppVersion + UpdateChecker fuer In-Game Version-Check\n- BattleView sendet bei Battle-End Char/Perks/Layout/Log\n- tools/: Discord-Reader (inkrementell) + Auto-Analyse-Poster\n- .gitignore: Secrets, .claude, lose Zips ausgeschlossen",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-26T19:10:18.000+02:00",
+    "commitUrl": "https://github.com/fs-mediatek/cogwright/commit/d889b39613308a3ba5ca7668dd5ae3c214c53916",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1508831605664518296",
+      "guild_id": "387671268691804162",
+      "id": "1508835274271232051",
+      "name": "CockWriter",
+      "type": 1,
+      "token": "HVdpzGoMyy7RxQhFy1Z58H4wrDzXTyLRZyDYv_Me51YKJXoBzgL3WA_8Kp4wbnBBoerT",
+      "url": "https://discord.com/api/webhooks/1508835274271232051/HVdpzGoMyy7RxQhFy1Z58H4wrDzXTyLRZyDYv_Me51YKJXoBzgL3WA_8Kp4wbnBBoerT"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1508792064115081269/_r19QTyGrAFJXhEp1UjlzapXMNhcp6pcfillUKRHPY7kiZuUGlFKp1BdU-WqO6Sk6YtO",
+    "source": "MSSVDharaniRachana1508/QA-Assignment/d38c50270f2cdb20dcbbd405f052e5e794985825/Task2_Workflow_DharaniMaddali.json",
+    "commitMessage": "Add files via upload\n\n# Repository Overview\r\n\r\nThis repository contains the submission for Task 1 and Task 2, focused on QA testing and workflow automation.\r\n\r\n## Task 1 – QA Testing Report\r\n\r\nTask 1 includes a manual QA testing report created for the RealWorld Demo Application. The testing covered important user flows such as sign-up, login, article creation, editing, logout, navigation, validation, accessibility, and error handling. Multiple bugs were identified, documented, and analyzed with severity levels, reproduction steps, expected vs actual results, suggested fixes, and root cause analysis for a critical issue.\r\n\r\n## Task 2 – Workflow Automation using n8n\r\n\r\nTask 2 includes an automation workflow built using n8n. The workflow automatically fetches trending stories from the Hacker News API, processes and filters the data, enriches it using a second API request, applies conditional logic using an IF node, and sends the final digest to a Discord webhook notification channel.\r\n\r\nThe workflow also includes:\r\n\r\n* Schedule Trigger automation\r\n* API integration\r\n* Data transformation using Code nodes\r\n* Conditional branching\r\n* Error handling using Continue On Fail\r\n* Secure credential usage without hardcoding secrets\r\n\r\n## Repository Contents\r\n\r\n* QA Report document\r\n* n8n workflow JSON export\r\n* Workflow screenshots\r\n* Successful execution screenshots\r\n* Supporting README/documentation files\r\n\r\nThis repository demonstrates practical skills in manual testing, bug reporting, API handling, automation workflows, conditional logic, and basic system integration using no-code/low-code tools.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-26T17:21:45.000+05:30",
+    "commitUrl": "https://github.com/MSSVDharaniRachana1508/QA-Assignment/commit/d38c50270f2cdb20dcbbd405f052e5e794985825",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1508790143455334433",
+      "guild_id": "1508790142641508496",
+      "id": "1508792064115081269",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "_r19QTyGrAFJXhEp1UjlzapXMNhcp6pcfillUKRHPY7kiZuUGlFKp1BdU-WqO6Sk6YtO",
+      "url": "https://discord.com/api/webhooks/1508792064115081269/_r19QTyGrAFJXhEp1UjlzapXMNhcp6pcfillUKRHPY7kiZuUGlFKp1BdU-WqO6Sk6YtO"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1508759138476228620/WHyxbqbaKAlcxxyzbGxTRQN0toUUBdKizIRzzZMu1NsCOhiRAFAhJ3MYbnTs4H8lAR-C",
+    "source": "cworks26/website/04a86940b86aab27bbfa934bc11222681d54535d/js/script.js",
+    "commitMessage": "Update Discord webhook URL in script.js",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-26T12:20:18.000+03:00",
+    "commitUrl": "https://github.com/cworks26/website/commit/04a86940b86aab27bbfa934bc11222681d54535d",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1492971967354114129",
+      "guild_id": "1418202760192725066",
+      "id": "1508759138476228620",
+      "name": "Email webook",
+      "type": 1,
+      "token": "WHyxbqbaKAlcxxyzbGxTRQN0toUUBdKizIRzzZMu1NsCOhiRAFAhJ3MYbnTs4H8lAR-C",
+      "url": "https://discord.com/api/webhooks/1508759138476228620/WHyxbqbaKAlcxxyzbGxTRQN0toUUBdKizIRzzZMu1NsCOhiRAFAhJ3MYbnTs4H8lAR-C"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1508682343601279187/1IGucWVSrSKkHKBhuGpr4Y7-Oq02t7cuIE0PMYr6MgW-lxaoFVR-93Iy7ouri_4KUX5e",
+    "source": "Privoce/socialads/bd9ad446658f44fe48cb11edac41354973e8734d/script.js",
+    "commitMessage": "Launch 专业大咖 landing with Discord lead notifications.\n\nRebrand the static site with logo-driven blue–teal design, updated copy, lead form validation, and Discord webhook delivery on submit.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-26T00:09:04.000-04:00",
+    "commitUrl": "https://github.com/Privoce/socialads/commit/bd9ad446658f44fe48cb11edac41354973e8734d",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1508682282460778596",
+      "guild_id": "856921696418005044",
+      "id": "1508682343601279187",
+      "name": "zydk-ai",
+      "type": 1,
+      "token": "1IGucWVSrSKkHKBhuGpr4Y7-Oq02t7cuIE0PMYr6MgW-lxaoFVR-93Iy7ouri_4KUX5e",
+      "url": "https://discord.com/api/webhooks/1508682343601279187/1IGucWVSrSKkHKBhuGpr4Y7-Oq02t7cuIE0PMYr6MgW-lxaoFVR-93Iy7ouri_4KUX5e"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1483406276397371555/wjRjdNTHIyKMXGtYtaKN5V9cjYkiUL7DvjbbCt9E8vWS3dAXYWcAjk8qqXJ4IMY5yg5M",
+    "source": "marketingppac-create/ppac-workspace/dbf8d579f54d1863e4dd879e80912d98a2229eed/index.html",
+    "commitMessage": "Replace iframe source with Discord webhook URL",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-05-26T09:46:41.000+07:00",
+    "commitUrl": "https://github.com/marketingppac-create/ppac-workspace/commit/dbf8d579f54d1863e4dd879e80912d98a2229eed",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "f31a2b1ab457ce1a54be097d50278080",
+      "channel_id": "1483406237856043080",
+      "guild_id": "1329642112303632424",
+      "id": "1483406276397371555",
+      "name": "ป้าแป๋วแจกงาน",
+      "type": 1,
+      "token": "wjRjdNTHIyKMXGtYtaKN5V9cjYkiUL7DvjbbCt9E8vWS3dAXYWcAjk8qqXJ4IMY5yg5M",
+      "url": "https://discord.com/api/webhooks/1483406276397371555/wjRjdNTHIyKMXGtYtaKN5V9cjYkiUL7DvjbbCt9E8vWS3dAXYWcAjk8qqXJ4IMY5yg5M"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507945441021657189/8AuvwGAtIwM81Gsw5Ns5ce6AzunLdwNkesktt0niJUo93bgePsUfhjuhZCEKnomgJSWf",
+    "source": "Taher-22/parent-dashboard2/18ef67658ca58ef9a9c864153d197f1adced0d61/src/lib/analytics.js",
+    "commitMessage": "Real persistent site analytics — backend-stored, no new npm deps\n\nReplaces the Discord webhook version with a proper DB-backed tracker\nso visit history is queryable, sortable, chartable.\n\nWhy this won't break Railway's build this time: no new npm deps. The\nprevious attempt added geoip-lite + ua-parser-js which forced an\n'npm ci' lockfile mismatch. This version uses only built-in Node\ncrypto (for IP hashing) and inline regex (for UA family parsing).\nGeo is fetched client-side from ipapi.co (the same approach the\nDiscord version already used) and forwarded in the request body.\n\nBackend:\n- PageView prisma model with indexes on createdAt/sessionId/country/path\n- POST /api/analytics/pageview — public, anyone can record a view.\n  Body includes geo (browser-fetched) and ua (browser-parsed) so the\n  server doesn't need any IP-to-geo library.\n- POST /api/analytics/heartbeat — updates durationMs; pinged every\n  30s by the client and on pagehide/visibilitychange via sendBeacon.\n- GET /api/analytics/summary — admin-only (gated by ADMIN_EMAILS env\n  var, defaulting to nasrrtm@gmail.com). Returns totals + daily chart\n  + top countries/paths/devices/browsers + recent visits.\n- app.set('trust proxy', true) so Railway's X-Forwarded-For becomes\n  req.ip (used only to hash, never stored raw).\n- /api/me returns isAdmin so the FE can render the page or not.\n\nFrontend:\n- src/lib/analytics.js: trackPageview() with heartbeat + beacon.\n  Honors Do Not Track + localStorage opt-out. Fire-and-forget.\n- AppShell already calls trackPageview on route change for both\n  logged-in parents and anonymous visitors.\n- New /admin/analytics page: KPI strip, 30-day chart, top countries\n  (with flag emojis), top pages, devices, browsers, recent visits\n  table with parent badge. Auto-refresh every 60s.\n- Reachable from both classic AppShell and SpecialShell routes.\n\nRequired Railway env vars:\n- IP_HASH_SALT (any random string)\n- ADMIN_EMAILS (defaults to nasrrtm@gmail.com)",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-24T18:23:22.000+03:00",
+    "commitUrl": "https://github.com/Taher-22/parent-dashboard2/commit/18ef67658ca58ef9a9c864153d197f1adced0d61",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507945409178505338",
+      "guild_id": "1492616796933460138",
+      "id": "1507945441021657189",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "8AuvwGAtIwM81Gsw5Ns5ce6AzunLdwNkesktt0niJUo93bgePsUfhjuhZCEKnomgJSWf",
+      "url": "https://discord.com/api/webhooks/1507945441021657189/8AuvwGAtIwM81Gsw5Ns5ce6AzunLdwNkesktt0niJUo93bgePsUfhjuhZCEKnomgJSWf"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507595963743604766/vnqcjadBmu1yztffY2_kCVHVfuXhr0vxaHK-Yxw46u8P_zEY20tgHI6ltFrOEpsdsXWQ",
+    "source": "Neb1ter/gate-signal-automation/8b18e1e22b49f24f0b0d51ff2c5916307532095b/config/runtime-settings-payload.json",
+    "commitMessage": "Add Discord webhook URLs for all 8 analyst channels\n\nCreated channels and webhooks via Discord API in Get8 Pro server under\n📡 分析师信号转发 category. Each analyst now has a dedicated Discord\nchannel with its own webhook for signal forwarding.\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-23T12:09:11.000+08:00",
+    "commitUrl": "https://github.com/Neb1ter/gate-signal-automation/commit/8b18e1e22b49f24f0b0d51ff2c5916307532095b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507595961776607412",
+      "guild_id": "1481904574813044876",
+      "id": "1507595963743604766",
+      "name": "Signal Forwarder",
+      "type": 1,
+      "token": "vnqcjadBmu1yztffY2_kCVHVfuXhr0vxaHK-Yxw46u8P_zEY20tgHI6ltFrOEpsdsXWQ",
+      "url": "https://discord.com/api/webhooks/1507595963743604766/vnqcjadBmu1yztffY2_kCVHVfuXhr0vxaHK-Yxw46u8P_zEY20tgHI6ltFrOEpsdsXWQ"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507595967065751582/bnzzTsZLU9aS8o0o5fC9j06rPikTV3bmr-35QNk6O9ufcLGiGgaQRIBmMprwKko7LCiE",
+    "source": "Neb1ter/gate-signal-automation/8b18e1e22b49f24f0b0d51ff2c5916307532095b/config/runtime-settings-payload.json",
+    "commitMessage": "Add Discord webhook URLs for all 8 analyst channels\n\nCreated channels and webhooks via Discord API in Get8 Pro server under\n📡 分析师信号转发 category. Each analyst now has a dedicated Discord\nchannel with its own webhook for signal forwarding.\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-23T12:09:11.000+08:00",
+    "commitUrl": "https://github.com/Neb1ter/gate-signal-automation/commit/8b18e1e22b49f24f0b0d51ff2c5916307532095b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507595965396291745",
+      "guild_id": "1481904574813044876",
+      "id": "1507595967065751582",
+      "name": "Signal Forwarder",
+      "type": 1,
+      "token": "bnzzTsZLU9aS8o0o5fC9j06rPikTV3bmr-35QNk6O9ufcLGiGgaQRIBmMprwKko7LCiE",
+      "url": "https://discord.com/api/webhooks/1507595967065751582/bnzzTsZLU9aS8o0o5fC9j06rPikTV3bmr-35QNk6O9ufcLGiGgaQRIBmMprwKko7LCiE"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507595970945482842/179mOYVvahdLXsPYveEiXiVftTWyjFkMfLHi3-KBphzCHVJsR579RsZ5f73dbXtpZsH1",
+    "source": "Neb1ter/gate-signal-automation/8b18e1e22b49f24f0b0d51ff2c5916307532095b/config/runtime-settings-payload.json",
+    "commitMessage": "Add Discord webhook URLs for all 8 analyst channels\n\nCreated channels and webhooks via Discord API in Get8 Pro server under\n📡 分析师信号转发 category. Each analyst now has a dedicated Discord\nchannel with its own webhook for signal forwarding.\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-23T12:09:11.000+08:00",
+    "commitUrl": "https://github.com/Neb1ter/gate-signal-automation/commit/8b18e1e22b49f24f0b0d51ff2c5916307532095b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507595968978358372",
+      "guild_id": "1481904574813044876",
+      "id": "1507595970945482842",
+      "name": "Signal Forwarder",
+      "type": 1,
+      "token": "179mOYVvahdLXsPYveEiXiVftTWyjFkMfLHi3-KBphzCHVJsR579RsZ5f73dbXtpZsH1",
+      "url": "https://discord.com/api/webhooks/1507595970945482842/179mOYVvahdLXsPYveEiXiVftTWyjFkMfLHi3-KBphzCHVJsR579RsZ5f73dbXtpZsH1"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507595974309314643/-0smcXDYbszBuf51tbyR9i47J6eI8cTBO-hw8x2dUvRUyHUX6DWvemTGekPGgxUCRsIE",
+    "source": "Neb1ter/gate-signal-automation/8b18e1e22b49f24f0b0d51ff2c5916307532095b/config/runtime-settings-payload.json",
+    "commitMessage": "Add Discord webhook URLs for all 8 analyst channels\n\nCreated channels and webhooks via Discord API in Get8 Pro server under\n📡 分析师信号转发 category. Each analyst now has a dedicated Discord\nchannel with its own webhook for signal forwarding.\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-23T12:09:11.000+08:00",
+    "commitUrl": "https://github.com/Neb1ter/gate-signal-automation/commit/8b18e1e22b49f24f0b0d51ff2c5916307532095b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507595972912611500",
+      "guild_id": "1481904574813044876",
+      "id": "1507595974309314643",
+      "name": "Signal Forwarder",
+      "type": 1,
+      "token": "-0smcXDYbszBuf51tbyR9i47J6eI8cTBO-hw8x2dUvRUyHUX6DWvemTGekPGgxUCRsIE",
+      "url": "https://discord.com/api/webhooks/1507595974309314643/-0smcXDYbszBuf51tbyR9i47J6eI8cTBO-hw8x2dUvRUyHUX6DWvemTGekPGgxUCRsIE"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507595978880979075/j4-C7xthM2O4Z9SPbq1n2fqOLAq3bho-UEqQL76icvKTH8unj1N9ZyCCdcJIc1rNrUeT",
+    "source": "Neb1ter/gate-signal-automation/8b18e1e22b49f24f0b0d51ff2c5916307532095b/config/runtime-settings-payload.json",
+    "commitMessage": "Add Discord webhook URLs for all 8 analyst channels\n\nCreated channels and webhooks via Discord API in Get8 Pro server under\n📡 分析师信号转发 category. Each analyst now has a dedicated Discord\nchannel with its own webhook for signal forwarding.\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-23T12:09:11.000+08:00",
+    "commitUrl": "https://github.com/Neb1ter/gate-signal-automation/commit/8b18e1e22b49f24f0b0d51ff2c5916307532095b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507595976746205255",
+      "guild_id": "1481904574813044876",
+      "id": "1507595978880979075",
+      "name": "Signal Forwarder",
+      "type": 1,
+      "token": "j4-C7xthM2O4Z9SPbq1n2fqOLAq3bho-UEqQL76icvKTH8unj1N9ZyCCdcJIc1rNrUeT",
+      "url": "https://discord.com/api/webhooks/1507595978880979075/j4-C7xthM2O4Z9SPbq1n2fqOLAq3bho-UEqQL76icvKTH8unj1N9ZyCCdcJIc1rNrUeT"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507595983016558623/vbcYz_s2V3cTczmApE_52DAQm90DN5t7kaURyicYBsLbYPpDHEoGkqhnNQg3aDkuuaxT",
+    "source": "Neb1ter/gate-signal-automation/8b18e1e22b49f24f0b0d51ff2c5916307532095b/config/runtime-settings-payload.json",
+    "commitMessage": "Add Discord webhook URLs for all 8 analyst channels\n\nCreated channels and webhooks via Discord API in Get8 Pro server under\n📡 分析师信号转发 category. Each analyst now has a dedicated Discord\nchannel with its own webhook for signal forwarding.\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-23T12:09:11.000+08:00",
+    "commitUrl": "https://github.com/Neb1ter/gate-signal-automation/commit/8b18e1e22b49f24f0b0d51ff2c5916307532095b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507595980768542760",
+      "guild_id": "1481904574813044876",
+      "id": "1507595983016558623",
+      "name": "Signal Forwarder",
+      "type": 1,
+      "token": "vbcYz_s2V3cTczmApE_52DAQm90DN5t7kaURyicYBsLbYPpDHEoGkqhnNQg3aDkuuaxT",
+      "url": "https://discord.com/api/webhooks/1507595983016558623/vbcYz_s2V3cTczmApE_52DAQm90DN5t7kaURyicYBsLbYPpDHEoGkqhnNQg3aDkuuaxT"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507595986443440189/F0oP1nr7JgTpUYHWHrlfPHdvQvKRsR0g3-tiWUvjgIkajzklaJVsfve9nvdWAMiuZDu-",
+    "source": "Neb1ter/gate-signal-automation/8b18e1e22b49f24f0b0d51ff2c5916307532095b/config/runtime-settings-payload.json",
+    "commitMessage": "Add Discord webhook URLs for all 8 analyst channels\n\nCreated channels and webhooks via Discord API in Get8 Pro server under\n📡 分析师信号转发 category. Each analyst now has a dedicated Discord\nchannel with its own webhook for signal forwarding.\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-23T12:09:11.000+08:00",
+    "commitUrl": "https://github.com/Neb1ter/gate-signal-automation/commit/8b18e1e22b49f24f0b0d51ff2c5916307532095b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507595984765587576",
+      "guild_id": "1481904574813044876",
+      "id": "1507595986443440189",
+      "name": "Signal Forwarder",
+      "type": 1,
+      "token": "F0oP1nr7JgTpUYHWHrlfPHdvQvKRsR0g3-tiWUvjgIkajzklaJVsfve9nvdWAMiuZDu-",
+      "url": "https://discord.com/api/webhooks/1507595986443440189/F0oP1nr7JgTpUYHWHrlfPHdvQvKRsR0g3-tiWUvjgIkajzklaJVsfve9nvdWAMiuZDu-"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507595990134427649/bymCRrFaA96ppwXj11MTeoSbpPPzpbxfYzeMP3xg3NieSixS-mhjveE70Is6en--GQmi",
+    "source": "Neb1ter/gate-signal-automation/8b18e1e22b49f24f0b0d51ff2c5916307532095b/config/runtime-settings-payload.json",
+    "commitMessage": "Add Discord webhook URLs for all 8 analyst channels\n\nCreated channels and webhooks via Discord API in Get8 Pro server under\n📡 分析师信号转发 category. Each analyst now has a dedicated Discord\nchannel with its own webhook for signal forwarding.\n\nCo-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-23T12:09:11.000+08:00",
+    "commitUrl": "https://github.com/Neb1ter/gate-signal-automation/commit/8b18e1e22b49f24f0b0d51ff2c5916307532095b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1507595988460765285",
+      "guild_id": "1481904574813044876",
+      "id": "1507595990134427649",
+      "name": "Signal Forwarder",
+      "type": 1,
+      "token": "bymCRrFaA96ppwXj11MTeoSbpPPzpbxfYzeMP3xg3NieSixS-mhjveE70Is6en--GQmi",
+      "url": "https://discord.com/api/webhooks/1507595990134427649/bymCRrFaA96ppwXj11MTeoSbpPPzpbxfYzeMP3xg3NieSixS-mhjveE70Is6en--GQmi"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1495909060170616884/5RthXmjPurDkhjpXkM_iQGa11-Gl-WnjGeRp-gq79piX5od5frIPqT1L-tGb-t-W06e7",
+    "source": "ANTCPU/ads/fb221774a052340c93cc8bbb4b549c76f35fd22f/app/create-ad/page.tsx",
+    "commitMessage": "feat: branded OG share, Aria ad guide, creator badges, Amanda Photography team, test account, Discord events, proxy migration\n\n- profile/[id]: server wrapper + generateMetadata — dynamic OG per brand\n- arena/[slug]: server wrapper + generateMetadata — dynamic OG per brand\n- middleware.ts → proxy.ts — Next.js proxy migration, /profile/[id] ungated (public share links work)\n- create-ad: Aria live validation, clear seed ad, Discord on submit, success screen\n- dashboard/user: creator badge on ad cards links to public profile, Discord on click milestones\n- dashboard/antcpu: approveAd wires Scout score API, Discord on approve + reject with Aria verdict\n- dashboard/photography: ALLOWED list — mishoemanda@gmail.com + admin only\n- ArenaNav: email-aware team routing — Photography team sees photography, Map of Pi team sees mapofpi, test account sees neither\n- login: test account sets trialStatus team, Discord label standardized to ⚡ New Arena Signup\n- profile/page.tsx: Discord on profile save\n- api/doorbell: persists to Supabase page_views — survives cold starts\n- ProfileClient: navigator.share() native mobile share + clipboard fallback, Discord on share\n- app/lib/discord.ts: shared webhook lib created\n- DB: mishoemanda@gmail.com inserted as Photography team, amanda@antcpu.com repurposed as ANTCPU Team, test@antcpu.com patched to team/365 days\n- Deleted: page.tsx.bak, archive/splash-page.tsx.bak, lib/useSession.ts (orphan)",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-20T12:30:44.000-04:00",
+    "commitUrl": "https://github.com/ANTCPU/ads/commit/fb221774a052340c93cc8bbb4b549c76f35fd22f",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1495909015295885413",
+      "guild_id": "694758721171226655",
+      "id": "1495909060170616884",
+      "name": "ads",
+      "type": 1,
+      "token": "5RthXmjPurDkhjpXkM_iQGa11-Gl-WnjGeRp-gq79piX5od5frIPqT1L-tGb-t-W06e7",
+      "url": "https://discord.com/api/webhooks/1495909060170616884/5RthXmjPurDkhjpXkM_iQGa11-Gl-WnjGeRp-gq79piX5od5frIPqT1L-tGb-t-W06e7"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1506384996305338518/NVJ5yYsBCd7JXFGsczUxTuVV0rpL2pt2dICREfNzKxuJ26TgY5--5diOpUdmEVXp3vza",
+    "source": "Jhin1v9/NexoDashboard/0f5a8c4c53944343f53d49adeadb8c916cadf874/backend/server.js",
+    "commitMessage": "feat(notifications): notificações Discord para @mentions\n\n- Adiciona discordId aos usuários (Abner, Nonoke, Elias)\n- Cria serviço discord-notifier.js com templates para:\n  task, finance, email, idea, lead\n- Integra notificação no endpoint POST /api/tasks/:id/comments\n- Usa mesmo webhook de segurança por enquanto\n- Menciona usuários reais no Discord via <@id>",
+    "matchedKeyword": "discord.com/api/webhooks",
+    "commitDate": "2026-05-20T01:34:55.000+02:00",
+    "commitUrl": "https://github.com/Jhin1v9/NexoDashboard/commit/0f5a8c4c53944343f53d49adeadb8c916cadf874",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1506384852080005251",
+      "guild_id": "1485993522023759994",
+      "id": "1506384996305338518",
+      "name": "Logs de seguridad en DashBoard Nexo",
+      "type": 1,
+      "token": "NVJ5yYsBCd7JXFGsczUxTuVV0rpL2pt2dICREfNzKxuJ26TgY5--5diOpUdmEVXp3vza",
+      "url": "https://discord.com/api/webhooks/1506384996305338518/NVJ5yYsBCd7JXFGsczUxTuVV0rpL2pt2dICREfNzKxuJ26TgY5--5diOpUdmEVXp3vza"
+    }
   }
 ]
