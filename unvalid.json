@@ -2255,5 +2255,23 @@
     "commitSha": "388496adc6fb7c6fd6fab71b9f330fd5e11bc16f",
     "source": "thoskam/regenerist/388496adc6fb7c6fd6fab71b9f330fd5e11bc16f",
     "reason": "No webhook pattern found"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1536813091814248539/UmIhOqBUxBVPYII5kf3h6N-Xbp5BMhzarx0aAzm96hHxNLAiP_zQwkC_H-uB14Zy1JuD",
+    "source": "manual_import",
+    "reason": "Manual Import: Dead / Revoked 404",
+    "importedAt": "2026-08-27T07:28:26.975Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1516778039944413376/dtrR720nGj7SCliSOAXQzP5xAQUygdH6v1QqJWpbFxXpWF2hQ2urvUBGx2QIANSGQhum",
+    "source": "manual_import",
+    "reason": "Manual Import: Dead / Revoked 404",
+    "importedAt": "2026-08-27T07:28:29.898Z"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1430072402045309084/l9H61pVAAu9YnxQEkDuDBqZG5iSqPulBM321s8B3yJTpZvsfr3NhJxFK6eLaZaAkw-6V",
+    "source": "manual_import",
+    "reason": "Manual Import: Dead / Revoked 404",
+    "importedAt": "2026-08-27T07:28:34.439Z"
   }
 ]
