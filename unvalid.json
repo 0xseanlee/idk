@@ -5840,5 +5840,66 @@
     "url": "https://discord.com/api/webhooks/1507178421547962388/GkgbCLUvPj4dyNARvLeA3kNdlgZIflezjHCNxn8I_jfMT0awtmq2eyQE9Zz6n2RQhZoL",
     "source": "AERProductions/ffpl/cb1b528863a2c58c819e28a7954a4661dc36889a/discord.go",
     "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "commitSha": "77a0626df530d12c7f7bdaad7b5283b16c70a5e8",
+    "source": "FIFICHECK/P0068001-Store-Dashboard/77a0626df530d12c7f7bdaad7b5283b16c70a5e8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "db3c8a66c9ba3d3ec7b4dc856206fab63f8e05f3",
+    "source": "FIFICHECK/todo-dashboard-supabase/db3c8a66c9ba3d3ec7b4dc856206fab63f8e05f3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "87256c97c92a8b8897b6047edc60f0f9a2bd866e",
+    "source": "FIFICHECK/todo-dashboard-v2/87256c97c92a8b8897b6047edc60f0f9a2bd866e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e7746599730d3ec3c5725a3f6f654f6a874a518e",
+    "url": "https://discord.com/api/webhooks/1516150028006195360/REDACTED",
+    "source": "FIFICHECK/todo-dashboard-v2/e7746599730d3ec3c5725a3f6f654f6a874a518e/index.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "8e8df2661a9bc243b88a20e64c1e4658798b1c25",
+    "url": "https://discord.com/api/webhooks/1542513960224559254/REDACTED",
+    "source": "FIFICHECK/P0068001-Store-Dashboard/8e8df2661a9bc243b88a20e64c1e4658798b1c25/index.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "9f0e3079fe142f2c2c97771d170d9446d66ace3f",
+    "source": "SiddharthJain08/FundJohn/9f0e3079fe142f2c2c97771d170d9446d66ace3f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2486c2da6458fb25bf53b434959caecef572a2dc",
+    "source": "Matthiesen-dev/matthiesen-core-webhooks/2486c2da6458fb25bf53b434959caecef572a2dc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "24af89d9228854ff6f54bb5c8c45614c815aa92d",
+    "url": "https://discord.com/api/webhooks/1539268145745895516/YLx8PWr2YwMwHflKqSM8docpJzKdcdNuYHyzyYRrSRMgrioGEhzc4OKp83Q-gLrAuUTH",
+    "source": "luiiscarlos99/conexaocomfirebase2/24af89d9228854ff6f54bb5c8c45614c815aa92d/atkInvSOS.js",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "24af89d9228854ff6f54bb5c8c45614c815aa92d",
+    "url": "https://discord.com/api/webhooks/1539267966741389332/ZGwiXDDDTh4e698YVUvobQQL8FvNDREjVm0ph4tzxISa53c-7TLfF_BhiR6pl7DXt6vw",
+    "source": "luiiscarlos99/conexaocomfirebase2/24af89d9228854ff6f54bb5c8c45614c815aa92d/atkSOS.js",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "24af89d9228854ff6f54bb5c8c45614c815aa92d",
+    "url": "https://discord.com/api/webhooks/1539268065190084779/9KxMifl2A0HkdvPAm5lxR6QK_oEGkvP98dtUSVyeDyxrekaNjyT5n0PcqRtE5-Xr2bWQ",
+    "source": "luiiscarlos99/conexaocomfirebase2/24af89d9228854ff6f54bb5c8c45614c815aa92d/atkSOS.js",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "24af89d9228854ff6f54bb5c8c45614c815aa92d",
+    "url": "https://discord.com/api/webhooks/1539273777236549732/dk6e8TcLeiSTlOnKQpBX3APe8UqzpecojIk7oVbMLyKS_WZn1HccnJel3zviSgs9rTHP",
+    "source": "luiiscarlos99/conexaocomfirebase2/24af89d9228854ff6f54bb5c8c45614c815aa92d/scripts/discord-pc-ligado.config.example.ps1",
+    "reason": "Webhook 404 / Revoked"
   }
 ]
