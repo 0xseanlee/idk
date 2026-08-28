@@ -5775,5 +5775,70 @@
     "url": "https://discord.com/api/webhooks/1433582458997051537/5OwHAPeo6LYlM-ZPywEj8sjVH8CCTLEPIpg_0b7sz9e5XQh4jWK4OJ1kS7eLvMhyxXUB",
     "source": "printerbrr/Tradealerts/b6977913ef1dc730606173a38480a6937b583c41/discord_config.txt",
     "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541023900232843395/BbIL3ZHd-EveHxPH-NGLjKOQW2EW9GtUFtiWJOi74IkauQs9-zX3SHcpCvhj4TtH49RD",
+    "source": "manual_import",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1536577285581307964/AOcJGcEypXikaKeGKCEGsqSp-QJL53owqwvHqKn7ybaXfcQBd7Rp5GkesRoPN5HDhLJ4",
+    "source": "manual_import",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542442255665725530/G5PCHPYZ4r-1AC3-DaGV1aQpDQfsCqlmk6t4kw7h8l5RztMzXlnrIj5v4apg3D5qgnV-",
+    "source": "akashdutta1030hr-beep/oro-monitoring/2e6bff3d706f58468dd39e0389bba38f423489bc/.env",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1405006360445321237/tIS06WZW59UVwOkxbhLQrGhSKFAfw3ON69Q2sXDz4kNdTNSBqHrR8GA4rbV1BEvAeD5d",
+    "source": "nuniesmith/fks/e6920d60ad28eb584fb4cde2b12e757db8386cb8/.env.bak.20260801-000543",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1541184615719374990/ij1wnF8bf0CULSDYZKUyIEkWWKn7whlClnq9fMa8vGHHEPVanQyUn8WwIiXogfHsx3go",
+    "source": "vxssroott/Kremlin/ba87cc9bf3b9ccec49b9053736e96b3b1111da3a/modules/exfil.ps1",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542641771714977792/6ezAzWA7mJZ2jKNranlLXwBJ34rD8XK-kaOW906TD9Tg0fBzjSEbcAGWKzISFknVJ-3y",
+    "source": "justicedemartinique/martiniquerp.gouv/1951123d203272ace4b1cf35c2a5a2d7179eb7f5/demarches-permis-arme.html",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542635929271926895/Vedw2_1bwVYZC8sfVmLPHz49lSn96gXeZyArke8JTGbFMCGvcsSiIenrJXHMGBpeBP2D",
+    "source": "lovefilm2018/totalbizsupport/c52607428d19e22dcbed79fe7218a179da5bd34d/marketing/06-scheduler/gcp-poster/server.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542710093697519617/MW85tgc37JTU5PKEcB2YOWA-jw8JBy-NIOdgtVc4gT0yeZEtyxxBJ2_Ehkw5Ij6WOo01",
+    "source": "william0927hjk/Roblox-cookie-stealer/b6015d34dd0f59aefc515fa2298feb3f2362a3ff/installer_w11.bat",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542574776164552754/jdo2Dn5cfgMCIEuaLKmWhAUTkDPL78h7FVcRMq1zzGiRpQO5X09at6uzvjJ5FDTkPZAT",
+    "source": "Vipul-hub01/AyodhyaCity/425b6ff2638c8562451a4a7c3c1a2fb67219b3de/js/admin-portal.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542597474290630717/-VfqaKVDPbnmCqyAwhTzw8LciMzabC4MPkiUrwglsHEwsfg513EVpypRZD8WrUxK_kF0",
+    "source": "Vipul-hub01/AyodhyaCity/425b6ff2638c8562451a4a7c3c1a2fb67219b3de/js/admin-portal.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542176282760974357/MltI55jbzszUXKGWIDTcUHVnnkLfZYOV4KR3U-r1xXz6PyOFteJDJeHZFLivl9Vb9twF",
+    "source": "majes111/E-KMCR/696993b2f099d1786c10f418bab178b340ade926/index.html",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542574825950814279/CfviuBMxWZRfjZuHQOdrrwc6ksOv33Paof1_C1iZvCksXzb5lsQoof5wGOAjUdefkEPj",
+    "source": "Vipul-hub01/AyodhyaCity/425b6ff2638c8562451a4a7c3c1a2fb67219b3de/js/admin-portal.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1507178421547962388/GkgbCLUvPj4dyNARvLeA3kNdlgZIflezjHCNxn8I_jfMT0awtmq2eyQE9Zz6n2RQhZoL",
+    "source": "AERProductions/ffpl/cb1b528863a2c58c819e28a7954a4661dc36889a/discord.go",
+    "reason": "Webhook revoked / Dead during re-check"
   }
 ]
