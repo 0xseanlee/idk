@@ -5745,5 +5745,35 @@
     "commitSha": "002ca6ac1dd433425dfa4921f4c668848a1f79e6",
     "source": "win07xp/kaalm/002ca6ac1dd433425dfa4921f4c668848a1f79e6",
     "reason": "No webhook pattern found"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1442702610384556052/cjkAtIJsBydyhEUnzADdIo0Mtk0bsZ70VOwAckZ2VgnfwDXYjTFTzW28C_S6vsNupOpQ",
+    "source": "devapeu/aomstats-crawler/8e14173266561ac78d573de58ef51fcf1b25ceba/app.js",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1410243931106443295/101suhkAvT4uRkVv2px9dMTUvAkyy9lKwvMzUcKTqANwdmRumND4M5xI_yeb6GjkkPg3",
+    "source": "Mage84/cypress-components/320f1f361412feb5058dcd265ac2b49390bf512a/.github/scripts/notifu_discord.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1335660584905084940/TK4B8ljJvdDC09k91L8DgBocnhwE3Nfn6s0O5c7815DT6_fC6O4U9_bfyEiMNUV4POoA",
+    "source": "Meeth-W/Dashboard/52a96cb3e2e89ebd5bdda6350d025a76c6680216/frontend/src/pages/contact.jsx",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1410739080538624121/oK9zdW5B18b2MhGJJMcLo-hojL3uB4xukMPk8PMlbhCocPxLgAJIGpuMc4eaMyCWza-X",
+    "source": "jtacgosw-dot/autotrader-v2-1756412107/d6f75fae8e45a3273294186d96e296d257fc4f9a/test_alertmanager_integration.py",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1296153912126214204/Vs7WKkAs4xyjkou7LV0moKEOlow6YgHEwZ2mvWvLT6lp9gNw3pRivXAvqTnDpWrztNNS",
+    "source": "renlabs-dev/torus-ts/2a7fda864ae353e083886e32894dcfa4c39d3e02/apps/commune-worker/src/discord.ts",
+    "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1433582458997051537/5OwHAPeo6LYlM-ZPywEj8sjVH8CCTLEPIpg_0b7sz9e5XQh4jWK4OJ1kS7eLvMhyxXUB",
+    "source": "printerbrr/Tradealerts/b6977913ef1dc730606173a38480a6937b583c41/discord_config.txt",
+    "reason": "Webhook revoked / Dead during re-check"
   }
 ]
