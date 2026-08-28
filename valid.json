@@ -2691,5 +2691,24 @@
       "token": "ozZDR5YSbaX0UcPOfQ-itJR2oFAfdfVzh_TbfIT2YtHwIs6hO5am_dsFYXw2jZmSR5Up",
       "url": "https://discord.com/api/webhooks/1503981587342037032/ozZDR5YSbaX0UcPOfQ-itJR2oFAfdfVzh_TbfIT2YtHwIs6hO5am_dsFYXw2jZmSR5Up"
     }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542410900063911979/ql3S60QMGXkH_jBI7Cihi4DIIrAxi4QiWlY4o3YtkJxWoPMYgnYAUlWboXsy-1XULskK",
+    "source": "vivekdesai-67/Praject_tracker/1de3ee4f25d497670cf6626a6094596d7baea208/discord.js",
+    "commitMessage": "Fix Discord webhook aborting on Vercel Serverless and ensure fallback URL",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T10:27:36.000+05:30",
+    "commitUrl": "https://github.com/vivekdesai-67/Praject_tracker/commit/1de3ee4f25d497670cf6626a6094596d7baea208",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542410739212615692",
+      "guild_id": "1542410738369429616",
+      "id": "1542410900063911979",
+      "name": "Project_tracker_bot",
+      "type": 1,
+      "token": "ql3S60QMGXkH_jBI7Cihi4DIIrAxi4QiWlY4o3YtkJxWoPMYgnYAUlWboXsy-1XULskK",
+      "url": "https://discord.com/api/webhooks/1542410900063911979/ql3S60QMGXkH_jBI7Cihi4DIIrAxi4QiWlY4o3YtkJxWoPMYgnYAUlWboXsy-1XULskK"
+    }
   }
 ]
