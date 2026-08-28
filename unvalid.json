@@ -2516,5 +2516,3234 @@
     "url": "https://discord.com/api/webhooks/1307347990628925461/7xnzn7Xdwe8fznUKvQAQLmT9F6p1dFinIWUfMMR-gre3BU90Zwn_ggwdueLBfkCxroQc",
     "source": "KTP20/PythonExamples/a393e5af813ce1133a2b62de1d4237974fa9a96e/discord_webhook/test.py",
     "reason": "Webhook revoked / Dead during re-check"
+  },
+  {
+    "commitSha": "3a80569e4b9dad31731f55570be81d24c2ff9f17",
+    "source": "KDT-Team26/groovy-infra/3a80569e4b9dad31731f55570be81d24c2ff9f17",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5328b117c45142d695b42a9ae947f4b8908befca",
+    "source": "eddoonn/ema-bot/5328b117c45142d695b42a9ae947f4b8908befca",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f7ce94bc204e6dd102799809b87af9e3078ab134",
+    "source": "tsxkasa/rendermanager/f7ce94bc204e6dd102799809b87af9e3078ab134",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "898143c9c5292dec5baf86a30852053f47bfc4ec",
+    "source": "danhandev/rss-to-discord/898143c9c5292dec5baf86a30852053f47bfc4ec",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7e07ad3642690df3febe4d557ac353d4d62ef691",
+    "source": "migueljosefeli7/acebot/7e07ad3642690df3febe4d557ac353d4d62ef691",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4e620af3606eef2c60a8eb845a309f375601dc02",
+    "source": "gentoobreaking/gold-monitor-pro/4e620af3606eef2c60a8eb845a309f375601dc02",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e343eea73a1f10c07c5469d1b3d8a62f5d4b4350",
+    "source": "coreentryadmin-web/blackout-web/e343eea73a1f10c07c5469d1b3d8a62f5d4b4350",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fbdec57b2ee3949ab3ec3f1f9e77b3ec27776458",
+    "url": "https://discord.com/api/webhooks/1516150028006195360/BeHlUKU9hwVnDp_c26-PszpTWZnpPM_85eRqpTZKSIYU1x0nDzYwhh8cvo7Xdsr8fv_2",
+    "source": "FIFICHECK/todo-dashboard-v2/fbdec57b2ee3949ab3ec3f1f9e77b3ec27776458/index.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "b59f5872c3906d995244640d186f3eedc85ac241",
+    "source": "officialhypefox/velrix-eggs/b59f5872c3906d995244640d186f3eedc85ac241",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c2d53707f26135a3bc6baf6b1ea7bc2ec6bfa96d",
+    "source": "spawn08/chronos/c2d53707f26135a3bc6baf6b1ea7bc2ec6bfa96d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c73623e7017ab2a274b6705dfde541bd5a3447cc",
+    "source": "fam007e/SecurePasswd_MGMT/c73623e7017ab2a274b6705dfde541bd5a3447cc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f01abe1708cb75137a8e884d4c2397f8f218f43d",
+    "source": "BadlandsFlux/FluxBot/f01abe1708cb75137a8e884d4c2397f8f218f43d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "320164aeb6c694da36732bf7dc310b4c926eb39c",
+    "source": "Jpopaholic/AIAutoStocks/320164aeb6c694da36732bf7dc310b4c926eb39c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8c73c58cf765da66dd02795af22d4bcc03c34ab8",
+    "source": "JeyanthPonnaluri/Sravan-Q-Quantum-Model/8c73c58cf765da66dd02795af22d4bcc03c34ab8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9e145fdd176dc9a83ea7b225c7e014d8c1953236",
+    "source": "KDT-Team26/groovy-infra/9e145fdd176dc9a83ea7b225c7e014d8c1953236",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ed2b296e1649ba9c2eac39687cbbbd6adf6e0c96",
+    "source": "GodTierGamers/DiscordLogger/ed2b296e1649ba9c2eac39687cbbbd6adf6e0c96",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b673864687854565b82faabdc60168ba7d25011d",
+    "source": "danhandev/rss-to-discord/b673864687854565b82faabdc60168ba7d25011d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "80439e0e44e7de9fb2ee7870c7b24cd03a89d917",
+    "source": "ancsemi/Haven/80439e0e44e7de9fb2ee7870c7b24cd03a89d917",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fef244f9ca4082f0d6ec651b9015156b4983a6dd",
+    "source": "lreid751-TopBins/Top-Bins-FPL-Data/fef244f9ca4082f0d6ec651b9015156b4983a6dd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a00a8899120e6de4630812db86419de339e87bbb",
+    "source": "scotthawes/opencode-model-monitor/a00a8899120e6de4630812db86419de339e87bbb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7aea27332f7260a9390d81e89260402b4c3097bc",
+    "source": "cunninghambe/uh-oh/7aea27332f7260a9390d81e89260402b4c3097bc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3f389333b7c36b3801cca71654ea6b9c846a2f02",
+    "source": "Stoichz/stoichz-ip-logger-for-education/3f389333b7c36b3801cca71654ea6b9c846a2f02",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "038cc0f4f71c9540c40a42087aff56efe1198567",
+    "source": "9jakeryan3-commits/novo-store/038cc0f4f71c9540c40a42087aff56efe1198567",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b913fa229635f360168a3e4bf1b0052a324e9c27",
+    "url": "https://discord.com/api/webhooks/1542693212039159949/BgMDZBMVDs_ru0N5ntGtApb7WoutEL-lZMACZD4vugrjP1sWN_EzsN_KNuCuKiaEg4VL",
+    "source": "Unknownaod/lafdfims/b913fa229635f360168a3e4bf1b0052a324e9c27/records-inquiry.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "6fb431bb0df5f8b0d93f5d896a51570b08e6548c",
+    "source": "frozzle123/happylove/6fb431bb0df5f8b0d93f5d896a51570b08e6548c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9abd610da185edca1cd4ebc02320a86a57d2d7a8",
+    "source": "XxXKoZXxX/neural-swarm/9abd610da185edca1cd4ebc02320a86a57d2d7a8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "abcabf8addbbe7bcc12a9d5ae7fc52aaed26dbcf",
+    "source": "callenflynn/CalOS/abcabf8addbbe7bcc12a9d5ae7fc52aaed26dbcf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "342f8fbfe32fb71f20b4a8e58d67008b5ca12219",
+    "source": "SterlinkIng89/hexgate-spectator/342f8fbfe32fb71f20b4a8e58d67008b5ca12219",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f808511d9ce2c08cd5998668f9d68245b3b8e7c1",
+    "source": "samcom593-creator/rebuild-brighten-sparkle/f808511d9ce2c08cd5998668f9d68245b3b8e7c1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b333a7d5201eace56f4913b47314b19cd207b7cd",
+    "source": "SterlinkIng89/hexgate-spectator/b333a7d5201eace56f4913b47314b19cd207b7cd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d938e2f9e365eb9d3eb6760dbdad6be647a9f153",
+    "source": "enfldka-web/Ebook-pro/d938e2f9e365eb9d3eb6760dbdad6be647a9f153",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "44d10f368426d50afd7598bfd33e7afe7bc0ee96",
+    "source": "ghxsty-dev/skyblue-site/44d10f368426d50afd7598bfd33e7afe7bc0ee96",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "47512399f6422c361235ac58bd24a4eb0708933f",
+    "source": "truengtrakanthongma/Gold-signal-lap/47512399f6422c361235ac58bd24a4eb0708933f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a45b538d9fde9edb3ca20a74d540234e51c4d6e2",
+    "source": "AgentVisorAI/agentvisor-ai/a45b538d9fde9edb3ca20a74d540234e51c4d6e2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a9e9a40fcaeb6b49e31d6f0a0816f53db19a5083",
+    "source": "spencerjireh/cujo/a9e9a40fcaeb6b49e31d6f0a0816f53db19a5083",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "66db6a3c18c6a1c4fe4ca59aad03c3c5e2d9115a",
+    "url": "https://discord.com/api/webhooks/1542688396483362817/lAyK-8LZ-lt1LET8yvnOmgDwIY8npQ284k5W0WKYXZZte_acSseSHPf9DBb9x3xG-fUf",
+    "source": "Unknownaod/lafd/66db6a3c18c6a1c4fe4ca59aad03c3c5e2d9115a/commendation.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "59fe0dece6bc8326f16d528c792ccfdb32b63952",
+    "source": "advanced-rising/kobus-seat-watcher/59fe0dece6bc8326f16d528c792ccfdb32b63952",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6369d27463a189ecc36912a265641787ba09966e",
+    "source": "HyperSafeD/Sanctifier/6369d27463a189ecc36912a265641787ba09966e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a1cce8cc08f24f9190567cbc8aa718838ac69f6d",
+    "source": "dylanpersonguy/dcc-amm-swap/a1cce8cc08f24f9190567cbc8aa718838ac69f6d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a6e132df538b7a981bb2cd35bd11679e74eeaa1c",
+    "source": "MJACode/betting-model/a6e132df538b7a981bb2cd35bd11679e74eeaa1c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ed2371e721f230fa7185614e0503afc13db04a1f",
+    "source": "langx/langx/ed2371e721f230fa7185614e0503afc13db04a1f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a3cd618cbe6264772f6fa7da178ee853f40762ac",
+    "source": "dillymac1990/discord-summary-bot/a3cd618cbe6264772f6fa7da178ee853f40762ac",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6a206374f68a27a43d97ce1e34093202ff17648a",
+    "source": "darpan9272/AiBugHunter/6a206374f68a27a43d97ce1e34093202ff17648a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ac04ddaa54bcb841d74d3fdcd999a217bebee787",
+    "source": "Maijied/Cursor-Curse-Monitor-by-Lorapok/ac04ddaa54bcb841d74d3fdcd999a217bebee787",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a5b9c1f41a04b18df9546cf5db7ad3158753447d",
+    "source": "om13rajpal/meeting-transcriber/a5b9c1f41a04b18df9546cf5db7ad3158753447d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2e01563c97c4c58c09fc39404a0feaf8a465d029",
+    "source": "wakeensito/aws-daily-discord/2e01563c97c4c58c09fc39404a0feaf8a465d029",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a9777b282625639cd27395065e6de18e1313c703",
+    "source": "wakeensito/aws-daily-discord/a9777b282625639cd27395065e6de18e1313c703",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "244c2577930a7d58c8c217ac07e1ffb301d89c51",
+    "source": "unchartedterritory5995-cyber/UCT-Dashboard/244c2577930a7d58c8c217ac07e1ffb301d89c51",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f7fdb836e7165ee6590ae71ea35c94481ec8cbf8",
+    "source": "Maijied/Cursor-Curse-Monitor-by-Lorapok/f7fdb836e7165ee6590ae71ea35c94481ec8cbf8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9a9ff6a0efcdefc6977dcbc1f113d74564fcea79",
+    "source": "AJDent/NoteClaw-claude-netlify-automated-blog-content/9a9ff6a0efcdefc6977dcbc1f113d74564fcea79",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bdb8ef8407b3bd0f7afacb2af38b1e01998254ed",
+    "source": "ZBishopM/windots/bdb8ef8407b3bd0f7afacb2af38b1e01998254ed",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6eef5eb6c922bc8b32a4a8ae82e49b0b9f58244d",
+    "source": "v9crf8tyfv-coder/X.O/6eef5eb6c922bc8b32a4a8ae82e49b0b9f58244d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "dac8f619ec03c5d61c908d4274257ec3bf469ad6",
+    "source": "Dzikooooo/dzikovinted-ai/dac8f619ec03c5d61c908d4274257ec3bf469ad6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "418de88bf0bf5138db02f63fcf0aa078f3bea810",
+    "source": "fartherr97/florida-roleplay-site/418de88bf0bf5138db02f63fcf0aa078f3bea810",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ab8ae8b85890c3ec0a3a77b6a697c0768b2ad0ef",
+    "source": "johnwatso/SwiftBot/ab8ae8b85890c3ec0a3a77b6a697c0768b2ad0ef",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4b6da2b24e5bd9f4335bba340360417475a4791f",
+    "source": "alokw/inbound/4b6da2b24e5bd9f4335bba340360417475a4791f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "415c4193be9219605f4bf5a5498a5b406b1edcea",
+    "source": "MJACode/betting-model/415c4193be9219605f4bf5a5498a5b406b1edcea",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "92f449614df2f4bde747bed401c7c9b9486486f1",
+    "source": "Dzikooooo/dzikovinted-ai/92f449614df2f4bde747bed401c7c9b9486486f1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0296d4d1a9426268ac9a6cadf47fbb6432624b89",
+    "source": "jrjkirk/call-to-arms-api/0296d4d1a9426268ac9a6cadf47fbb6432624b89",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6985b79cf738920f862ebddfe6fec6e2a6c7d944",
+    "source": "freddykrueger88/JobHunter/6985b79cf738920f862ebddfe6fec6e2a6c7d944",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7033f853ce912be36198c0685ade348ad3f6511b",
+    "source": "om13rajpal/meeting-transcriber/7033f853ce912be36198c0685ade348ad3f6511b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f53e0e0040ed3cf9599bb7b49682861565b84dd1",
+    "url": "https://discord.com/api/webhooks/123456789012345678/abcdefghijklmnopqrstuvwxyz1234567890",
+    "source": "fajita-io/fajita/f53e0e0040ed3cf9599bb7b49682861565b84dd1/tests/discord-webhook.test.ts",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "40b93c7604b606315e7684997cb8e33576074f98",
+    "source": "jcorreaviana/bank-of-decoy/40b93c7604b606315e7684997cb8e33576074f98",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4b33c73fa35e93fca36b715f64d2c0e53a06007e",
+    "source": "jcorreaviana/bank-of-decoy/4b33c73fa35e93fca36b715f64d2c0e53a06007e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "45de1ead43329b5e644ab3a3618245b1370d88e3",
+    "source": "orbisdata-cl/github-actions-templates/45de1ead43329b5e644ab3a3618245b1370d88e3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "dde9fbfbe205d52f16e6d8aee13a9ea31dba69d0",
+    "source": "om13rajpal/meeting-transcriber/dde9fbfbe205d52f16e6d8aee13a9ea31dba69d0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2fb2b94354d50398b803c3de5178026c71b32e00",
+    "source": "iMajorX0837/chinesa/2fb2b94354d50398b803c3de5178026c71b32e00",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "72880349c01f8493672e166111a426ce2ae6ba9b",
+    "source": "AMcInnis13/FFWebhooks/72880349c01f8493672e166111a426ce2ae6ba9b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "66660722a494c07a1ed17a6e25843f4c783ed531",
+    "source": "jcub1011/KnockBox-Games/66660722a494c07a1ed17a6e25843f4c783ed531",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a9c7dbc496da60a5899bf40dd16c358c8f35fa0e",
+    "source": "jcorreaviana/bank-of-decoy/a9c7dbc496da60a5899bf40dd16c358c8f35fa0e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "134d39ca63bd593147adbcff2a84b72c542fa526",
+    "source": "AkselSorensen/gca-nuxt/134d39ca63bd593147adbcff2a84b72c542fa526",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f53e0e0040ed3cf9599bb7b49682861565b84dd1",
+    "url": "https://discord.com/api/webhooks/987654321098765432/AbCdEfGhIjKlMnOpQrStUvWxYz0123456789",
+    "source": "fajita-io/fajita/f53e0e0040ed3cf9599bb7b49682861565b84dd1/tests/discord-webhook.test.ts",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "a1529fe492234b85306d68c9b3aa17a34d631661",
+    "source": "yaboisaad/Python-File-Extractor/a1529fe492234b85306d68c9b3aa17a34d631661",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "faeb89249e76f617a988523040ab1a90073f8f72",
+    "source": "joncfrancisco/pzserver/faeb89249e76f617a988523040ab1a90073f8f72",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "92d73147768e8a2f90fb3e6fc4c28bddeba604a6",
+    "source": "justicedemartinique/martiniquerp.gouv/92d73147768e8a2f90fb3e6fc4c28bddeba604a6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6fbf728b3e59061b5b5bb7970b3dccc066979163",
+    "source": "Cyberghost59/resellpilot/6fbf728b3e59061b5b5bb7970b3dccc066979163",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c3a03a129aedfbe23ce48eab3d7d613095ddcd77",
+    "source": "jacoknapp/scriptorum/c3a03a129aedfbe23ce48eab3d7d613095ddcd77",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6e0401c8ff594a486a96a762c16502c4b0102c6b",
+    "source": "3DOLAG/ultimateAPI-web/6e0401c8ff594a486a96a762c16502c4b0102c6b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6d3d98af1411def657bd4c36bb60c70a7c585ab8",
+    "url": "https://discord.com/api/webhooks/1536128336164556840/2uJi102cuoLzLMfXrPemHkNazXix7TlW0bIjGy9AgPiKx0k_iZzd9FHDZj5TZCvJQsyJ",
+    "source": "xdfkenny/xdfkenny-sora-modules/6d3d98af1411def657bd4c36bb60c70a7c585ab8/script.js",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "ca4905172ddc126a8e399a3442e806c5494c278f",
+    "source": "elvora1marketing-ctrl/vintedsniper/ca4905172ddc126a8e399a3442e806c5494c278f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2662fbef6b73422c281a73430b076cb1a80b1e65",
+    "source": "unchartedterritory5995-cyber/UCT-Dashboard/2662fbef6b73422c281a73430b076cb1a80b1e65",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "46a285ec15e58c3316c6ae6194e9bf17fdc3da07",
+    "url": "https://discord.com/api/webhooks/123456789012345678/abcdef_ABCDEF-12345",
+    "source": "jpmclaug/Chimaera/46a285ec15e58c3316c6ae6194e9bf17fdc3da07/test_app.py",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "5b89b9d9272be8b579c39521ef33cfc3b1015177",
+    "source": "doubledashdeluxe/ddd/5b89b9d9272be8b579c39521ef33cfc3b1015177",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "eda5a309f2f6843375748466b94a7ecb12579be5",
+    "source": "wuyiomokunrin-cell/discord-archiver/eda5a309f2f6843375748466b94a7ecb12579be5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "cc3bd255d86500a9d7a5fd404be8e9f0433ce282",
+    "source": "BrunaBorbam/Neuralabs/cc3bd255d86500a9d7a5fd404be8e9f0433ce282",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d22f16e376e62e9e76c7055475fd8143eaca493c",
+    "source": "mikeverwer/ALS-Take-Home/d22f16e376e62e9e76c7055475fd8143eaca493c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "63d4317a5c5627fafe6575f1560608ff3769aa47",
+    "source": "zerox-exe8/cicada-3301/63d4317a5c5627fafe6575f1560608ff3769aa47",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2fed07f6becf28adc19d6f3e2c616fd519681062",
+    "source": "Vipul-hub01/AyodhyaCity/2fed07f6becf28adc19d6f3e2c616fd519681062",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "46a285ec15e58c3316c6ae6194e9bf17fdc3da07",
+    "url": "https://discord.com/api/webhooks/987654321098765432/token_ABC-123",
+    "source": "jpmclaug/Chimaera/46a285ec15e58c3316c6ae6194e9bf17fdc3da07/test_app.py",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "a37b0500519e4c4284fc932ecb4f418a7f075d07",
+    "source": "The-Angel-OS/angels-os/a37b0500519e4c4284fc932ecb4f418a7f075d07",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "baf7db85a7a8e70223c059519f574bde38f6e681",
+    "source": "Kushal-Raj-G-S/Roast-Turn-Brutal-Reviews-into-Engineering-Tickets/baf7db85a7a8e70223c059519f574bde38f6e681",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2db25c52ce851496a278acab561ec36add93abaa",
+    "source": "drewapalooza/exodus-bingo/2db25c52ce851496a278acab561ec36add93abaa",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "46a285ec15e58c3316c6ae6194e9bf17fdc3da07",
+    "url": "https://discord.com/api/webhooks/112233445566778899/tokenXYZ",
+    "source": "jpmclaug/Chimaera/46a285ec15e58c3316c6ae6194e9bf17fdc3da07/test_app.py",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "c165d8ae9955be6ac9fd8f9de5a357f6f5a07319",
+    "url": "https://discord.com/api/webhooks/1542619447804567572/WWTb3lcZl_oNp0Ul8JFX2TJ9B1H5ZeR1yq3HHdtGqvZ-_GgCTWoIzk4x217OdDMzGgha",
+    "source": "Stephenuffugus/SWS-apps/c165d8ae9955be6ac9fd8f9de5a357f6f5a07319/apps/fretwork/index.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "46a285ec15e58c3316c6ae6194e9bf17fdc3da07",
+    "url": "https://discord.com/api/webhooks/998877665544332211/token_123",
+    "source": "jpmclaug/Chimaera/46a285ec15e58c3316c6ae6194e9bf17fdc3da07/test_app.py",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "3a86c2a6482b3c72eaeee1ee06f006d9aa2ce06d",
+    "source": "mlo-Tek/SceneNFO/3a86c2a6482b3c72eaeee1ee06f006d9aa2ce06d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4d3a4c8e0c076af5d13259a94792886a92b828d0",
+    "source": "Stephenuffugus/SWS-apps/4d3a4c8e0c076af5d13259a94792886a92b828d0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "61842269a1f8193189c157e99d85ee834747e605",
+    "source": "Mtman1987/streamweaver/61842269a1f8193189c157e99d85ee834747e605",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ebe0a077704644f48dca9739ba4d64bfa210001c",
+    "source": "TheManOfTeel/RssDiscordBot/ebe0a077704644f48dca9739ba4d64bfa210001c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3cd6728db91615355349a2272efb4f4419f160d8",
+    "source": "rafael-takeda/ronkeverse-vendas-bot/3cd6728db91615355349a2272efb4f4419f160d8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8838bc92384038803ff3454c0390f7d957f12062",
+    "source": "opu-sense/Nexora-Bot/8838bc92384038803ff3454c0390f7d957f12062",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b311548fe5f927b557cdc285ae3305255dfc2255",
+    "source": "quadseven/grug/b311548fe5f927b557cdc285ae3305255dfc2255",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b745a981a242caa25f3e435fd9906cdb862c40e4",
+    "source": "aga1342/Live-win/b745a981a242caa25f3e435fd9906cdb862c40e4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "65159308708072fca45e7d32b2f1dea663615034",
+    "source": "adsw1147/ballfree/65159308708072fca45e7d32b2f1dea663615034",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a7df79695eacf48929c511f1f3974c0810e5a56c",
+    "source": "magnusalisha/compass/a7df79695eacf48929c511f1f3974c0810e5a56c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2c90d7c19c62343368ae6c5b9dfaa3d0f1a1db97",
+    "source": "dravr-ai/dravr-platform/2c90d7c19c62343368ae6c5b9dfaa3d0f1a1db97",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ac9fdd3ff9a588f955095161eab7884ae19818d7",
+    "source": "gusflus/bill-bot/ac9fdd3ff9a588f955095161eab7884ae19818d7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8c98e5edc1f3f4cf99d5ff3d6409b058064c77d0",
+    "source": "abgxhoben/LuckRankV2/8c98e5edc1f3f4cf99d5ff3d6409b058064c77d0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2baedb08930c57ad924194799708ec417e13bfc5",
+    "source": "N9HO/another-morse-trainer/2baedb08930c57ad924194799708ec417e13bfc5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c6e1e2199a3c1f7ff56a5399bd93088ee604112a",
+    "source": "studioaz2022/studio-az-setter-backend/c6e1e2199a3c1f7ff56a5399bd93088ee604112a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a68466f043c6ab5c34eb4fac04f951fe290b332f",
+    "source": "gusflus/bill-bot/a68466f043c6ab5c34eb4fac04f951fe290b332f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7b7c47f66934686b492e35b3a6fa43695dfe189a",
+    "source": "ancsemi/Haven/7b7c47f66934686b492e35b3a6fa43695dfe189a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8c17f8f03879fe4f83ca835111b1c8f3fea2a369",
+    "source": "totobusnello/memoria-nox/8c17f8f03879fe4f83ca835111b1c8f3fea2a369",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8d9372dea0d2c834d78cf12e5769650e6738dcbf",
+    "url": "https://discord.com/api/webhooks/1536838940768739348/wikmXHPh4C4mo_V6C9E7b0yMKJeONQTnDQTphc69kZ9zDuWWn8tk0lY-tUjPr_WVwEbA",
+    "source": "EsEssam7/CatC/8d9372dea0d2c834d78cf12e5769650e6738dcbf/wrangler.toml",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "bae6a933d39c92f41870dbbe1fe25440a050f158",
+    "source": "ChiefGyk3D/typo-sniper/bae6a933d39c92f41870dbbe1fe25440a050f158",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "cd923d457d930bfe01b1149a3166eb364591ba9d",
+    "source": "sjh146/analyist_dd/cd923d457d930bfe01b1149a3166eb364591ba9d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "aa4b27137771f11f9887c51b0b14d6ea90580454",
+    "source": "branduzzo/CheckHacks/aa4b27137771f11f9887c51b0b14d6ea90580454",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "69b1f2e06eb3baba4a611d85e7dccf0d1c27fe92",
+    "source": "Kushal-Raj-G-S/Roast-Turn-Brutal-Reviews-into-Engineering-Tickets/69b1f2e06eb3baba4a611d85e7dccf0d1c27fe92",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "84e9f0b29323e310e0d1668c7bd169c09d338546",
+    "source": "lreid751-TopBins/Top-Bins-FPL-Data/84e9f0b29323e310e0d1668c7bd169c09d338546",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e07c95683b31c6771fbe5e3f86649083b82a8b6c",
+    "source": "superuser404notfound/Sodalite/e07c95683b31c6771fbe5e3f86649083b82a8b6c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "465356ca42d5c25f45f3424da07afe15d183eaa2",
+    "source": "AnthonyASBaptiste/nemoclaw-agent-watchdog/465356ca42d5c25f45f3424da07afe15d183eaa2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8d9372dea0d2c834d78cf12e5769650e6738dcbf",
+    "url": "https://discord.com/api/webhooks/1542606755211645008/KyglZhGtUQ8lJNcijZc_RirjkBQS89RRYNMT831v12TrXXp-ej178M0tENxIB3LrxSAr",
+    "source": "EsEssam7/CatC/8d9372dea0d2c834d78cf12e5769650e6738dcbf/wrangler.toml",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "8fbd9c7bd3e31be875a1656adef6ef29d349bab2",
+    "source": "dantiez/supreme-jp-monitor/8fbd9c7bd3e31be875a1656adef6ef29d349bab2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c040b3e8670fa2ab666bee7c1a5f32b539cb441b",
+    "source": "ctrchris08/wfmi-trading-system/c040b3e8670fa2ab666bee7c1a5f32b539cb441b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8b7184d6c1b0241b2c3d2671ed3ece4cba943a0b",
+    "source": "gusflus/bill-bot/8b7184d6c1b0241b2c3d2671ed3ece4cba943a0b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "502316d4d726001b7e4ae7b99a49a25e3e520565",
+    "source": "TheServat/ViralRadar/502316d4d726001b7e4ae7b99a49a25e3e520565",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "911ac4e7382c7465f7ce12c8a0e72afffa70b9f7",
+    "source": "aammuhammad18-cmyk/majeda/911ac4e7382c7465f7ce12c8a0e72afffa70b9f7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "adefc838c12c229160d4d8c624e6be5f1bb4ec41",
+    "source": "phuriphatma/samomdkkuweb/adefc838c12c229160d4d8c624e6be5f1bb4ec41",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "abdd0490e4455584785603f817e59c08f2fa0427",
+    "source": "LilijoySkyseeker/nixOS/abdd0490e4455584785603f817e59c08f2fa0427",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b31971b118ce542d46e4b7d9e2f3ce290d2d68fb",
+    "url": "https://discord.com/api/webhooks/123456789012345678/tok-tok-tok",
+    "source": "sean-lai-sh/morpheus/b31971b118ce542d46e4b7d9e2f3ce290d2d68fb/tests/notify-grok-dispatch.test.ts",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "34a7eda3c735a8fc59d51aa79b2d512d9b032145",
+    "source": "phuriphatma/samomdkkuweb/34a7eda3c735a8fc59d51aa79b2d512d9b032145",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f1f48437eb98357ceba6bb2bc6af4d844c125eb4",
+    "source": "Am4er/Server-Performance-Monitor/f1f48437eb98357ceba6bb2bc6af4d844c125eb4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6b518f62240fff6e483c38806eab4184b3297325",
+    "source": "Thiagoalfs/RedeNerds/6b518f62240fff6e483c38806eab4184b3297325",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e14a8f988dec6fd0e588f58fc0467c3d81d996d4",
+    "source": "phuriphatma/samomdkkuweb/e14a8f988dec6fd0e588f58fc0467c3d81d996d4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "248fca2bbcc45eeae2331f8a41406a55e2534a39",
+    "source": "spencerjireh/cujo/248fca2bbcc45eeae2331f8a41406a55e2534a39",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "96799768facbec1d0c9240168af7315c8a90cce1",
+    "source": "peans99/QuantumWake/96799768facbec1d0c9240168af7315c8a90cce1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2f0d35a44c133a2981e8ec5b12276917b83f0ac3",
+    "source": "gsoultan/gateon/2f0d35a44c133a2981e8ec5b12276917b83f0ac3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6b032a538a8499082b7a1cff8511f6a19d1db834",
+    "source": "tatership-command/ballboy-docs/6b032a538a8499082b7a1cff8511f6a19d1db834",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6f68e21fd31e2b93d1ca8e32c048122d9459c144",
+    "source": "phuriphatma/samomdkkuweb/6f68e21fd31e2b93d1ca8e32c048122d9459c144",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "993a7de5aee0e03c0b133495c84a38c94afe13ff",
+    "source": "phuriphatma/samomdkkuweb/993a7de5aee0e03c0b133495c84a38c94afe13ff",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "17f63593fa904b3240f174e1630a61c7a759cc6e",
+    "source": "wuyiomokunrin-cell/discord-archiver/17f63593fa904b3240f174e1630a61c7a759cc6e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "eda347142533827fd8e5b94e24785b79f2ef9966",
+    "source": "khushi897920-lang/hercycle-ai/eda347142533827fd8e5b94e24785b79f2ef9966",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1bda8f1a59ef2cd34ae0da7280ba68bb556c2235",
+    "source": "moonie0201/nichproject/1bda8f1a59ef2cd34ae0da7280ba68bb556c2235",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "696993b2f099d1786c10f418bab178b340ade926",
+    "url": "https://discord.com/api/webhooks/1542253233920155669/XscnRcNcbzpFeFWXIQKmjlHpMXGEJnxwJPEHtO1i5AaQCAADrPAF_3mcsILxJ_WxNxJ_",
+    "source": "majes111/E-KMCR/696993b2f099d1786c10f418bab178b340ade926/index.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "b4935bed774a311f7c060fe6c3aa1563c675017e",
+    "source": "XyraL/cipher-airdrops/b4935bed774a311f7c060fe6c3aa1563c675017e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "67c270b2a7fcd6964ad4e55808327aca38469f18",
+    "source": "libraminh/gta-master-tool/67c270b2a7fcd6964ad4e55808327aca38469f18",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "572b91f4684dbe187f442ef07c7acea55c870eba",
+    "source": "guarzo/authGD/572b91f4684dbe187f442ef07c7acea55c870eba",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "40266e972f86b7a4b8fbb788b1bea2e8c7ada932",
+    "source": "asm198x/asm198x/40266e972f86b7a4b8fbb788b1bea2e8c7ada932",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1f6212e467e347a32d2613b69958d85fb27fa90f",
+    "source": "play198x/play198x/1f6212e467e347a32d2613b69958d85fb27fa90f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "68ad306b1359c5b2b98f9a484fd071e260bf011c",
+    "source": "code198x/website/68ad306b1359c5b2b98f9a484fd071e260bf011c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a566100a5419cfca34e191dda4bb63b443d2e769",
+    "source": "os-santiago/homedir-infra/a566100a5419cfca34e191dda4bb63b443d2e769",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "783ab7de5a2ae720acc75e203d1968f2255c3675",
+    "source": "format198x/format198x/783ab7de5a2ae720acc75e203d1968f2255c3675",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a0ad2056cb08dd600b22e907445f731931070eb6",
+    "source": "cat198x/cat198x/a0ad2056cb08dd600b22e907445f731931070eb6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8bb87952debf9407d19c0adf215c166b9197a3dd",
+    "source": "mamistar/Roblox-grabber/8bb87952debf9407d19c0adf215c166b9197a3dd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d07285c244f9b59d42a386bcc4b0031841e73b00",
+    "source": "spencerjireh/cujo/d07285c244f9b59d42a386bcc4b0031841e73b00",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1e136b24fd398d3a2e56c9bbe289f85da0807747",
+    "source": "build198x/build198x/1e136b24fd398d3a2e56c9bbe289f85da0807747",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3140c2d44d92138bbdaf500485332512aa6acf37",
+    "source": "tschoolsu/tpass-form/3140c2d44d92138bbdaf500485332512aa6acf37",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "53835a8cb026a18d08e17c2246c3d334311d98f4",
+    "source": "flipslidersand-labs/forge/53835a8cb026a18d08e17c2246c3d334311d98f4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0f994a16d99762861ac211506a28f85951a555a1",
+    "source": "mrm987/PeroPix3/0f994a16d99762861ac211506a28f85951a555a1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b8652a07f857c132b842ecfc6ce5542727baaf32",
+    "source": "spencerjireh/cujo/b8652a07f857c132b842ecfc6ce5542727baaf32",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b74cfdeb3782657494f50f12c1c69dfd197fc8f1",
+    "source": "phuriphatma/samomdkkuweb/b74cfdeb3782657494f50f12c1c69dfd197fc8f1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "370f728db2e52ca3a5bd27be759f3cb641bc9697",
+    "source": "flipslidersand-labs/forge/370f728db2e52ca3a5bd27be759f3cb641bc9697",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "eb8eedb7f12657dc5cd997fe82bd2d6e3878986e",
+    "source": "emu198x/emu198x/eb8eedb7f12657dc5cd997fe82bd2d6e3878986e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "58467835f05bc9b11005c230f7d8ea265aa675c7",
+    "source": "phuriphatma/samomdkkuweb/58467835f05bc9b11005c230f7d8ea265aa675c7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3a52fb96a9c45830896bc0894fdab6617eb4ff09",
+    "source": "dylanglatt/fitness-agent/3a52fb96a9c45830896bc0894fdab6617eb4ff09",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0cbda56162d41c6dbcabbee140e0a59de5e7e7ec",
+    "source": "spencerjireh/cujo/0cbda56162d41c6dbcabbee140e0a59de5e7e7ec",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8e2b23a59af7bc90088060110ca503691ca3e606",
+    "url": "https://discord.com/api/webhooks/123456789012345678/abcdefghijklmnopqrstuvwx",
+    "source": "sean-lai-sh/morpheus/8e2b23a59af7bc90088060110ca503691ca3e606/tests/notify-webhooks.test.ts",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "cce61646e48adea534aee7a3e218206021ba3958",
+    "source": "phuriphatma/samomdkkuweb/cce61646e48adea534aee7a3e218206021ba3958",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5d2590b22915beabeea52f786fd821d1c83e61d7",
+    "source": "debug198x/debug198x/5d2590b22915beabeea52f786fd821d1c83e61d7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "832bb145c284242fbc38b2e5534f5b7d38918d09",
+    "source": "phuriphatma/samomdkkuweb/832bb145c284242fbc38b2e5534f5b7d38918d09",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3a85dfff7abba2f9808b2c639c5c8738529d01eb",
+    "source": "asm198x/asm198x/3a85dfff7abba2f9808b2c639c5c8738529d01eb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "12a1b3921477d4583a5001f4a372975a742375b5",
+    "source": "emu198x/emu198x/12a1b3921477d4583a5001f4a372975a742375b5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "66e0a150f27388d5d91e6f3a1129a67c6bf6480b",
+    "source": "aronbis/test-Aron/66e0a150f27388d5d91e6f3a1129a67c6bf6480b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9e81ff4c19b273ba680df4bfc6675ff046f7bc7b",
+    "source": "flipslidersand-labs/forge/9e81ff4c19b273ba680df4bfc6675ff046f7bc7b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ac46d3587e21292801383a035dfeb4c7c1955a6d",
+    "source": "apdsoftware/postqron/ac46d3587e21292801383a035dfeb4c7c1955a6d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4e8e96db8c737727ef5ba8463bbad0935cf5b5db",
+    "source": "fuyuxiang/echo-agent/4e8e96db8c737727ef5ba8463bbad0935cf5b5db",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9122b744eefdefe7da6c9b873d9c21197b1ba6ab",
+    "source": "telaminai/fluxtionauditlog-analyser/9122b744eefdefe7da6c9b873d9c21197b1ba6ab",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fb193cbb2bda188e3cc5fb1eccd7a1b6e0033fa9",
+    "source": "Stotteyman/stotteyman/fb193cbb2bda188e3cc5fb1eccd7a1b6e0033fa9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8e113a7fbfc23154cd46b1d07c42e21ceb9a532c",
+    "source": "phuriphatma/samomdkkuweb/8e113a7fbfc23154cd46b1d07c42e21ceb9a532c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6daabccbab12538a4322cd6f4764d599f53d9706",
+    "url": "https://discord.com/api/webhooks/1542556758122307686/4qSMem2xrifH9w3ieLaQATkV7MK-T06g9YpTszFIEP5ujXSVltGoOUq7Xcsnf4HZLGFd",
+    "source": "akari310/akari310-bio/6daabccbab12538a4322cd6f4764d599f53d9706/script.js",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "b62ab291a341f0ffc69c84327172d86eb509237b",
+    "source": "BadlandsFlux/FluxBot/b62ab291a341f0ffc69c84327172d86eb509237b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "dc3805561534a9d2ae890cc714c9c8e391d085b2",
+    "source": "telaminai/fluxtionauditlog-analyser/dc3805561534a9d2ae890cc714c9c8e391d085b2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1e27b5f0f0a288e36e79aa73609699e2eae58271",
+    "source": "sean-lai-sh/morpheus/1e27b5f0f0a288e36e79aa73609699e2eae58271",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f9be5d5a2bb2840e56df5411f43f5dd1dbc62621",
+    "source": "VictorSalome/jenus-api/f9be5d5a2bb2840e56df5411f43f5dd1dbc62621",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e53ed2567fb5c77d0b1f5b355095180068dccf0e",
+    "source": "Soldier0x0/briefr/e53ed2567fb5c77d0b1f5b355095180068dccf0e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4d41c414d8578bf309709f4ca30f36eb657dbf04",
+    "source": "jaymcole/housegraph-nodes/4d41c414d8578bf309709f4ca30f36eb657dbf04",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a2366be74c49ad618370ecd5e1c05def07060775",
+    "source": "Ideaplaces/agent-inbox/a2366be74c49ad618370ecd5e1c05def07060775",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a323a863a0efca5a87173de93f937530fbb8d463",
+    "source": "Stotteyman/stotteyman/a323a863a0efca5a87173de93f937530fbb8d463",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "272f4e4abe618ec74c21cb9325686a9abb4c9aa4",
+    "source": "abalaji-xai/hermes-agent/272f4e4abe618ec74c21cb9325686a9abb4c9aa4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b0b46bc9eb027642c0009a0a36bcfa9f4d3027e9",
+    "source": "tazzo/tazlab-k8s/b0b46bc9eb027642c0009a0a36bcfa9f4d3027e9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5cd42313d830191c56d657d4ef788a18e0d37a56",
+    "source": "derekpon17-prog/sharp-indicator/5cd42313d830191c56d657d4ef788a18e0d37a56",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a09a3e97db6759d7e155c6641a6d8cf8bcdaee48",
+    "source": "infinidysk/infinidysk/a09a3e97db6759d7e155c6641a6d8cf8bcdaee48",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "54dc06e46c8c99aaad48f1c683752e5daf788a75",
+    "source": "WhispersOfJ/thebearcave/54dc06e46c8c99aaad48f1c683752e5daf788a75",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5ecd24957ca87fe73fb9c9abc6b29f94382bcd49",
+    "source": "derekpon17-prog/sharp-indicator/5ecd24957ca87fe73fb9c9abc6b29f94382bcd49",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c71f358d5b156d8ab021ff6e0750e7c26bfb4948",
+    "source": "derekpon17-prog/sharp-indicator/c71f358d5b156d8ab021ff6e0750e7c26bfb4948",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4d82aab03acc26a4fae96001087e2204cb5c7b8e",
+    "source": "unchartedterritory5995-cyber/UCT-Dashboard/4d82aab03acc26a4fae96001087e2204cb5c7b8e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9f9fbc64a7bc75c425b6fc5c2a9549349016dfd9",
+    "source": "LucasSantana-Dev/Lucky/9f9fbc64a7bc75c425b6fc5c2a9549349016dfd9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c9c49549d6d042f4359e69dc69784e6e3f543e2f",
+    "source": "joelhalen/droptracker-plugin/c9c49549d6d042f4359e69dc69784e6e3f543e2f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4b7b00842e59ffa9b68e7fcb0a15e27e644ae8f9",
+    "source": "Tsuguya/home-cluster/4b7b00842e59ffa9b68e7fcb0a15e27e644ae8f9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7f59f8814e929df674f093aeb3b46268afa90215",
+    "source": "Dsek-LTH/web/7f59f8814e929df674f093aeb3b46268afa90215",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "acad9ede7dbbf812fd0846e8ede91e6558fbcf6f",
+    "source": "ASEAN-Motor-Club/zomboid-server/acad9ede7dbbf812fd0846e8ede91e6558fbcf6f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "56d4bebe580ec18c10661d62ddf405a6148974a7",
+    "source": "confessio-labs/confessio/56d4bebe580ec18c10661d62ddf405a6148974a7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3059447e3dd43c91aed3c78a9429a994b6e9d860",
+    "source": "BadlandsFlux/FluxBot/3059447e3dd43c91aed3c78a9429a994b6e9d860",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "aea30b4504a7f9757f58dfe7126af93c360e5c9c",
+    "source": "ANTCPU/ads/aea30b4504a7f9757f58dfe7126af93c360e5c9c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "53b743b435623e6a27edee2be190970e975bd515",
+    "source": "thepphithakp/vertex-observability/53b743b435623e6a27edee2be190970e975bd515",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e2240f8dc4a8c86180b8a150e4bdf23adb13cac9",
+    "source": "fabrykjoh12/Hanzi-dojo/e2240f8dc4a8c86180b8a150e4bdf23adb13cac9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7491e03aeb2000a67fc032a5dcd99df50339f2c5",
+    "source": "Co2Noss/Lodestar/7491e03aeb2000a67fc032a5dcd99df50339f2c5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ff7feb8286e909cba0b185bffda084091fa103c4",
+    "source": "ariasocial/arifure/ff7feb8286e909cba0b185bffda084091fa103c4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4964278c3b9cc07b6a392cc3faac9d05c17b2230",
+    "source": "Maijied/Cursor-Curse-Monitor-by-Lorapok/4964278c3b9cc07b6a392cc3faac9d05c17b2230",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "15432cab5ef397f409b7f9eeee69aed00e0183cf",
+    "source": "evansuckedatlife/cr-sim/15432cab5ef397f409b7f9eeee69aed00e0183cf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "00a2b9954cdd9ef8a97bf12ceae0ccc7568da55d",
+    "source": "tazzo/tazlab-k8s/00a2b9954cdd9ef8a97bf12ceae0ccc7568da55d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9e768f9dc4e803b4ed63e8cd9cbc112a53d2e3eb",
+    "source": "sean-lai-sh/morpheus/9e768f9dc4e803b4ed63e8cd9cbc112a53d2e3eb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2900ee2192cf91e44d0cd569a83f9fac22d2ba5e",
+    "source": "shogo-tanaka-work/trendnews-autoReporting/2900ee2192cf91e44d0cd569a83f9fac22d2ba5e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "25c3bb382d51696c300f6565c4eaaa6cca9347e9",
+    "source": "Co2Noss/Lodestar/25c3bb382d51696c300f6565c4eaaa6cca9347e9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "601b1c890d8f7d840c50c24e44bdcace72ac4191",
+    "source": "Drago-Labs/golden-raccoon/601b1c890d8f7d840c50c24e44bdcace72ac4191",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d3ba80486281b15ae72bf0eb0e462e9fde7e2647",
+    "source": "truengtrakanthongma/my-tense-game/d3ba80486281b15ae72bf0eb0e462e9fde7e2647",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3fccad608b28aed7c294fa7cf2f947bbd7fe637d",
+    "url": "https://discord.com/api/webhooks/1509134743151837266/AbCdEf-token_123",
+    "source": "DropTracker-io/droptracker-core/3fccad608b28aed7c294fa7cf2f947bbd7fe637d/tests/unit/test_discord_urls.py",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "f78c2c639a6f607900e1d6f0779af6c5ec18e7b6",
+    "source": "abrar-sarwar/Arkham/f78c2c639a6f607900e1d6f0779af6c5ec18e7b6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "49854f90dae6d6701d1a865c2ffb56695fed1208",
+    "source": "iyulab/filer-official-plugins/49854f90dae6d6701d1a865c2ffb56695fed1208",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a2930c7f485036afa7810c3128c1ae9383e33bac",
+    "source": "ReinforceZwei/5g-network-test/a2930c7f485036afa7810c3128c1ae9383e33bac",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b880f617582e852ce92f07b50018a8ee396967ed",
+    "source": "everykill/everykill-plugin/b880f617582e852ce92f07b50018a8ee396967ed",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "958d46d2a44c7d160657361d859d809d4143351c",
+    "source": "Qing-LAB/molbuilder/958d46d2a44c7d160657361d859d809d4143351c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0e559ed5e5f1276e1b8e2026e99120be37b67ca0",
+    "source": "moonklabs/sprintable/0e559ed5e5f1276e1b8e2026e99120be37b67ca0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "71b316d97c97a03c86179243f514d6156e4540f8",
+    "source": "AMcInnis13/FFWebhooks/71b316d97c97a03c86179243f514d6156e4540f8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "52e25420a3d4061eca19a9ffe559413b8bb2bcb6",
+    "source": "AMcInnis13/FFWebhooks/52e25420a3d4061eca19a9ffe559413b8bb2bcb6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b01c5b34b85937ecaa62a6b420df8666d4355c87",
+    "source": "OliveraMarcelo/portfolio/b01c5b34b85937ecaa62a6b420df8666d4355c87",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "966e698eae2e2020f094c10a57c1e613afd6ed59",
+    "source": "everykill/everykill-plugin/966e698eae2e2020f094c10a57c1e613afd6ed59",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fa531a56fed6d69f2de4f71db0709af64e719c78",
+    "source": "pugori/roughcut-bot/fa531a56fed6d69f2de4f71db0709af64e719c78",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a8812db10ca93c5ddc640be6bbbd8ef1a8b9f7cb",
+    "source": "frizat82/fourplay_web/a8812db10ca93c5ddc640be6bbbd8ef1a8b9f7cb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e7685eebb7a23f717bbdf36877d454c4a8b7c2f4",
+    "source": "LilijoySkyseeker/nixOS/e7685eebb7a23f717bbdf36877d454c4a8b7c2f4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "cafb1202c157ab70a905bb763ac58f4a6cac5ed3",
+    "source": "mateuswzn-oss/mateuswzn/cafb1202c157ab70a905bb763ac58f4a6cac5ed3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4fadbf343cd289f5494cbed71bf2198454881579",
+    "source": "FueledByRedBull/Twitch-Miner-Rust/4fadbf343cd289f5494cbed71bf2198454881579",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bac553de91bea0c453a839331dd53c2a68d988ae",
+    "source": "AMcInnis13/FFWebhooks/bac553de91bea0c453a839331dd53c2a68d988ae",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7d7b169920532c204c3a149a47226b1961ac8dc1",
+    "source": "AMcInnis13/FFWebhooks/7d7b169920532c204c3a149a47226b1961ac8dc1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d772427fd49cd7c4952004aa1a88875517d1873b",
+    "source": "AMcInnis13/FFWebhooks/d772427fd49cd7c4952004aa1a88875517d1873b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "536ee0d9e0d60da39172a0c378410b1a5111b846",
+    "source": "Pendrax/S-XTRIX-S/536ee0d9e0d60da39172a0c378410b1a5111b846",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "cf9097bea9d0fea548a3d02ec8ddcc2120ddff4c",
+    "source": "AMcInnis13/FFWebhooks/cf9097bea9d0fea548a3d02ec8ddcc2120ddff4c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "888169cf5c79dc05120ccb592b3f6fbfd1562238",
+    "source": "AMcInnis13/FFWebhooks/888169cf5c79dc05120ccb592b3f6fbfd1562238",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d7b54914e876d9f10c3f3232546b7a70f350acfe",
+    "source": "AleCast09/Pokemon-Monitor-TCGP/d7b54914e876d9f10c3f3232546b7a70f350acfe",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6256e1963dc7567dcacd3a074f0a9a0e939fb9c5",
+    "source": "Aetheron402/Aetheron/6256e1963dc7567dcacd3a074f0a9a0e939fb9c5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "90e499e50da1c7679937929f86b958d5e8f57c2a",
+    "source": "AMcInnis13/FFWebhooks/90e499e50da1c7679937929f86b958d5e8f57c2a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "54ef010881d11d7c3c03daf9e052707356fad8e3",
+    "source": "atareao/watchbeat/54ef010881d11d7c3c03daf9e052707356fad8e3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "188b87426fef66446972b3a47cfcf1cc9b95f4d5",
+    "source": "MUHAMMAD-FAHAD-AMJAD-27/AUTOMATION-PROJECT/188b87426fef66446972b3a47cfcf1cc9b95f4d5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d879d35f85eb411547f77dded87d4871d9fd40e8",
+    "source": "DeepBlueDynamics/nemesis8/d879d35f85eb411547f77dded87d4871d9fd40e8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a1e45871c46668ed309fdfce9500174a642f4a87",
+    "source": "iyulab/filer-official-plugins/a1e45871c46668ed309fdfce9500174a642f4a87",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9b2d61818b9e7bb44e8f5e729d4e8dffb1d5d67d",
+    "source": "Jorji49/streamtop/9b2d61818b9e7bb44e8f5e729d4e8dffb1d5d67d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "754b447f5cefb0d31d55e758831ca58a0c780e70",
+    "source": "MUHAMMAD-FAHAD-AMJAD-27/AUTOMATION-PROJECT/754b447f5cefb0d31d55e758831ca58a0c780e70",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e0595f2fbb859be8dd43f3856bc1521e5a134355",
+    "source": "PPO-GG/unfit-for-print/e0595f2fbb859be8dd43f3856bc1521e5a134355",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c9d43bf27809303211345f41500eb8b7960889fa",
+    "source": "JuanJoRamBach/NAVI/c9d43bf27809303211345f41500eb8b7960889fa",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "48bdc85fb372a7bd6f30cece081ba290d0e8b396",
+    "source": "dbid0/gv-os/48bdc85fb372a7bd6f30cece081ba290d0e8b396",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3a5b894ca7abab61742e045ced4e3619351fe2c4",
+    "source": "L0v3Chrix/Hatfield-shop/3a5b894ca7abab61742e045ced4e3619351fe2c4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4301b248e9f4265be266836412115b52e33c8022",
+    "source": "SlayHorizon/godot-tiny-mmo/4301b248e9f4265be266836412115b52e33c8022",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "43388b88a93085b2145f3b21fd923e28f08fcb3e",
+    "source": "CodySwagor/discord-notify-mcp/43388b88a93085b2145f3b21fd923e28f08fcb3e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "07f4f796a8c5039f244bb37f04ef2434ef8c6aa4",
+    "source": "CodySwagor/discord-notify-mcp/07f4f796a8c5039f244bb37f04ef2434ef8c6aa4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e41b110e99f8e2084bff6ee7cd07073776e6eec3",
+    "source": "ceavinrufus/nba-oracle-bot/e41b110e99f8e2084bff6ee7cd07073776e6eec3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "45f02dba0e5f2755ce5cd038f30a2df0b1789347",
+    "source": "yangjinho826/claude-setup/45f02dba0e5f2755ce5cd038f30a2df0b1789347",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "152523d00b0f05b2377571422aba7180c9ed2200",
+    "source": "hablemoscripto/hablemoscripto.github.io/152523d00b0f05b2377571422aba7180c9ed2200",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9037e2175cf88950d073c788e558fe0f58a257ac",
+    "source": "KBVE/kbve/9037e2175cf88950d073c788e558fe0f58a257ac",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e8c3abdc9c296af8958e89d009f0018ca9cdbc09",
+    "source": "FlashGalatine/xivdyetools/e8c3abdc9c296af8958e89d009f0018ca9cdbc09",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a9129504d5f0e3ba0ec2867bad13add11f960601",
+    "source": "Driss-AI/Alpha0Engine/a9129504d5f0e3ba0ec2867bad13add11f960601",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c128f74562b0166fed62e39be6f3010420fbae63",
+    "source": "compactly8274/verificationrotation/c128f74562b0166fed62e39be6f3010420fbae63",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c43ea057f356b8508fbbccdaf6a7fbf553d5855e",
+    "source": "Chinchill-AI/chat-sdk-python/c43ea057f356b8508fbbccdaf6a7fbf553d5855e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c24ce499fae6f8ee1b2084df021ade3d5e14495e",
+    "source": "kou-etal/etalbaas/c24ce499fae6f8ee1b2084df021ade3d5e14495e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "607a0790eccbcaf8a82202ff17620392fad41862",
+    "source": "klappstuhlpy/klappstuhl_me/607a0790eccbcaf8a82202ff17620392fad41862",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5b83867a2af9ce4a3edec709fa15d2ef659f1ff2",
+    "source": "Bsel153/errex/5b83867a2af9ce4a3edec709fa15d2ef659f1ff2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "99f7e58f807801490e8f067b37e1c651db49b908",
+    "source": "luffysky/ai-island-web/99f7e58f807801490e8f067b37e1c651db49b908",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3a074766266a370acd89e667158987ed45f7499c",
+    "source": "nayantechit-png/QuantCore-AI-EA/3a074766266a370acd89e667158987ed45f7499c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ebf867777404ef345babb0c4389988b3a4de9fdb",
+    "source": "carltbt/aether/ebf867777404ef345babb0c4389988b3a4de9fdb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ef21022ae75bc67cb19a9fd77210e345f861485f",
+    "source": "alexj2k0/Skuub.Retakes/ef21022ae75bc67cb19a9fd77210e345f861485f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d981d40562b4627749180ce4573fa8fd266e8889",
+    "source": "mostlyerror/fieldwork/d981d40562b4627749180ce4573fa8fd266e8889",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "93128ff41addb4d03ca2ef6246093f9a06205c7e",
+    "source": "LUDIARS/Discutere/93128ff41addb4d03ca2ef6246093f9a06205c7e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e21fdd50821fb3d8dfbb6c0ee6c5c6c609c93d4c",
+    "source": "alexj2k0/Skuub.Retakes/e21fdd50821fb3d8dfbb6c0ee6c5c6c609c93d4c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0e340086a9f7169b1d61858649c9f180bef4edff",
+    "source": "SlayHorizon/godot-tiny-mmo/0e340086a9f7169b1d61858649c9f180bef4edff",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0becf8cb7464c25d3e68226af6da547042ce4340",
+    "source": "asians-cloud/gaius-common/0becf8cb7464c25d3e68226af6da547042ce4340",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "10ecaa89c44a243e9c51ddddea8e39a34346b8ed",
+    "source": "asians-cloud/gaius-common/10ecaa89c44a243e9c51ddddea8e39a34346b8ed",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8af58e17c2ca6d9035d6d6545deeb0bf6b5ce3dc",
+    "source": "andreslanzi/strafelab/8af58e17c2ca6d9035d6d6545deeb0bf6b5ce3dc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9709ce07bcbeb5c66666e02dd36c6811319695fb",
+    "source": "sannier3/ISO-WATCHER/9709ce07bcbeb5c66666e02dd36c6811319695fb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "04c29825356f8715503d40fc41b236e57c8b3673",
+    "source": "agentai2026/openclaw-zh/04c29825356f8715503d40fc41b236e57c8b3673",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1c6bbf4faa3a99dcf062c56b95f820ce6b78afb9",
+    "source": "Reel48/whoosh/1c6bbf4faa3a99dcf062c56b95f820ce6b78afb9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2252cd5a1b66cd02b289a4e3fa76ac84e5b1a37b",
+    "source": "satishdulaltx-dev/smc-scanner-java-v2/2252cd5a1b66cd02b289a4e3fa76ac84e5b1a37b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "de77ee8fb79a726e54f33bb7cfef0b3fab6c03ee",
+    "source": "NickOstz/pulse-vendor-risk-agent/de77ee8fb79a726e54f33bb7cfef0b3fab6c03ee",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fbd222d7005627c0f18913676fa443cf11f893ad",
+    "source": "mruwnik/memory/fbd222d7005627c0f18913676fa443cf11f893ad",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0ec8db85232963143bed1fc4983137358670f858",
+    "source": "caylent-solutions/devbench/0ec8db85232963143bed1fc4983137358670f858",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a9c46c8fd6e9c3ace3a0f77950d6d891bc2dbea8",
+    "source": "zetavue/openclaw-talk-transcript-persistence/a9c46c8fd6e9c3ace3a0f77950d6d891bc2dbea8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "11fd6729754ee642f03eae8530f9114519901bbd",
+    "source": "JohnnyMeister/DiscBox/11fd6729754ee642f03eae8530f9114519901bbd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "302d458ca46b4de9bc227ef8e609a37b5e9c0eff",
+    "source": "jegr78/ctc-manager/302d458ca46b4de9bc227ef8e609a37b5e9c0eff",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7a6b52498fc774b43787e12a075f09d976f28e20",
+    "source": "Tomoshibi1125/solo-compendium/7a6b52498fc774b43787e12a075f09d976f28e20",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "78ddb4acf12620352ff22c783c68c91d99ff1e3e",
+    "source": "CodySwagor/discord-notify-mcp/78ddb4acf12620352ff22c783c68c91d99ff1e3e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ee0a0e20757843e3457f90ec392a80221f72678f",
+    "source": "takeuchi-shogo/dotfiles/ee0a0e20757843e3457f90ec392a80221f72678f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e228577c26767b33984ed4a6d883f8d37e4aad0e",
+    "source": "mfgarvin/bulletin/e228577c26767b33984ed4a6d883f8d37e4aad0e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2717ea4117780f2992d8b89a4c335d21d0ced49d",
+    "source": "takeuchi-shogo/dotfiles/2717ea4117780f2992d8b89a4c335d21d0ced49d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ffe271ae761a145519b42a12e5018735b1122601",
+    "source": "AlesixDev/HyRestart/ffe271ae761a145519b42a12e5018735b1122601",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7e158fb407704870fce37e5fec716075ce4ebb76",
+    "source": "DHxWhy/CCgather/7e158fb407704870fce37e5fec716075ce4ebb76",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "82063ba00d341d9b87bb864aeebcd3cf4b884808",
+    "source": "CodySwagor/discord-notify-mcp/82063ba00d341d9b87bb864aeebcd3cf4b884808",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "27f6622bf5589f233efd2a09994f2bc89e4a6b4a",
+    "source": "vaibhavy06/devtrack/27f6622bf5589f233efd2a09994f2bc89e4a6b4a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c2990ba5fdbb5a861dfc382f6b22c4475a5cb906",
+    "source": "devkopi/liveannounce/c2990ba5fdbb5a861dfc382f6b22c4475a5cb906",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2a2b6ecf8b2a952893771b92da88db3270d380dd",
+    "source": "SeongHo5/codex-reset-sentinel/2a2b6ecf8b2a952893771b92da88db3270d380dd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "20422a3d184df6c91eb72bb64b6c41756511e5ec",
+    "source": "boostbar9/ai-investing/20422a3d184df6c91eb72bb64b6c41756511e5ec",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ee1e1d346742283440fa507b08ec6721cb2e8447",
+    "source": "santiagodiazc9-cloud/Trading-Technical-Analysis-Repo/ee1e1d346742283440fa507b08ec6721cb2e8447",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6679f431cc63245fdea5249d4fe0a359ef33feba",
+    "source": "DHxWhy/CCgather/6679f431cc63245fdea5249d4fe0a359ef33feba",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4318243481e90ff5659f84b23c8fed836ea330c6",
+    "source": "newgenprometheus/faith-re-next/4318243481e90ff5659f84b23c8fed836ea330c6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e9ffe811c0184a899781410797f586def2295bec",
+    "url": "https://discord.com/api/webhooks/1486025696240472304/aEG3lSz9HFij6Tudq_TYKzMpVyDbArPLMcunZwjHKJB4l9G6yyCWuwjTcGnESKVAGA9G",
+    "source": "devkopi/liveannounce/e9ffe811c0184a899781410797f586def2295bec/src/main/resources/config.yml",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "e47a560b1511dcc6342b699758a58a6100097aaf",
+    "source": "jim19950427/discord_trans_bot/e47a560b1511dcc6342b699758a58a6100097aaf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "890cf6d04cef27763c1ce018630b823f35ad3694",
+    "source": "jim19950427/discord_trans_bot/890cf6d04cef27763c1ce018630b823f35ad3694",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1a6835dfaada2e4cba8dab285ff53dbc34cab700",
+    "source": "rust4ai/metalcraft-agent/1a6835dfaada2e4cba8dab285ff53dbc34cab700",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c7fa785676695b3676a26bf41f6a183d7f83e90b",
+    "source": "hemanthakumar97/WealthFolio/c7fa785676695b3676a26bf41f6a183d7f83e90b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4a5ec134a63ad5ba602f1804bd9b6a49b9a41067",
+    "source": "communityorg-discord/co-discord-bot/4a5ec134a63ad5ba602f1804bd9b6a49b9a41067",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "93dc20da822d858df11c89c776089b6334a9bc6f",
+    "source": "nudgefilm/unfoldk/93dc20da822d858df11c89c776089b6334a9bc6f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ab6931757ae4470f9a10d2b4b12ce0f0dffed74f",
+    "source": "centredevilsratings/centredevils/ab6931757ae4470f9a10d2b4b12ce0f0dffed74f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "17c4b393df31e8dc63fe7c620d9b4e6ca959b28e",
+    "source": "rust4ai/metalcraft-agent-gateway/17c4b393df31e8dc63fe7c620d9b4e6ca959b28e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b46dfe5eb03319e30c4c86d2b1344981c81fa5af",
+    "source": "kingmalik/zpay-v2/b46dfe5eb03319e30c4c86d2b1344981c81fa5af",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "14b0ef902aca977b48ec86dd1e43adf8c2ab8917",
+    "source": "naatlabia-lang/spine-curve-geometric-representation/14b0ef902aca977b48ec86dd1e43adf8c2ab8917",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "dd6f9828f03728c208381c50d5ca1dd2250be9b2",
+    "source": "MSK-Scripts/msk-shop/dd6f9828f03728c208381c50d5ca1dd2250be9b2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a49cea55d00796399f459c37d157ac05dfcb200f",
+    "source": "nugglei/cheesegrate/a49cea55d00796399f459c37d157ac05dfcb200f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ed804550e2803f1fc847e25fed8e5db53b86efe4",
+    "source": "465media/bitaxe-baller/ed804550e2803f1fc847e25fed8e5db53b86efe4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "05a9d65f78e5b7338f0792f3d9ed59699d00149d",
+    "source": "rust4ai/metalcraft-agent-gateway/05a9d65f78e5b7338f0792f3d9ed59699d00149d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fe4c8f00332a5ae038266aa2e775486d88123def",
+    "source": "mightymity/telegram-discord-bot-forwarder/fe4c8f00332a5ae038266aa2e775486d88123def",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a064cd30eb428055822bd2de4dc1d6b4997bd8fe",
+    "source": "Dami904/NovaPay/a064cd30eb428055822bd2de4dc1d6b4997bd8fe",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "763f003180cb37d6351c5afe0a1b7fb4c2130d5b",
+    "source": "RicherTunes/Brainarr/763f003180cb37d6351c5afe0a1b7fb4c2130d5b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4282b396e597219df136d89f6c64d4d6a91b7573",
+    "source": "erfianugrah/discord-wipe/4282b396e597219df136d89f6c64d4d6a91b7573",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4173d94b067b4529bdeef031e772d262f062227e",
+    "source": "frixxon/usergen/4173d94b067b4529bdeef031e772d262f062227e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5ade4276ceb92eeea8601ec84a55d39d21d854ec",
+    "source": "MatanKoby/upside/5ade4276ceb92eeea8601ec84a55d39d21d854ec",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "350e7797c7eaa3f7552c9f65bb5f60918389cca6",
+    "source": "frixxon/usergen/350e7797c7eaa3f7552c9f65bb5f60918389cca6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d12ceb45babc07a284a058c1a27f8c7fcb9013b7",
+    "source": "RicherTunes/Lidarr.Plugin.Common/d12ceb45babc07a284a058c1a27f8c7fcb9013b7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bd8e91c77896ad8a06b8c2349043e4669dda382e",
+    "source": "aryan877/marquee/bd8e91c77896ad8a06b8c2349043e4669dda382e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c2c704c5eee63452ced7b82657b22be5fd52edab",
+    "source": "goripegorp-cmd/bot-moderation-discord/c2c704c5eee63452ced7b82657b22be5fd52edab",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "650b0131e7b793f33761a724103812a2b746f763",
+    "source": "MatanKoby/upside/650b0131e7b793f33761a724103812a2b746f763",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "43a82005d1c99c4167d85a3de6965896de61f9b5",
+    "source": "AndreaCatalucci/keyclasp/43a82005d1c99c4167d85a3de6965896de61f9b5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d54ea791a36c7be61ae61801d5f8f17dcd9f6919",
+    "source": "Mangom72/galaxy-checkin-automation/d54ea791a36c7be61ae61801d5f8f17dcd9f6919",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3aedc9fd524bfda64172334c4f97854900d6d595",
+    "source": "ashawkyron910-debug/DinoFramework/3aedc9fd524bfda64172334c4f97854900d6d595",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b486922d430899af73dedd22608875c0427e13ca",
+    "source": "discordkit/discordkit/b486922d430899af73dedd22608875c0427e13ca",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bc0a3f807a706f389d894e24ebfb790a8798bef1",
+    "source": "aquiloplays/loadout/bc0a3f807a706f389d894e24ebfb790a8798bef1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5155117f70a6ad55b685c86a8bbfeb269d8c34d5",
+    "source": "kisekifrans/frans-hub/5155117f70a6ad55b685c86a8bbfeb269d8c34d5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7535a8f5bcfb1d0bba7083200cc73472063da53f",
+    "source": "nananek/radio-notifier/7535a8f5bcfb1d0bba7083200cc73472063da53f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1d1122d8e298b5d6c2436963c5c610d8f2d42927",
+    "source": "discordkit/discordkit/1d1122d8e298b5d6c2436963c5c610d8f2d42927",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8117a5e5a558355d95783954903e0e00eeab6f69",
+    "source": "BanePlayss/primitivao/8117a5e5a558355d95783954903e0e00eeab6f69",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "62175510cbd43ed87d0c572414979cfeb720b7fa",
+    "source": "clxzwe/kelly-dev-web/62175510cbd43ed87d0c572414979cfeb720b7fa",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "784fbd7ff42d8db444f3ee199fc15c4979b0eddc",
+    "source": "discordkit/discordkit/784fbd7ff42d8db444f3ee199fc15c4979b0eddc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e5ae747c98ac1eee9677f2cc090f2c22cd9283e1",
+    "source": "layervai/qurl-integrations/e5ae747c98ac1eee9677f2cc090f2c22cd9283e1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1254b348dc59a9ef640abb8816c9c97e2d9efe3f",
+    "source": "hideyukiMORI/nene-records/1254b348dc59a9ef640abb8816c9c97e2d9efe3f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "27a5176630e2b926f43b8e2b492afdaa8de3af08",
+    "source": "PitaMai-Technology/pitamai-account/27a5176630e2b926f43b8e2b492afdaa8de3af08",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d9935f3bbda84e9cb329293d035db5a5d43dc53b",
+    "source": "chadhoggard/watchtower/d9935f3bbda84e9cb329293d035db5a5d43dc53b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2c0b963a18b5925ae2c08c5fdd928bc8af126dc0",
+    "source": "Tri-Lumen/Outage-Map/2c0b963a18b5925ae2c08c5fdd928bc8af126dc0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "66a9e66f6583fab0d2cbe12e1a224fdb8925ff54",
+    "source": "introVRt-Lounge/jellybot/66a9e66f6583fab0d2cbe12e1a224fdb8925ff54",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "28eba21036293f602d748bcdfefef69b4ebbe92c",
+    "source": "LetsGaming/PABS/28eba21036293f602d748bcdfefef69b4ebbe92c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "152f3d2b19cf51dd155be09aeae2586cdbd2638b",
+    "source": "frixxon/usergen/152f3d2b19cf51dd155be09aeae2586cdbd2638b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "adbe6340cd2dbc78e0ae0c2ad1b5f393bad307e6",
+    "source": "ashton-hoops/portfolio/adbe6340cd2dbc78e0ae0c2ad1b5f393bad307e6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d1ff9feef8b237a0c75ac021e8f4f6fd4a67a816",
+    "source": "gagan114662/active-graph-workspace/d1ff9feef8b237a0c75ac021e8f4f6fd4a67a816",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e4fb7383a57948fa099dc33eaf32cd82f1cd1e42",
+    "source": "ZAODEVZ/ZAOsribeBOT/e4fb7383a57948fa099dc33eaf32cd82f1cd1e42",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "588f3ea27d84c949fd35df1adcfeaded98df7ff5",
+    "source": "josemarin797-cloud/flota-emporium/588f3ea27d84c949fd35df1adcfeaded98df7ff5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "784deba59fac44c19ad53700ea05320e5f6df9ec",
+    "source": "PhDMax/phdflow/784deba59fac44c19ad53700ea05320e5f6df9ec",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "452ba045acbb9a6561c0ebd5cbce42a2f837048c",
+    "source": "FMXExpress/PasClaw/452ba045acbb9a6561c0ebd5cbce42a2f837048c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a7485f0b1260382bb339ed06269ac4b76b1ec63e",
+    "source": "ZAODEVZ/ZAOsribeBOT/a7485f0b1260382bb339ed06269ac4b76b1ec63e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bc2cf0063ebf2b0356309de1de80604a1b478ee2",
+    "source": "Wallens11/rei-ops-room/bc2cf0063ebf2b0356309de1de80604a1b478ee2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "896b79a8fe0e63d0bfd13a2e8f159b736a6e2b3b",
+    "source": "eowre/job-scout/896b79a8fe0e63d0bfd13a2e8f159b736a6e2b3b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "efaf8f63b3832a2d816601dcf8bb7c59a4e9a07f",
+    "source": "w4nd777-ai/-/efaf8f63b3832a2d816601dcf8bb7c59a4e9a07f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ba9fb5a7743cff1fbcfbb6ec9cc049c3b9b64068",
+    "source": "OthmanHaba/nixway-core/ba9fb5a7743cff1fbcfbb6ec9cc049c3b9b64068",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0501583fb4476a702079956f36067ebb1e23f6dd",
+    "source": "msradam/leavitt/0501583fb4476a702079956f36067ebb1e23f6dd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fc665c880450ad41bac2d95baa5a25a8f73a37c8",
+    "source": "goncalosoaresdev/autohealer-cli/fc665c880450ad41bac2d95baa5a25a8f73a37c8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c26a2842d7ac5a47f11935344c42a6c3e7cc3145",
+    "source": "outpoints/honcho-dashboard/c26a2842d7ac5a47f11935344c42a6c3e7cc3145",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e68e377060e755c16d04182465e8e87204bf0966",
+    "source": "fsebbah/n8n-workflows/e68e377060e755c16d04182465e8e87204bf0966",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2e01522c0f5938eb8f06ce4fedf2c578c1ddf725",
+    "source": "ZawrzykrajLidia/middleware-triage-bot/2e01522c0f5938eb8f06ce4fedf2c578c1ddf725",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4e46f7fb63eb036ca57fdeaa20cae58732a84bb1",
+    "source": "moizali-devs/Aria/4e46f7fb63eb036ca57fdeaa20cae58732a84bb1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "44e7940e4dbb9ec6f3d4587f020db49a77fab564",
+    "source": "Dami904/Novapay-PRO/44e7940e4dbb9ec6f3d4587f020db49a77fab564",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "235278faabac27389d04f97fbb4fcd2721b81f22",
+    "source": "shedaniel/tomomai/235278faabac27389d04f97fbb4fcd2721b81f22",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "13ab5e9e709d86523bed5d4d7b45a1160f8df6b1",
+    "url": "https://discord.com/api/webhooks/1509164639508758709/VLc",
+    "source": "jhoancuervo-gif/automatizacion/13ab5e9e709d86523bed5d4d7b45a1160f8df6b1/.env",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "58fbdbe197e53fe8bd4b01cba3f190d29a021fc0",
+    "source": "ryancallister/Gamendar/58fbdbe197e53fe8bd4b01cba3f190d29a021fc0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "34dc76ce8d03d7c123fc1f533c2d1853a369acc5",
+    "source": "Shashant7/timedtrading/34dc76ce8d03d7c123fc1f533c2d1853a369acc5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2e869324898f819b29c1af2736912f89407b665a",
+    "source": "sbhpsycho-dev/stack-n-scale/2e869324898f819b29c1af2736912f89407b665a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d55ef843d7d2f9a6d8f7881c2f0403c7120643c7",
+    "source": "aquiloplays/loadout/d55ef843d7d2f9a6d8f7881c2f0403c7120643c7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "677595155c0f7f8a201009d50fbbbd4f4c8cc06b",
+    "source": "gobii-ai/gobii-platform/677595155c0f7f8a201009d50fbbbd4f4c8cc06b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "67e4928134fe25982db5886810e5e6b93eae6fc9",
+    "source": "chaogei/Kiro-account-manager/67e4928134fe25982db5886810e5e6b93eae6fc9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d73d268b49521643ece11d85d179d1f2f884ed34",
+    "source": "HinduTempleCoins/Bot/d73d268b49521643ece11d85d179d1f2f884ed34",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "24232fd8e5fb1e7843710a81748285182d1686dc",
+    "source": "HinduTempleCoins/Bot/24232fd8e5fb1e7843710a81748285182d1686dc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7d11e6f0f6315d4914764da862c465bf185f8a0e",
+    "source": "KrystoferRobin/hundredacrerealm/7d11e6f0f6315d4914764da862c465bf185f8a0e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "eb26da86434921933dedbdbf4194638491ba6689",
+    "source": "Shashant7/timedtrading/eb26da86434921933dedbdbf4194638491ba6689",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f5ebb29a64429e2e8abc000d0e80be4e6879bfe9",
+    "source": "mistakia/league/f5ebb29a64429e2e8abc000d0e80be4e6879bfe9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "74ed416d95efae4170efa03a8d7a44a5e0a23c33",
+    "source": "Shashant7/timedtrading/74ed416d95efae4170efa03a8d7a44a5e0a23c33",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d5e9ab046133e0e067d0d2de8dbcae1b5c91fbe0",
+    "source": "Y-Kanekoo/oura-discord-notifier/d5e9ab046133e0e067d0d2de8dbcae1b5c91fbe0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a7f8eb4d1b2f2c8836f366e5659cda2a17a3596b",
+    "source": "SiddharthJain08/FundJohn/a7f8eb4d1b2f2c8836f366e5659cda2a17a3596b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1e3132f8caf395f5723606706d1ae9cdbbf9adc7",
+    "source": "SeongHo5/codex-reset-sentinel/1e3132f8caf395f5723606706d1ae9cdbbf9adc7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e072875fda2dcd48d9837af0a1932a364ad6fecf",
+    "source": "abhijitsvsk/opportunity-hub-india/e072875fda2dcd48d9837af0a1932a364ad6fecf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9a93dc61d7a8d139b23ab9e0fd3edf9f50529cfd",
+    "source": "HinduTempleCoins/Bot/9a93dc61d7a8d139b23ab9e0fd3edf9f50529cfd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "00cf88e34cb79598dc033b1110205ea8477cdbe2",
+    "source": "hoyuuna/VNBUSARCHIVE/00cf88e34cb79598dc033b1110205ea8477cdbe2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b1c72242c2b29b54fed0b376ad58690740f2d6ac",
+    "source": "ever-works/ever-works/b1c72242c2b29b54fed0b376ad58690740f2d6ac",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fff3103078bcbeffbb820d2afd4d023f2a8483cc",
+    "source": "typeclaw/typeclaw/fff3103078bcbeffbb820d2afd4d023f2a8483cc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d85275068769df913435fa1e33b866dfb2eb0122",
+    "source": "blinder-ps/cipher/d85275068769df913435fa1e33b866dfb2eb0122",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f1ac2a47954cc7e5cb866d703acbc4d679ff81a5",
+    "source": "karyl-chan/karyl-chan/f1ac2a47954cc7e5cb866d703acbc4d679ff81a5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "127c214a081da92e062cb2fd724f1c9c1a3d92aa",
+    "source": "katherinehu24/gocharting-prototype/127c214a081da92e062cb2fd724f1c9c1a3d92aa",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ef51028cbe7e352fa06d9b2d845c2d2e1f2e5deb",
+    "source": "iamhollywoodpro/Holly-AI/ef51028cbe7e352fa06d9b2d845c2d2e1f2e5deb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "53dc9976c2c5c9dc307acb5a7493cc59c73c0434",
+    "source": "josemarin797-cloud/flota-emporium/53dc9976c2c5c9dc307acb5a7493cc59c73c0434",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "831dcc08e1b154494966e1b87cde69d00c62e1b0",
+    "source": "fyrex-FR/card-sourcing/831dcc08e1b154494966e1b87cde69d00c62e1b0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fcff1592883fccde94d088db1cbec1116dd739df",
+    "source": "newzlong/plaw-desktop/fcff1592883fccde94d088db1cbec1116dd739df",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8ab41ccc64f9cd5fa0546c87fafa58fd0a748c8b",
+    "source": "bentleypark/aiwatch/8ab41ccc64f9cd5fa0546c87fafa58fd0a748c8b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fa31e123d17b2e988bf5336743bd65e99b9a6aff",
+    "source": "fyrex-FR/card-sourcing/fa31e123d17b2e988bf5336743bd65e99b9a6aff",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "726a8438f35b590ab87d89b7c31b8755a5ec4ef7",
+    "source": "DrDakka/TP_RD_FE/726a8438f35b590ab87d89b7c31b8755a5ec4ef7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b49f52a1b24aa7cb3610be1bab999799a61f6b81",
+    "source": "fyrex-FR/card-sourcing/b49f52a1b24aa7cb3610be1bab999799a61f6b81",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "286f86423c13917c5202584d0ed471844fa1fbf3",
+    "source": "croc100/Reticle/286f86423c13917c5202584d0ed471844fa1fbf3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d98e161ba1515d9cf20990bccd1bb5ba54e35104",
+    "source": "Ridwan0110/find_my_iphone_automate/d98e161ba1515d9cf20990bccd1bb5ba54e35104",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "17d40db148ff68c7df3ec4535c50f92f4f2e3975",
+    "source": "JohnPitter/luxview-cloud/17d40db148ff68c7df3ec4535c50f92f4f2e3975",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fa21f9488182d543912b575f4e1a6e7312e62317",
+    "source": "PraiseSinkamba/liquidity-sweep-watcher/fa21f9488182d543912b575f4e1a6e7312e62317",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "422772113e8404e98d49c30a9a232779a50895c6",
+    "source": "Wrivard/kua-coif/422772113e8404e98d49c30a9a232779a50895c6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8fffbee2eeb61e7560ae70705bf113dc2fc77334",
+    "source": "sunholo-data/ailang/8fffbee2eeb61e7560ae70705bf113dc2fc77334",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bb0b898d587eb7cca39225ca95ca5cc80de2fd7c",
+    "source": "solarssk/video-describer/bb0b898d587eb7cca39225ca95ca5cc80de2fd7c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5706a829efbfa3c99f228defa173337fbf3066f5",
+    "source": "shingo-ops/salesanchor/5706a829efbfa3c99f228defa173337fbf3066f5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b28658ded06f5e8446a99b87acd63e059098eead",
+    "source": "ThiagoBauken/mercadogamer/b28658ded06f5e8446a99b87acd63e059098eead",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e15738f087ed1b7be06fc6b6ecc720a9a51db84c",
+    "source": "derekgallardo01/attendance-tracker/e15738f087ed1b7be06fc6b6ecc720a9a51db84c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5f2db287308400104ed91c59bad037e35f753786",
+    "source": "Chandanoffc/crypto-outlook-lab/5f2db287308400104ed91c59bad037e35f753786",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1dc1790aa6a4eb5b60416a10515d2f09466d4760",
+    "source": "monsiu/Custom-RR/1dc1790aa6a4eb5b60416a10515d2f09466d4760",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a60feea887adfc882e254aa16f6da7bfa51342f6",
+    "source": "monsiu/Custom-RR/a60feea887adfc882e254aa16f6da7bfa51342f6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "713c2c8ff5d1a6b963f6ed4d206a01bce5408591",
+    "source": "sunholo-data/ailang/713c2c8ff5d1a6b963f6ed4d206a01bce5408591",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5a68ffb2f35244e09e2a57e2a6f21cefe1030ccb",
+    "source": "sunholo-data/ailang/5a68ffb2f35244e09e2a57e2a6f21cefe1030ccb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a581a8ef6425baca8139928ba926a80b1bdc5e8a",
+    "url": "https://discord.com/api/webhooks/1509569723355103262/eT2CT_5ezEQ4rrEL-L_C4WTv_-Hq3pxw0ml-5pRuAE-HtHhbbNLhFXE4yqJ_2WP8l7u3",
+    "source": "Redom22/Suroviny/a581a8ef6425baca8139928ba926a80b1bdc5e8a/index.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "b483d73a08aa6aab7049cd24fd13e95c58927a81",
+    "source": "ChristopherPatrickKuntz/auditrsdk/b483d73a08aa6aab7049cd24fd13e95c58927a81",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "18917e7671e0071f87ff1dabdcf27842707c303a",
+    "source": "sunholo-data/ailang/18917e7671e0071f87ff1dabdcf27842707c303a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0c411ca42f795caba528caa26482c87aa635a6a5",
+    "source": "tknm-3/meta-daily/0c411ca42f795caba528caa26482c87aa635a6a5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6a4e59758c9f097af77022e99a0a150eb98b7b28",
+    "source": "PhDMax/phdflow/6a4e59758c9f097af77022e99a0a150eb98b7b28",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b9632f0bdb4ef5decbe46297df7953e8f3e0da07",
+    "source": "vaibhavy06/devtrack/b9632f0bdb4ef5decbe46297df7953e8f3e0da07",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1337d8ac7ee3e9286253e726a14d53aa9c3c6ecb",
+    "source": "Reel48/whoosh/1337d8ac7ee3e9286253e726a14d53aa9c3c6ecb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "47c32db90456539b8d1c5ac493eef8ded4b2caac",
+    "source": "mento-protocol/monitoring-monorepo/47c32db90456539b8d1c5ac493eef8ded4b2caac",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "eb99696bd56a28441bdafda5bc2f88591ca6ce57",
+    "source": "TcrcRunningCrew/manager-app/eb99696bd56a28441bdafda5bc2f88591ca6ce57",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "986c18a5eaf97426420f7a71771f7597380dbe39",
+    "source": "sunholo-data/ailang/986c18a5eaf97426420f7a71771f7597380dbe39",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0a5ee211aaf2923ec00858ad568c63b57dd2885e",
+    "source": "sunholo-data/ailang/0a5ee211aaf2923ec00858ad568c63b57dd2885e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2004a4d54d19214db1e3849d9e1827fe546a4eb9",
+    "source": "AI-Models-Telegram-Bot/ai_models_tgbot/2004a4d54d19214db1e3849d9e1827fe546a4eb9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d5c905ab29363f861bee93dee0aaa6908b62b2e3",
+    "source": "giddychild/homelab-k8s/d5c905ab29363f861bee93dee0aaa6908b62b2e3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "cbce56d9c95bf272cbef6e43a90d515c90e6986d",
+    "source": "msradam/leavitt/cbce56d9c95bf272cbef6e43a90d515c90e6986d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "00f8090bccde6b10f66b0271cd472e12fc607139",
+    "source": "harith0507/discord_bot/00f8090bccde6b10f66b0271cd472e12fc607139",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "170fcdb61bd6d319073bc35675df87e077364fb9",
+    "source": "AyoPro05/apex-five-cleaning/170fcdb61bd6d319073bc35675df87e077364fb9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "814fda054c8e0d17c1076e4fa1ab7bc67d395132",
+    "source": "kkkaoru/horse-racing-data/814fda054c8e0d17c1076e4fa1ab7bc67d395132",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8bfe7ba35c7969e23ef482b01340c483594dcd35",
+    "source": "kimabba/AllRound/8bfe7ba35c7969e23ef482b01340c483594dcd35",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "85890edb90a2cd4ee5ee000a9ce6b994c4b0e05f",
+    "source": "MiroShark/MiroShark/85890edb90a2cd4ee5ee000a9ce6b994c4b0e05f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "087fa70a0e852cb45d175793e25108dbf42ac62c",
+    "source": "howlrs/portal/087fa70a0e852cb45d175793e25108dbf42ac62c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c114cae44e5d3f1f8ad731049252031fd6373981",
+    "source": "Floberrot/Ziggytheque/c114cae44e5d3f1f8ad731049252031fd6373981",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b0e73f29e361ec89d2a030aa25f85838cc6a539b",
+    "source": "yoon9173580/MES/b0e73f29e361ec89d2a030aa25f85838cc6a539b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7e1d09a6b939aa7703aa1d851a146f42c67e9765",
+    "source": "sphinxcode/hermes-all-in-one/7e1d09a6b939aa7703aa1d851a146f42c67e9765",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a1606fc0d0803381547ba996438bed190016a260",
+    "source": "knucks66/server-watchdog/a1606fc0d0803381547ba996438bed190016a260",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e21d664286d6a4eb37a7d3e71c68bfdd6203fc6b",
+    "source": "PhytoPlancton/substitutarr/e21d664286d6a4eb37a7d3e71c68bfdd6203fc6b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b6e067c5dfc044ef3f5933b051dd526c9cacc4c1",
+    "source": "reinaeiry/reforgedz-dotnet/b6e067c5dfc044ef3f5933b051dd526c9cacc4c1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2ac5e3557e8aba208816d3ff48ea4ed3c3e122fa",
+    "source": "zaccesss/isaac-adjei-portfolio/2ac5e3557e8aba208816d3ff48ea4ed3c3e122fa",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6aa9a0ff71764af358a8d46427f1bc7f3a9b1fd0",
+    "source": "Jinjeok/NIRA/6aa9a0ff71764af358a8d46427f1bc7f3a9b1fd0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1afdc61738253620cc41d749d342ec6c62f2cdec",
+    "source": "sunholo-data/ailang/1afdc61738253620cc41d749d342ec6c62f2cdec",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ea31a08952c68d8dbd3af21e039206fccb669a35",
+    "source": "Fluxus-Trade-Lab/fluxus-dashboard/ea31a08952c68d8dbd3af21e039206fccb669a35",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "87226315568ef07dd492cfc06497de4e55dd7512",
+    "source": "Collective-Library/collective-library-v1.00/87226315568ef07dd492cfc06497de4e55dd7512",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c9abd99941678210aaa3ca1f3b8f946448170144",
+    "source": "Arenax-gaming/ArenaX/c9abd99941678210aaa3ca1f3b8f946448170144",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "aca961d1d6a843b5bf6549c3284eae13e0b55b85",
+    "source": "bentleypark/aiwatch/aca961d1d6a843b5bf6549c3284eae13e0b55b85",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1a4e8606387f5e8dd62a3431f088d1011062136f",
+    "source": "knucks66/server-watchdog/1a4e8606387f5e8dd62a3431f088d1011062136f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2b78c1ce69200d1b1a818fb2266f870f4f82deff",
+    "source": "ranker-002/absolute/2b78c1ce69200d1b1a818fb2266f870f4f82deff",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "de6cd6a877e10257cc8dedf15394d245718c629d",
+    "source": "FaizoKen/DWEEB/de6cd6a877e10257cc8dedf15394d245718c629d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "47dc9753810a8da678cd81f4906eb73e5fadc632",
+    "source": "aachtenberg/cfoperator/47dc9753810a8da678cd81f4906eb73e5fadc632",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5e3ade28e01488174b6bbbd6ec34bf5e9e1dda8a",
+    "source": "shingo-ops/salesanchor/5e3ade28e01488174b6bbbd6ec34bf5e9e1dda8a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "56dd1276d6763147cc9827bd703a2c83b59f5ab7",
+    "source": "kurogin23mech-source/beacon/56dd1276d6763147cc9827bd703a2c83b59f5ab7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0ba50307054d316273c4bfb28def6dee2bd0b74d",
+    "source": "nickpclarke/AgentArmyPowerTemplate/0ba50307054d316273c4bfb28def6dee2bd0b74d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "51f0cd48d4ead9a1cfcfaa47e01ba06d2c01486c",
+    "source": "cryguy/uptime/51f0cd48d4ead9a1cfcfaa47e01ba06d2c01486c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "cf2bb2aedf88a716976cfef8f89312df99ecb121",
+    "source": "blackINT400/note-auto-revenue/cf2bb2aedf88a716976cfef8f89312df99ecb121",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "005e155ed61809860c07de9e05ecdfe80e32984e",
+    "source": "vikashruhilgit/ai-agent-manager/005e155ed61809860c07de9e05ecdfe80e32984e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7bd22db81e7b7f7af8d8dabacdba42888693eca2",
+    "source": "MilkClouds/my-dev-playbook/7bd22db81e7b7f7af8d8dabacdba42888693eca2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "46feff50c4b407e5f20863bb01f48ac841e7ab15",
+    "source": "FutureSolutionDev/internet-monitor/46feff50c4b407e5f20863bb01f48ac841e7ab15",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e120cda6029fbd52cacbeff2a560f4ce0d55e7dd",
+    "source": "Perun-Engineering/sre-on-call/e120cda6029fbd52cacbeff2a560f4ce0d55e7dd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4f3f3a1d0fbe6378ff99c7ff3ec62d502a703261",
+    "source": "SocialBoost1201/Animo/4f3f3a1d0fbe6378ff99c7ff3ec62d502a703261",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3f3f1a996fed5c778371031ebf05ee684c78f569",
+    "source": "cryguy/uptime/3f3f1a996fed5c778371031ebf05ee684c78f569",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "909d7f8d53fc373c9e364aee5f13953b5ea433c8",
+    "source": "rsb79692-create/timecard/909d7f8d53fc373c9e364aee5f13953b5ea433c8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "586050afa1f75cf8ad156b6cce065223f2b70f87",
+    "url": "https://discord.com/api/webhooks/1509506184275824660/489DX4vPKFAn9-0RU_8n_PwmCFwkwb77l3HT_wqXksFKf4YjX-IIypmXrbJHuvLYni4Y",
+    "source": "calvinweising-minecraft/mc-discord-logger/586050afa1f75cf8ad156b6cce065223f2b70f87/main.py",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "c1ff718f9d2a9936b6165c89a427eeb7991adc33",
+    "source": "calvinweising-minecraft/mc-discord-logger/c1ff718f9d2a9936b6165c89a427eeb7991adc33",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2b6fa5eb3e4c83c01e61134533a563ab510b4c93",
+    "source": "cloudsysops/opsly/2b6fa5eb3e4c83c01e61134533a563ab510b4c93",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "746a9a779ec10c04eaa3376d3d31be4b2070661a",
+    "source": "g-giani/notifier/746a9a779ec10c04eaa3376d3d31be4b2070661a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4e0d70e3824d956e3d29a04717a659be5bc0cdaa",
+    "source": "kkkaoru/horse-racing-data/4e0d70e3824d956e3d29a04717a659be5bc0cdaa",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "775253ed51a1718bee9bb7fd30065c778c878007",
+    "source": "PraiseSinkamba/liquidity-sweep-watcher/775253ed51a1718bee9bb7fd30065c778c878007",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b0a5b40d1599311063933af1280be2c6c3045556",
+    "source": "davidmalko87/jira-confluence-full-instance-backup/b0a5b40d1599311063933af1280be2c6c3045556",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "76289a5d870598adc4263cb65c99561444499bc6",
+    "source": "mike305-droid/brawlmacro/76289a5d870598adc4263cb65c99561444499bc6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3f3b227ff0af456a7f2ce4bed2d2842cef1dec00",
+    "source": "SikamikanikoBG/homelab-monitor/3f3b227ff0af456a7f2ce4bed2d2842cef1dec00",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ad3f71c0c15eb647ee3747770b3430b5864530da",
+    "source": "goripegorp-cmd/bot-moderation-discord/ad3f71c0c15eb647ee3747770b3430b5864530da",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f592b4342f00fad00c974034e4ef7ee7044e638a",
+    "source": "Csasaka19/team-manager/f592b4342f00fad00c974034e4ef7ee7044e638a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c22b60d2c00f3213eec5b6c698b244c91953b58d",
+    "source": "CassioCintra/ms-feature-flags-management/c22b60d2c00f3213eec5b6c698b244c91953b58d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c0c86c20a022b1d8f4e5980ec50045e88bcfd09d",
+    "source": "goripegorp-cmd/bot-moderation-discord/c0c86c20a022b1d8f4e5980ec50045e88bcfd09d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5acf0efe64b0e77efe3692f83e7d5e2ff3e6eb00",
+    "source": "JomeAla/url-shortener/5acf0efe64b0e77efe3692f83e7d5e2ff3e6eb00",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d6f53ae02b4a7c10eaa3dbe59534977490cf6e4f",
+    "source": "ZAODEVZ/ZAOsribeBOT/d6f53ae02b4a7c10eaa3dbe59534977490cf6e4f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f0f7dc955a3a2bd9125714b7ee73a8823d10f2d5",
+    "source": "monsiu/Custom-RR/f0f7dc955a3a2bd9125714b7ee73a8823d10f2d5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "edf8a29b2e1abc1e74359c10ad79ea7a813c47bf",
+    "source": "typeclaw/typeclaw/edf8a29b2e1abc1e74359c10ad79ea7a813c47bf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "07b4ef8e81d2f43f4bac6aca9bde01c0bc97df3a",
+    "source": "SeongHo5/codex-reset-sentinel/07b4ef8e81d2f43f4bac6aca9bde01c0bc97df3a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2b8730d95124d391ffd128981b40e919c5c27adc",
+    "source": "wreative/panel-relay/2b8730d95124d391ffd128981b40e919c5c27adc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "667b824282222e135a21709089dcb21262c616e8",
+    "source": "jjang6251/chwippo-front/667b824282222e135a21709089dcb21262c616e8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "90ebd130fdaeae1fa34fd62d1a3092c4623ae38d",
+    "source": "odakin/arxiv-digest/90ebd130fdaeae1fa34fd62d1a3092c4623ae38d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bb3343baa50a7caf20efda29a6fea3edab0f5381",
+    "source": "bentleypark/aiwatch/bb3343baa50a7caf20efda29a6fea3edab0f5381",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "98ad3786c9b66ba7229fe494572c1fe20c5287e5",
+    "source": "bentleypark/aiwatch/98ad3786c9b66ba7229fe494572c1fe20c5287e5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0d291452c81368c024a25769c1558657f8ce48b6",
+    "source": "castledking/Allium/0d291452c81368c024a25769c1558657f8ce48b6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "33cd8fba953b92a1007b7820a350d17be4ca10c7",
+    "source": "jjang6251/chwippo-back/33cd8fba953b92a1007b7820a350d17be4ca10c7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "00b6208f0bb0814afbb434a5d6f87a22d53a5454",
+    "source": "BetterInc/producer-battle/00b6208f0bb0814afbb434a5d6f87a22d53a5454",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "417b30c2d910088b512b6d0dbd6da0c9ce386168",
+    "source": "buildstudio42/excel-auto-report/417b30c2d910088b512b6d0dbd6da0c9ce386168",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7b29c543b12b44dad57dc8db2db694a2614ea902",
+    "source": "wreative/panel-relay/7b29c543b12b44dad57dc8db2db694a2614ea902",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a02c3198e94360c45a61cd458f8669a5f85180ce",
+    "source": "nguy3nhuunam/MrNine.Net/a02c3198e94360c45a61cd458f8669a5f85180ce",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "432ab62e15735e394bb328edfbb14189ab5a2bcc",
+    "source": "LetsGaming/PABS/432ab62e15735e394bb328edfbb14189ab5a2bcc",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5f57871450716ac94edf5658a8e18b3fd3997419",
+    "source": "welteki/release-watcher/5f57871450716ac94edf5658a8e18b3fd3997419",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a87eb0474f83e732429ccbdb8789f13f1ebdec70",
+    "source": "discordkit/discordkit/a87eb0474f83e732429ccbdb8789f13f1ebdec70",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d8f0f8b77480a555431c1adb218508700cf553e1",
+    "source": "Producer-Battle/prod-battle-api/d8f0f8b77480a555431c1adb218508700cf553e1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "56261921a8d514b20ea18608634c055574a845c1",
+    "source": "Ie-ight/travel-maker-frontend/56261921a8d514b20ea18608634c055574a845c1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "52bee667af3071c0ca288bc2875a2b7f7170198b",
+    "source": "GQuantrill/eve-nexum/52bee667af3071c0ca288bc2875a2b7f7170198b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5331ff02eed28737ad38b60c99c29e7b22795eac",
+    "source": "Gildado/PayD/5331ff02eed28737ad38b60c99c29e7b22795eac",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3840b0db30b6e221f85e5fe293acc3fbb411421f",
+    "source": "JoGonPT/LandingV2/3840b0db30b6e221f85e5fe293acc3fbb411421f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1cf70dad5bff6e4f36cd40a3b001269762c9d87a",
+    "source": "JHEN0907/insight-lab/1cf70dad5bff6e4f36cd40a3b001269762c9d87a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "efe77857a363c52e0190a14bf0efbd45e6ea96b8",
+    "source": "fsebbah/n8n-workflows/efe77857a363c52e0190a14bf0efbd45e6ea96b8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d1ef908cc8965a488d9b5a58f9339f490e192c06",
+    "source": "gopichandchalla16/somniawatch/d1ef908cc8965a488d9b5a58f9339f490e192c06",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "907e24b068e6907dd859457881129db7ccf0bc2c",
+    "source": "unusual-whales/starter-alerts-bot/907e24b068e6907dd859457881129db7ccf0bc2c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1cf3c1c192defb4d584949ce420780013946ec2d",
+    "source": "stophobia/mini-bloomberg-terminal/1cf3c1c192defb4d584949ce420780013946ec2d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c2a51ef56eb0a2338adc8f538bb1b6aabb4776cf",
+    "source": "JoGonPT/LandingV2/c2a51ef56eb0a2338adc8f538bb1b6aabb4776cf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "daa52d8c936664742ed3780258cab5aabf18c643",
+    "source": "strycks/nexus-commerce/daa52d8c936664742ed3780258cab5aabf18c643",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d0462bfce932473f990ae028cacf5422e7923fef",
+    "source": "slok0066/instagram-automation/d0462bfce932473f990ae028cacf5422e7923fef",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "21721f77f7e0f20698ba39e0e2bf03daafef7a7d",
+    "source": "87kangsw/sejong-job/21721f77f7e0f20698ba39e0e2bf03daafef7a7d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0a0af1ecffb1cc011a3d900f18e87bb825564dbd",
+    "source": "zaccesss/isaac-adjei-portfolio/0a0af1ecffb1cc011a3d900f18e87bb825564dbd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6d607458eada1414789576cc17e847c1d3a46e26",
+    "source": "itsjuggalo/4.23.2026MissionCtrlV2/6d607458eada1414789576cc17e847c1d3a46e26",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5c82ba99db4a9662c536b4798045f59d26263ab9",
+    "source": "princegondaliya001/qa-automation-workspace/5c82ba99db4a9662c536b4798045f59d26263ab9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "be2f9b44f6ae11cc20e249123b7eb9959adfbd9d",
+    "source": "oomNoNe/black-swan-indicator/be2f9b44f6ae11cc20e249123b7eb9959adfbd9d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2e7c02fa06d6b5eb5bcd5905a5d85767c1073e5e",
+    "source": "ChristianDev87/dwbhub/2e7c02fa06d6b5eb5bcd5905a5d85767c1073e5e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d1aa78df5cbfe87d5add2947b94ec4c71c488aea",
+    "source": "shinbertrand-spec/claude1-swing-trading/d1aa78df5cbfe87d5add2947b94ec4c71c488aea",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "26c0eae50f3237cb8e430576e640fbf4a86b018e",
+    "source": "oxfoxlion/pantry/26c0eae50f3237cb8e430576e640fbf4a86b018e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "806c6c5661fac0574e1a895e5036c5dfbec12189",
+    "source": "goohong/mobruji/806c6c5661fac0574e1a895e5036c5dfbec12189",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6417f96d241296dd02957802bc283008c8a41846",
+    "source": "DivineSide/AIOS-DivineCore/6417f96d241296dd02957802bc283008c8a41846",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1e16f27b9c24354b49b80f8b2e9458180dd677c1",
+    "source": "shingo-ops/salesanchor/1e16f27b9c24354b49b80f8b2e9458180dd677c1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "dc65298dec489f82d5633ef7e28ab18cf82994fe",
+    "source": "goohong/mobruji/dc65298dec489f82d5633ef7e28ab18cf82994fe",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1337303b83619a216451251e929e4962b08ed7d5",
+    "source": "FutureSolutionDev/internet-monitor/1337303b83619a216451251e929e4962b08ed7d5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0762b5a78d78e4f03e9d14a698cecc73699f33af",
+    "source": "itsjuggalo/4.23.2026MissionCtrlV2/0762b5a78d78e4f03e9d14a698cecc73699f33af",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8fe0d6c182ad7d9a71bd06ffe6d70dacd1ee0497",
+    "source": "schola-cantorum/cantus/8fe0d6c182ad7d9a71bd06ffe6d70dacd1ee0497",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7e1399ffe2b090f7c64ab3cb81fcb0982734c5ca",
+    "source": "amayer1983/docksentry/7e1399ffe2b090f7c64ab3cb81fcb0982734c5ca",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ae2a44bbb8b67843ca01279fb2ae316de4c9fedf",
+    "source": "schola-cantorum/cantus/ae2a44bbb8b67843ca01279fb2ae316de4c9fedf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "efbdf853793d8d04a861af5462fd351fee77eee6",
+    "source": "swamp2k/noteflow-v2/efbdf853793d8d04a861af5462fd351fee77eee6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f5b620e64db78fd977d573e006519942e17d3391",
+    "source": "mocartlex-wq/cognitive-core/f5b620e64db78fd977d573e006519942e17d3391",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1cb028560a82a6aed88e3cb4b821f341d310a675",
+    "source": "dogGetDrunk/meetjyou-backend/1cb028560a82a6aed88e3cb4b821f341d310a675",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "80fde09d6b830c2878050b6c027654448168ec77",
+    "source": "Singularity-Ye/Blog-pro/80fde09d6b830c2878050b6c027654448168ec77",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b8b9664da46142abba0c1da07e198b92862eca55",
+    "source": "KrishnaMurali177/options-algo-trader/b8b9664da46142abba0c1da07e198b92862eca55",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "512e417f55a4bb19a337349bf45ad376863b62e7",
+    "source": "gopichandchalla16/somniawatch/512e417f55a4bb19a337349bf45ad376863b62e7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "49b104ccd2afebbcb6f123eb1ae9b9d3a8106c5a",
+    "source": "Eilhwan/ai-crypto-trading/49b104ccd2afebbcb6f123eb1ae9b9d3a8106c5a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "15353b9e1b83dca9fb9b2d7442b03d2a29890268",
+    "source": "Michaelogclarke/marketplace-bot/15353b9e1b83dca9fb9b2d7442b03d2a29890268",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "915ea7d17cffb87b6a7463dd60dbe71a251f93f1",
+    "source": "jasminlei/fs-pokedex-ci/915ea7d17cffb87b6a7463dd60dbe71a251f93f1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a141f5acae9865a69d6df84c3d4a1179a87ab0f1",
+    "source": "jasminlei/fs-pokedex-ci/a141f5acae9865a69d6df84c3d4a1179a87ab0f1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f43349c272e24176606af6baa76b0a29c38aebc7",
+    "source": "shingo-ops/salesanchor/f43349c272e24176606af6baa76b0a29c38aebc7",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "960979254e0d0970eb8e29f2587f32e439ca9355",
+    "source": "cookyuu/notio/960979254e0d0970eb8e29f2587f32e439ca9355",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0a8c8c96c4428f345006f9cfc8ba4a1703bfc0f1",
+    "source": "oxfoxlion/pantry/0a8c8c96c4428f345006f9cfc8ba4a1703bfc0f1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "711da83466b107a90d19e24def80813f3cf69d03",
+    "source": "bentleypark/aiwatch/711da83466b107a90d19e24def80813f3cf69d03",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a8060458545d461e9efe9d5b4fff901878c8f05d",
+    "source": "PiloteCode/PiloteShopping/a8060458545d461e9efe9d5b4fff901878c8f05d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "af69c2a96a35dd35e745ef124f63590a8aaa96ed",
+    "source": "hima-musik-isiyk/hima-musik-official-portal/af69c2a96a35dd35e745ef124f63590a8aaa96ed",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "90271385336cf1d775019e377f60d170dde6f77e",
+    "source": "itsreallyhex/Night-Void-bot/90271385336cf1d775019e377f60d170dde6f77e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "25e1050815df53a3718222169e639df26db75c38",
+    "source": "dogGetDrunk/meetjyou-backend/25e1050815df53a3718222169e639df26db75c38",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b36964ef7d8b3827d246ddbdeae7d9640b4f7e22",
+    "source": "0x0wRangler/bullsvsbearsreal-spec/b36964ef7d8b3827d246ddbdeae7d9640b4f7e22",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "adf183c285a9b3f8e83d5b2203af75010a99869d",
+    "source": "discordkit/discordkit/adf183c285a9b3f8e83d5b2203af75010a99869d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5db57f356de50e0742f8170aaf8f74990f98cdd2",
+    "source": "LUDIARS/Discutere/5db57f356de50e0742f8170aaf8f74990f98cdd2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "35067df1758ee73940c3db127af848f51b1c31ae",
+    "source": "CO0Ki3/smc-trading-model/35067df1758ee73940c3db127af848f51b1c31ae",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d3198d8dce7210ac4b36ca07b890547410c7cb32",
+    "source": "razgam1982-del/trade-journal-discord-live/d3198d8dce7210ac4b36ca07b890547410c7cb32",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "50beeeca4744a72e7bcdb874206b214c545d4756",
+    "source": "coleam00/Archon/50beeeca4744a72e7bcdb874206b214c545d4756",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ea0d6f734d209a004ea9591a4c3e933d2cf8474f",
+    "source": "lawsun03/zenith.io/ea0d6f734d209a004ea9591a4c3e933d2cf8474f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e3b2d04c74acc9d114a628981defc9935f29f19a",
+    "source": "shingo-ops/salesanchor/e3b2d04c74acc9d114a628981defc9935f29f19a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "44a9794e8ab34e9613e0b0a5363ad6122b8b0755",
+    "source": "jabluetooth/vuln/44a9794e8ab34e9613e0b0a5363ad6122b8b0755",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5b737f698025114c9a6508082158fde44efc019b",
+    "source": "justinhsu1477/crypto-signal-trader/5b737f698025114c9a6508082158fde44efc019b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "85e3568084cdd62b108cbfd87e5c660df577b823",
+    "source": "TimothyLuke/GSE-Advanced-Macro-Compiler/85e3568084cdd62b108cbfd87e5c660df577b823",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "358a7ac6f911a51d82c6af0cd768c76684dfd75b",
+    "source": "Ningensei848/specs/358a7ac6f911a51d82c6af0cd768c76684dfd75b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f15c1856be5e162cf744fa7307a50845ad249473",
+    "source": "TimothyLuke/GSE-Advanced-Macro-Compiler/f15c1856be5e162cf744fa7307a50845ad249473",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5dc46070b02376d19936a24e6175bdd03057be4e",
+    "source": "encore-lms/LMS-FE/5dc46070b02376d19936a24e6175bdd03057be4e",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ee79142bd6d929277ba2f57baa6b7d0162dc974b",
+    "source": "Eilhwan/ai-crypto-trading/ee79142bd6d929277ba2f57baa6b7d0162dc974b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fb93de40de7d21626226cb9a6c04a01f1a9424ab",
+    "url": "https://discord.com/api/webhooks/1509388087325622412/YGaBJuj5PhSZMFcaGq0fKu9OPjHJ8LSSurMZJK8d1DtQyCR391XItOLtJhfJgJLi8EjO",
+    "source": "ThaiHien-2k/myTools/fb93de40de7d21626226cb9a6c04a01f1a9424ab/weather_forecast/discord_alert.py",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "bdea8d3fd73dad44d6b7afc3ca8372a2496507b9",
+    "source": "Sean-mn/trickcal-daily-bot/bdea8d3fd73dad44d6b7afc3ca8372a2496507b9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1f6cc6a182e2a58b0b45c0277da05c7f816db182",
+    "source": "jhd3197/Tramo/1f6cc6a182e2a58b0b45c0277da05c7f816db182",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c9acaa7871dc933943e2e241d6ba01c8b82308d2",
+    "source": "BanePlayss/primitivao/c9acaa7871dc933943e2e241d6ba01c8b82308d2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0ebda1a0a6858f305cfb7419535bf9b4828f3cde",
+    "source": "TimothyLuke/GSE-Advanced-Macro-Compiler/0ebda1a0a6858f305cfb7419535bf9b4828f3cde",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "caf87b7fe09c5ae59dbc51c7abb555b259e6ff71",
+    "source": "pegasusnotunicorn/sharehome/caf87b7fe09c5ae59dbc51c7abb555b259e6ff71",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f945512e0106c51d330572bfb8084ffec62bbbc3",
+    "source": "DivineAcquisition/novaracleaningui/f945512e0106c51d330572bfb8084ffec62bbbc3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "141bada6237d408af7418e01d568751aa464fa0b",
+    "source": "kiwizhk-gif/zipmex-login/141bada6237d408af7418e01d568751aa464fa0b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9b04daaa2992e33e104bd2b1e3de6eeb83abca8a",
+    "source": "BanePlayss/primitivao/9b04daaa2992e33e104bd2b1e3de6eeb83abca8a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5181e3d10a942b5a1590a0550c928aad3ca8159b",
+    "source": "alexkavalec/agents/5181e3d10a942b5a1590a0550c928aad3ca8159b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0de6d6787dccba997efa177ebc78bebf6c561c43",
+    "source": "justinhsu1477/crypto-signal-trader/0de6d6787dccba997efa177ebc78bebf6c561c43",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "906e2b308c85ab9b440d745e2d4efc70716b4ecf",
+    "source": "naimkatiman/tradeclaw/906e2b308c85ab9b440d745e2d4efc70716b4ecf",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e07d856d994f4454384827edb47c7c338f17440b",
+    "source": "Intedai/sendtodiscord.koplugin/e07d856d994f4454384827edb47c7c338f17440b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "91d94b559a78ecb6ce7647b657099850d3f9dc22",
+    "source": "vishwathilina/MailAgent/91d94b559a78ecb6ce7647b657099850d3f9dc22",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "889c6e1587bed87e86cfc1c87badef67cce4d363",
+    "source": "ever-works/ever-works/889c6e1587bed87e86cfc1c87badef67cce4d363",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9420f940aa5c70d6cf4d1a10c63b641063fdf992",
+    "source": "Acevortic/job_applications_tracker_typescript/9420f940aa5c70d6cf4d1a10c63b641063fdf992",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a5cc17c69946adb01a21ea996b64ab8637b27551",
+    "source": "w0kki/polymarket-session-dashboard/a5cc17c69946adb01a21ea996b64ab8637b27551",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "beb211a7dbe1e23fcc72d2da17969d2fb1b01aa0",
+    "source": "copyyu/bmu-discord-it-bot/beb211a7dbe1e23fcc72d2da17969d2fb1b01aa0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "72c2c4ffcfcbd31d7a9edd5b90968337287758ba",
+    "source": "Matthiesen-dev/matthiesen-core-webhooks/72c2c4ffcfcbd31d7a9edd5b90968337287758ba",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c44ce9d5782381041702ca9749cf349fc800de2d",
+    "source": "Matthiesen-dev/matthiesen-core-webhooks/c44ce9d5782381041702ca9749cf349fc800de2d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a0b98f3be8703147863e632be16f7b0e5d1fd456",
+    "source": "jhd3197/Tramo/a0b98f3be8703147863e632be16f7b0e5d1fd456",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "50cb6c624480424d42b4d8d032c01903666539b2",
+    "source": "Significant-Gravitas/AutoGPT/50cb6c624480424d42b4d8d032c01903666539b2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b6a7a220bf8232f71e096d10dbdc3253acba1c19",
+    "source": "KakunynQA/bode/b6a7a220bf8232f71e096d10dbdc3253acba1c19",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "eada0645018357f0168455d2b44b91d1151f7a5b",
+    "source": "PicksByJonny/JonnyParlay/eada0645018357f0168455d2b44b91d1151f7a5b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6392afdf7be6b56395560b5d0fc0b2bb2bdda938",
+    "source": "Reel48/whoosh/6392afdf7be6b56395560b5d0fc0b2bb2bdda938",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6993f18c48130e785d9725ac15483ed83ff37b32",
+    "source": "shingo-ops/salesanchor/6993f18c48130e785d9725ac15483ed83ff37b32",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "69c8ec94f1ea3ceb58e0351d6d0b3d71d6b10830",
+    "source": "nyangame/Concordia/69c8ec94f1ea3ceb58e0351d6d0b3d71d6b10830",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fef9722844f31f0e698db6c5d5702e22fd335427",
+    "source": "Nonstickron/www.sqrrlbrain.com/fef9722844f31f0e698db6c5d5702e22fd335427",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "985253eaa9e16677787de378c5c9b63f577e74aa",
+    "source": "SeongHo5/codex-reset-sentinel/985253eaa9e16677787de378c5c9b63f577e74aa",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5754e0029371fa94332872ed48d8331adf29b4ab",
+    "source": "juanchozapiCTA/CTA-WEB-2026/5754e0029371fa94332872ed48d8331adf29b4ab",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "50f6d40254fd54fda24ae9e335484c95811ae522",
+    "source": "Wildernessone/agent-interface-v2/50f6d40254fd54fda24ae9e335484c95811ae522",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f3465af75b8c0318c178cf8362136236cc4904fb",
+    "source": "LUDIARS/Concordia/f3465af75b8c0318c178cf8362136236cc4904fb",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "29b00acbbd6e3fae98610fb01e5233e40bb98b1d",
+    "source": "oxfoxlion/pantry/29b00acbbd6e3fae98610fb01e5233e40bb98b1d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "57b144d0d6864f5a26d59a0a61662c3852ea229c",
+    "source": "shingo-ops/salesanchor/57b144d0d6864f5a26d59a0a61662c3852ea229c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "23e2815afc68986a39be46b6ff59370fc6c7eb3f",
+    "source": "copyyu/bmu-discord-it-bot/23e2815afc68986a39be46b6ff59370fc6c7eb3f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "43b879a2319cb6cafc55a68cc33e9a8182e59d6a",
+    "source": "andersonpedrocunha/forekash/43b879a2319cb6cafc55a68cc33e9a8182e59d6a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0541bc4709474150ec39b693b39ce98103b3bec0",
+    "source": "zewj/silver-waffle/0541bc4709474150ec39b693b39ce98103b3bec0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b1431dfef91a7f40bbe640788b24d19445c9b2f4",
+    "source": "full-bars/urnetwork-3.23-fix/b1431dfef91a7f40bbe640788b24d19445c9b2f4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "7db0595739925a3226d91dce4d4e77f06f0c9f04",
+    "source": "LOYALTY-cloud/tiplink/7db0595739925a3226d91dce4d4e77f06f0c9f04",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "5d47ea1a8fbe6ac192028394b2083b512f4dc7e8",
+    "source": "full-bars/meso-miner/5d47ea1a8fbe6ac192028394b2083b512f4dc7e8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "819e9c03f820b2173eb67b56a9024ba4575e5bfa",
+    "source": "shingo-ops/salesanchor/819e9c03f820b2173eb67b56a9024ba4575e5bfa",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f4323479641736992ef04a01be0b49a85c4853f4",
+    "source": "Mtman1987/hearmeout-main/f4323479641736992ef04a01be0b49a85c4853f4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "063240c86576ba33d41b551a463ab4c46dbd1862",
+    "source": "shingo-ops/salesanchor/063240c86576ba33d41b551a463ab4c46dbd1862",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "c8af80a2b9f774ad00650fc438277dcc58fe91d6",
+    "source": "koharu-aiengineer/discord-webhook-notifier/c8af80a2b9f774ad00650fc438277dcc58fe91d6",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9273f8c007a01520945f50fab9940956cf82e1e3",
+    "source": "ever-works/ever-works/9273f8c007a01520945f50fab9940956cf82e1e3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f514930c2eafe105400b208acd9ed2981e4442be",
+    "source": "shingo-ops/salesanchor/f514930c2eafe105400b208acd9ed2981e4442be",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ac4890362c5a26490dbe49542375f953cf525b71",
+    "source": "oxfoxlion/pantry/ac4890362c5a26490dbe49542375f953cf525b71",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b313cd32f3a86e378e7fd5a79c5179a697e3cc88",
+    "source": "shingo-ops/salesanchor/b313cd32f3a86e378e7fd5a79c5179a697e3cc88",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "8dbc57a9c498250209becc2a871b60e2cfaee422",
+    "source": "shingo-ops/salesanchor/8dbc57a9c498250209becc2a871b60e2cfaee422",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "28f6ce9886a42549a1367c0ca14401faf3eb7f0a",
+    "source": "DevMello/snapblox/28f6ce9886a42549a1367c0ca14401faf3eb7f0a",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "50980d780173173a2b64ec85c3c2b2068e7b8bff",
+    "source": "oxfoxlion/pantry/50980d780173173a2b64ec85c3c2b2068e7b8bff",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e77f41812ca791491b1643c25ad2053229577cf9",
+    "source": "valentinvardev/online-store/e77f41812ca791491b1643c25ad2053229577cf9",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a78bff142cf530aa028553054ba57dfc45d034d3",
+    "source": "full-bars/urnetwork-3.23-fix/a78bff142cf530aa028553054ba57dfc45d034d3",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "771e06c10b48e12db56e8bacfa32739bf8ea127c",
+    "source": "shingo-ops/salesanchor/771e06c10b48e12db56e8bacfa32739bf8ea127c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "3512f6501e5206b1d4317c5cbe272950e065f4f5",
+    "source": "JamesCharnley/NewsResearchBot/3512f6501e5206b1d4317c5cbe272950e065f4f5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "332b28e8b86bcb40f00c85289bb58069902080c1",
+    "source": "full-bars/meso-miner/332b28e8b86bcb40f00c85289bb58069902080c1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "81e46852e4a75b599c11dfd8da1a57ea5f74ec14",
+    "source": "shingo-ops/salesanchor/81e46852e4a75b599c11dfd8da1a57ea5f74ec14",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bb9bf5e1d3ecdc377ab1ed62bc7bc1e2c522ac36",
+    "url": "https://discord.com/api/webhooks/1499338536732721152/TsKWMFxJ5lhjLawN9AMKxZ0ZsjLbQvnunulWg9P6aUMJcyRM404IKp69oojSno-wgL4o",
+    "source": "momocube/GamePMSystem_Timeline/bb9bf5e1d3ecdc377ab1ed62bc7bc1e2c522ac36/index.html",
+    "reason": "Webhook 404 / Revoked"
+  },
+  {
+    "commitSha": "5cc70ef9e606d5159240dc48c7528e2802445af0",
+    "source": "agurrrrr/shepherd/5cc70ef9e606d5159240dc48c7528e2802445af0",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1362762e9a8b09c29116d0dae075b672771e3137",
+    "source": "usenix17/ArgoCD/1362762e9a8b09c29116d0dae075b672771e3137",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ea38407f515cec1863a2fc7af00f464a0fb378bd",
+    "source": "StorminRH/lgi-tools/ea38407f515cec1863a2fc7af00f464a0fb378bd",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "6fcb8e4baf4815f2eed1c0ce54d3acfb9bfdf1a1",
+    "source": "shingo-ops/salesanchor/6fcb8e4baf4815f2eed1c0ce54d3acfb9bfdf1a1",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "9d05c8d97b81eec458b3e79abe6de2a43e24cb4d",
+    "source": "ZkAleeJoo/maxking-docs/9d05c8d97b81eec458b3e79abe6de2a43e24cb4d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "e970cf06e24e4c73045dc5eb294c363f4ab458f5",
+    "source": "anlongawf/fastnetmon-addon/e970cf06e24e4c73045dc5eb294c363f4ab458f5",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "4ccfbea377828a29a0b750f0ffc521f917727914",
+    "source": "avillis/Baderna/4ccfbea377828a29a0b750f0ffc521f917727914",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d5651488aef9e7af83df4001b15549634c503355",
+    "source": "ergon-automation-labs/ergon-discord_webhook_manager/d5651488aef9e7af83df4001b15549634c503355",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "112fb2a2f70b6cf72987dea005a44d87ed217f3b",
+    "source": "jhd3197/Tramo/112fb2a2f70b6cf72987dea005a44d87ed217f3b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "f60ed2c5ee9f2eff65aa3b6e832c26f0d697f664",
+    "source": "Emasoft/claude-plugins-validation/f60ed2c5ee9f2eff65aa3b6e832c26f0d697f664",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "967c3fb4c5ad2f95b2454cee37867e20eb5a38e8",
+    "source": "kubestellar/hive/967c3fb4c5ad2f95b2454cee37867e20eb5a38e8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "56ebc29e180fee5de4e62f986b2e7e6b3158a1e2",
+    "source": "DevMello/snapblox/56ebc29e180fee5de4e62f986b2e7e6b3158a1e2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "18806ba5df02c353d28308f6333b3263355a4961",
+    "source": "redu-cloud/redu-os/18806ba5df02c353d28308f6333b3263355a4961",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a5ae52705ac6c8e2f34d3edbd45f925afc7f317b",
+    "source": "bojanrajkovic/unquote/a5ae52705ac6c8e2f34d3edbd45f925afc7f317b",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "2301ff21e7b965ec2977f09843315581dc9025a2",
+    "source": "mutsaqoful340/DiscordReminderGuwe/2301ff21e7b965ec2977f09843315581dc9025a2",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "1ee8f34037aca9b035a5cda1c85e0cea13f7171d",
+    "source": "BanePlayss/primitivao/1ee8f34037aca9b035a5cda1c85e0cea13f7171d",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "d7df9da113e7d27b63455c1de4987cae2c2c6822",
+    "source": "RebelWireless/RebelWirelessWebsite/d7df9da113e7d27b63455c1de4987cae2c2c6822",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "bf436619be7a60646f8c33ab05b80a2b103b9b7f",
+    "source": "RebelWireless/RebelWirelessWebsite/bf436619be7a60646f8c33ab05b80a2b103b9b7f",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "fd9004a3df5b822ee659aa045921c5572364e24c",
+    "source": "jonesnoaht/iac/fd9004a3df5b822ee659aa045921c5572364e24c",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "b0082f8450516fd453d55cdcbb83dafc8010cfa8",
+    "source": "arjunbhargava/my-pi/b0082f8450516fd453d55cdcbb83dafc8010cfa8",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0269e1958940ff83b090c2abc2939a46e27e6582",
+    "source": "cat-cave/tanren/0269e1958940ff83b090c2abc2939a46e27e6582",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "ff7384d006467155f885893a9286b3f068cf5742",
+    "source": "Bl4ckBl1zZ/posthog/ff7384d006467155f885893a9286b3f068cf5742",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "dd139b2a4e9ebd0c06f9124bdb87a2e14af6e672",
+    "source": "sevengramdab/simplepod-v2/dd139b2a4e9ebd0c06f9124bdb87a2e14af6e672",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0ca0daf360f9fa146bb62fa81216d3a328b25e88",
+    "source": "tschoolsu/tpass-form/0ca0daf360f9fa146bb62fa81216d3a328b25e88",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "0a27ee8b66650ee23d933e196801a0676b872258",
+    "source": "lasource18/brvm-terminal/0a27ee8b66650ee23d933e196801a0676b872258",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "a5663e8d2781f2115c4308286b53993869ff6dc4",
+    "source": "1activegeek/home-ops/a5663e8d2781f2115c4308286b53993869ff6dc4",
+    "reason": "No webhook pattern found"
+  },
+  {
+    "commitSha": "002ca6ac1dd433425dfa4921f4c668848a1f79e6",
+    "source": "win07xp/kaalm/002ca6ac1dd433425dfa4921f4c668848a1f79e6",
+    "reason": "No webhook pattern found"
   }
 ]
