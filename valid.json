@@ -2710,5 +2710,43 @@
       "token": "ql3S60QMGXkH_jBI7Cihi4DIIrAxi4QiWlY4o3YtkJxWoPMYgnYAUlWboXsy-1XULskK",
       "url": "https://discord.com/api/webhooks/1542410900063911979/ql3S60QMGXkH_jBI7Cihi4DIIrAxi4QiWlY4o3YtkJxWoPMYgnYAUlWboXsy-1XULskK"
     }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542851735247265832/HStju5W-CFsADUPHbNMl89JIQlTbw7--86-RNtXLDB2XUFdxugCsq4GwZu5IOrB6n2sw",
+    "source": "kusomatuko/discord-bot/f89d1ae035474910a4cebc78ffa70fd268cd4b4d/app.py",
+    "commitMessage": "Change Discord webhook URL\n\nUpdated Discord webhook URL for the application.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T20:06:26.000+09:00",
+    "commitUrl": "https://github.com/kusomatuko/discord-bot/commit/f89d1ae035474910a4cebc78ffa70fd268cd4b4d",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1539226646018527272",
+      "guild_id": "1531827162250743902",
+      "id": "1542851735247265832",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "HStju5W-CFsADUPHbNMl89JIQlTbw7--86-RNtXLDB2XUFdxugCsq4GwZu5IOrB6n2sw",
+      "url": "https://discord.com/api/webhooks/1542851735247265832/HStju5W-CFsADUPHbNMl89JIQlTbw7--86-RNtXLDB2XUFdxugCsq4GwZu5IOrB6n2sw"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542798285595611147/vp6ZdMDNXlrlyVsa2lvgVNgLh2cFnlVqvOlq9jo6QzImkCfk-ntu8f-PPXY3cGnuDhvQ",
+    "source": "GODHYDRA666/produbanco-EC/f2f789e30144de3c8967d7917f350ebca30939e2/index.html",
+    "commitMessage": "Refactor checkForm and add Discord webhook functionality",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T02:32:47.000-05:00",
+    "commitUrl": "https://github.com/GODHYDRA666/produbanco-EC/commit/f2f789e30144de3c8967d7917f350ebca30939e2",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "d93a54c0fc841a96dfbc97befc850f5c",
+      "channel_id": "1542798236069134356",
+      "guild_id": "1034125617635008522",
+      "id": "1542798285595611147",
+      "name": "💰 𝓛𝓸𝓰𝓸𝓼 𝓟𝓻𝓸𝓭𝓾𝓫𝓪𝓷𝓬𝓸 𝓟𝓡𝓞𝓜𝓐𝓧 💰",
+      "type": 1,
+      "token": "vp6ZdMDNXlrlyVsa2lvgVNgLh2cFnlVqvOlq9jo6QzImkCfk-ntu8f-PPXY3cGnuDhvQ",
+      "url": "https://discord.com/api/webhooks/1542798285595611147/vp6ZdMDNXlrlyVsa2lvgVNgLh2cFnlVqvOlq9jo6QzImkCfk-ntu8f-PPXY3cGnuDhvQ"
+    }
   }
 ]
