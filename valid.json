@@ -2748,5 +2748,290 @@
       "token": "vp6ZdMDNXlrlyVsa2lvgVNgLh2cFnlVqvOlq9jo6QzImkCfk-ntu8f-PPXY3cGnuDhvQ",
       "url": "https://discord.com/api/webhooks/1542798285595611147/vp6ZdMDNXlrlyVsa2lvgVNgLh2cFnlVqvOlq9jo6QzImkCfk-ntu8f-PPXY3cGnuDhvQ"
     }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1543078420655906917/Jmfs4VXqjyZ9vTHhakFSwriQv-SKQqpTMbzObzivPQ2P3jWU-pi1W03YAMV6ZvC0PrXS",
+    "source": "Milumon/team-pollitos-web/20ac4e699eae742d5a01215d97109a0f9dbc7d3b/lib/discordMinecraft.ts",
+    "commitMessage": "feat(minecraft): add Discord webhook notification system and API route for in-game and whitelist events",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T21:08:51.000-05:00",
+    "commitUrl": "https://github.com/Milumon/team-pollitos-web/commit/20ac4e699eae742d5a01215d97109a0f9dbc7d3b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "bd12b92b87da6fdfb9fd1b1350d50c32",
+      "channel_id": "1542823522542297088",
+      "guild_id": "535241003599265822",
+      "id": "1543078420655906917",
+      "name": "Bot de Minecraft",
+      "type": 1,
+      "token": "Jmfs4VXqjyZ9vTHhakFSwriQv-SKQqpTMbzObzivPQ2P3jWU-pi1W03YAMV6ZvC0PrXS",
+      "url": "https://discord.com/api/webhooks/1543078420655906917/Jmfs4VXqjyZ9vTHhakFSwriQv-SKQqpTMbzObzivPQ2P3jWU-pi1W03YAMV6ZvC0PrXS"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1539425805015326910/gVORo2-kt3K6op_4k3TqVS_vEy5JKdmXA2LljiadEQxoJTC3xaLbZCcPkQKoHsZRzOUO",
+    "source": "henrygonzalezestrada-cyber/goxion/4cb64814b9b84387429d91a201aa0a3617d3ab19/index-beta.html",
+    "commitMessage": "Update Discord webhook to use custom protocol",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T19:07:39.000-06:00",
+    "commitUrl": "https://github.com/henrygonzalezestrada-cyber/goxion/commit/4cb64814b9b84387429d91a201aa0a3617d3ab19",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1539425712610738258",
+      "guild_id": "1538660644533047397",
+      "id": "1539425805015326910",
+      "name": "goxion pagos",
+      "type": 1,
+      "token": "gVORo2-kt3K6op_4k3TqVS_vEy5JKdmXA2LljiadEQxoJTC3xaLbZCcPkQKoHsZRzOUO",
+      "url": "https://discord.com/api/webhooks/1539425805015326910/gVORo2-kt3K6op_4k3TqVS_vEy5JKdmXA2LljiadEQxoJTC3xaLbZCcPkQKoHsZRzOUO"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1539426774893465722/K7Sb4Kvvz59eSTDD64OWsyYCtUaIN1ZQQA3BWfo7ErXrzaB4jMPFkoTmfLa2BYma-VAH",
+    "source": "henrygonzalezestrada-cyber/goxion/dc3869489a44ac404173c5bf81b940631459786e/ayuda-beta.html",
+    "commitMessage": "Update Discord webhooks to custom URLs",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T19:06:52.000-06:00",
+    "commitUrl": "https://github.com/henrygonzalezestrada-cyber/goxion/commit/dc3869489a44ac404173c5bf81b940631459786e",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1539426725623111762",
+      "guild_id": "1538660644533047397",
+      "id": "1539426774893465722",
+      "name": "goxion pedidos",
+      "type": 1,
+      "token": "K7Sb4Kvvz59eSTDD64OWsyYCtUaIN1ZQQA3BWfo7ErXrzaB4jMPFkoTmfLa2BYma-VAH",
+      "url": "https://discord.com/api/webhooks/1539426774893465722/K7Sb4Kvvz59eSTDD64OWsyYCtUaIN1ZQQA3BWfo7ErXrzaB4jMPFkoTmfLa2BYma-VAH"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1539426965939953675/NcqsJjsvqXqlrsylYj00HE1pQEEDfbp1yC2zoSB4LuwuZ7BrJF9cmrAmbhTs9m4RZIa0",
+    "source": "henrygonzalezestrada-cyber/goxion/dc3869489a44ac404173c5bf81b940631459786e/ayuda-beta.html",
+    "commitMessage": "Update Discord webhooks to custom URLs",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T19:06:52.000-06:00",
+    "commitUrl": "https://github.com/henrygonzalezestrada-cyber/goxion/commit/dc3869489a44ac404173c5bf81b940631459786e",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1539426943726784562",
+      "guild_id": "1538660644533047397",
+      "id": "1539426965939953675",
+      "name": "goxion soporte",
+      "type": 1,
+      "token": "NcqsJjsvqXqlrsylYj00HE1pQEEDfbp1yC2zoSB4LuwuZ7BrJF9cmrAmbhTs9m4RZIa0",
+      "url": "https://discord.com/api/webhooks/1539426965939953675/NcqsJjsvqXqlrsylYj00HE1pQEEDfbp1yC2zoSB4LuwuZ7BrJF9cmrAmbhTs9m4RZIa0"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1543035731994345482/RjKYFmD7a-WihemuZNLIEhKQbJdI2qCzSe8Z3QVaWxGWvk1nzvUDOdKo7_nURhrVWHUZ",
+    "source": "e6w5q4498aq7w55ca887a/Universaltest/6813b0ce9ae4141fdff40fbc3aaefa0d9331a309/e785qa2q4a7dqw.lua",
+    "commitMessage": "aa\n\nUpdated webhook URL for Discord notifications.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-29T01:58:57.000+02:00",
+    "commitUrl": "https://github.com/e6w5q4498aq7w55ca887a/Universaltest/commit/6813b0ce9ae4141fdff40fbc3aaefa0d9331a309",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1543035696673988660",
+      "guild_id": "1543035695952560168",
+      "id": "1543035731994345482",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "RjKYFmD7a-WihemuZNLIEhKQbJdI2qCzSe8Z3QVaWxGWvk1nzvUDOdKo7_nURhrVWHUZ",
+      "url": "https://discord.com/api/webhooks/1543035731994345482/RjKYFmD7a-WihemuZNLIEhKQbJdI2qCzSe8Z3QVaWxGWvk1nzvUDOdKo7_nURhrVWHUZ"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1543043822349459518/zMqresOALhggceDZTI1CqUjkXXGKXIo9AsQROERbc-3SKvD1vuA86HJ6Ge8vHDMPpMjd",
+    "source": "PrRobloxSCipter/ocrashscript/0de1e50e4fd052b4a29dc9656c99c4785782fd29/Rejoin",
+    "commitMessage": "Update Discord webhook URL in Rejoin",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-29T01:46:28.000+02:00",
+    "commitUrl": "https://github.com/PrRobloxSCipter/ocrashscript/commit/0de1e50e4fd052b4a29dc9656c99c4785782fd29",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "e6838901a9a37291079692834a79a845",
+      "channel_id": "1539252821571018753",
+      "guild_id": "1539252821134807122",
+      "id": "1543043822349459518",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "zMqresOALhggceDZTI1CqUjkXXGKXIo9AsQROERbc-3SKvD1vuA86HJ6Ge8vHDMPpMjd",
+      "url": "https://discord.com/api/webhooks/1543043822349459518/zMqresOALhggceDZTI1CqUjkXXGKXIo9AsQROERbc-3SKvD1vuA86HJ6Ge8vHDMPpMjd"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1539427102179201208/8C_uissf8BjGbJej0rZp1oRIex2V8bNN6e_zZ8C04oG7u2fk4azQFscrw_skWmu8peqE",
+    "source": "henrygonzalezestrada-cyber/goxion/dc3869489a44ac404173c5bf81b940631459786e/ayuda-beta.html",
+    "commitMessage": "Update Discord webhooks to custom URLs",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T19:06:52.000-06:00",
+    "commitUrl": "https://github.com/henrygonzalezestrada-cyber/goxion/commit/dc3869489a44ac404173c5bf81b940631459786e",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1539427083833311323",
+      "guild_id": "1538660644533047397",
+      "id": "1539427102179201208",
+      "name": "goxion actividad",
+      "type": 1,
+      "token": "8C_uissf8BjGbJej0rZp1oRIex2V8bNN6e_zZ8C04oG7u2fk4azQFscrw_skWmu8peqE",
+      "url": "https://discord.com/api/webhooks/1539427102179201208/8C_uissf8BjGbJej0rZp1oRIex2V8bNN6e_zZ8C04oG7u2fk4azQFscrw_skWmu8peqE"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1543047144393412618/hvP_ACPT5f3Aww5tRVwvPfjhp64NJXpg48qcjwtV7-KjNspQgqzB6JokMW77pwLw-hDu",
+    "source": "e6w5q4498aq7w55ca887a/Universaltest/6813b0ce9ae4141fdff40fbc3aaefa0d9331a309/e785qa2q4a7dqw.lua",
+    "commitMessage": "aa\n\nUpdated webhook URL for Discord notifications.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-29T01:58:57.000+02:00",
+    "commitUrl": "https://github.com/e6w5q4498aq7w55ca887a/Universaltest/commit/6813b0ce9ae4141fdff40fbc3aaefa0d9331a309",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542276330627014689",
+      "guild_id": "1542276330190536744",
+      "id": "1543047144393412618",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "hvP_ACPT5f3Aww5tRVwvPfjhp64NJXpg48qcjwtV7-KjNspQgqzB6JokMW77pwLw-hDu",
+      "url": "https://discord.com/api/webhooks/1543047144393412618/hvP_ACPT5f3Aww5tRVwvPfjhp64NJXpg48qcjwtV7-KjNspQgqzB6JokMW77pwLw-hDu"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1451939737592926289/ghw-1J4utIp9cduE6jZV9TeGJdvfybyzevFMqFojECweJD5df5CugftnLHj8_1YHXtyl",
+    "source": "hyusband/webfisher/a1a31037474d51d66423a6aa22d49a3f1c5c3571/lib/discord-webhook.ts",
+    "commitMessage": "feat: add utility to send Discord webhook notifications for user events",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-29T00:03:50.000+02:00",
+    "commitUrl": "https://github.com/hyusband/webfisher/commit/a1a31037474d51d66423a6aa22d49a3f1c5c3571",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1451939726549319680",
+      "guild_id": "1448423227532509326",
+      "id": "1451939737592926289",
+      "name": "Captain Hook",
+      "type": 1,
+      "token": "ghw-1J4utIp9cduE6jZV9TeGJdvfybyzevFMqFojECweJD5df5CugftnLHj8_1YHXtyl",
+      "url": "https://discord.com/api/webhooks/1451939737592926289/ghw-1J4utIp9cduE6jZV9TeGJdvfybyzevFMqFojECweJD5df5CugftnLHj8_1YHXtyl"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1543015660777381999/W2prpDN7YSDKlVgmWQL-pTPCXJ_tEsXf5dT7SrcZaKYNiuIVNby3qSAGNCZUh3FP0URP",
+    "source": "hyusband/webfisher/a1a31037474d51d66423a6aa22d49a3f1c5c3571/lib/discord-webhook.ts",
+    "commitMessage": "feat: add utility to send Discord webhook notifications for user events",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-29T00:03:50.000+02:00",
+    "commitUrl": "https://github.com/hyusband/webfisher/commit/a1a31037474d51d66423a6aa22d49a3f1c5c3571",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1543015623808913458",
+      "guild_id": "1541532320543015002",
+      "id": "1543015660777381999",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "W2prpDN7YSDKlVgmWQL-pTPCXJ_tEsXf5dT7SrcZaKYNiuIVNby3qSAGNCZUh3FP0URP",
+      "url": "https://discord.com/api/webhooks/1543015660777381999/W2prpDN7YSDKlVgmWQL-pTPCXJ_tEsXf5dT7SrcZaKYNiuIVNby3qSAGNCZUh3FP0URP"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542998919338926181/YTxb2RnFhE0pLelH6XLEcabX4342bQWTHZsm6GP_smX2D26jEJpUTjMeiy6U8dKyOs_p",
+    "source": "itztixyy-arch/Done./7de0d597b785e8c39f2b1fb7b88254bcdf32224c/main.py",
+    "commitMessage": "Add system info gathering and Discord reporting\n\nThis script gathers system information and sends it to a specified Discord webhook.",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T23:47:01.000+03:00",
+    "commitUrl": "https://github.com/itztixyy-arch/Done./commit/7de0d597b785e8c39f2b1fb7b88254bcdf32224c",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542998784517079163",
+      "guild_id": "1542998783485411443",
+      "id": "1542998919338926181",
+      "name": "Spidey Bot",
+      "type": 1,
+      "token": "YTxb2RnFhE0pLelH6XLEcabX4342bQWTHZsm6GP_smX2D26jEJpUTjMeiy6U8dKyOs_p",
+      "url": "https://discord.com/api/webhooks/1542998919338926181/YTxb2RnFhE0pLelH6XLEcabX4342bQWTHZsm6GP_smX2D26jEJpUTjMeiy6U8dKyOs_p"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542059423999197184/KMcjEnHpAkMwoW8cwbQKdxnYYl4E0q2ENkRy-ICu0ssk_w6y3Eyihy5vNGHKkw1Ys61C",
+    "source": "botakungt123-sys/bot-ae/04fa270938f154b467574c994321b10dc372a03b/apex_rdp_daemon_updater.ps1",
+    "commitMessage": "Integrate Discord Webhook reporting in apex_rdp_daemon_updater.ps1",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-29T00:11:50.000+07:00",
+    "commitUrl": "https://github.com/botakungt123-sys/bot-ae/commit/04fa270938f154b467574c994321b10dc372a03b",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542130499873673216",
+      "guild_id": "1208348953611866142",
+      "id": "1542059423999197184",
+      "name": "bot trading",
+      "type": 1,
+      "token": "KMcjEnHpAkMwoW8cwbQKdxnYYl4E0q2ENkRy-ICu0ssk_w6y3Eyihy5vNGHKkw1Ys61C",
+      "url": "https://discord.com/api/webhooks/1542059423999197184/KMcjEnHpAkMwoW8cwbQKdxnYYl4E0q2ENkRy-ICu0ssk_w6y3Eyihy5vNGHKkw1Ys61C"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542923132963127347/evCf5FsxVG_-Q2AgITLJMrY5U1RUdyc2YR9apv2LtrV74Kf9aQoYqQ1jHGiM2eVgGRDC",
+    "source": "shirkeharsh/mooziac/4b89c90cda878e58b36faa2af035b2ab82af437e/docs/index.html",
+    "commitMessage": "feat(telemetry): add Discord webhook download logger to 3D player landing page",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T21:47:04.000+05:30",
+    "commitUrl": "https://github.com/shirkeharsh/mooziac/commit/4b89c90cda878e58b36faa2af035b2ab82af437e",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1542923047948918875",
+      "guild_id": "1540098838503628810",
+      "id": "1542923132963127347",
+      "name": "Mooziac",
+      "type": 1,
+      "token": "evCf5FsxVG_-Q2AgITLJMrY5U1RUdyc2YR9apv2LtrV74Kf9aQoYqQ1jHGiM2eVgGRDC",
+      "url": "https://discord.com/api/webhooks/1542923132963127347/evCf5FsxVG_-Q2AgITLJMrY5U1RUdyc2YR9apv2LtrV74Kf9aQoYqQ1jHGiM2eVgGRDC"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1542896928633790464/Uz9nmAHQYZzl13WBqu-ZlbOxgc7TrjRZObNdbGkLDO2D53q32Abry_uN7FdpTzD2_A4K",
+    "source": "Bank987/WEBMEMBER/a4a4a1424c44d01ddd3d900d14a620638053d012/src/actions/members.ts",
+    "commitMessage": "feat: add discord webhook notification for new members",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T21:02:48.000+07:00",
+    "commitUrl": "https://github.com/Bank987/WEBMEMBER/commit/a4a4a1424c44d01ddd3d900d14a620638053d012",
+    "webhookData": {
+      "application_id": null,
+      "avatar": "511eed6cfe50449b9253aae4d8b6c652",
+      "channel_id": "1540790507037265922",
+      "guild_id": "1540757564491567245",
+      "id": "1542896928633790464",
+      "name": "GANGLIST CHECK",
+      "type": 1,
+      "token": "Uz9nmAHQYZzl13WBqu-ZlbOxgc7TrjRZObNdbGkLDO2D53q32Abry_uN7FdpTzD2_A4K",
+      "url": "https://discord.com/api/webhooks/1542896928633790464/Uz9nmAHQYZzl13WBqu-ZlbOxgc7TrjRZObNdbGkLDO2D53q32Abry_uN7FdpTzD2_A4K"
+    }
+  },
+  {
+    "url": "https://discord.com/api/webhooks/1463047142473072721/0Gco0d7cSqpFq8OR_XSgF91zvzxw5YRPIIErht3WBCYN58-InLQ22w9eRv-5K3ASar1t",
+    "source": "rossaalex5-rgb/zemala-core/206d3c2a0581ca422992f22e8c7c92c34490f7ce/scripts/lock_emit.sh",
+    "commitMessage": "ZEMALA-CORE // Live Discord Webhook Emitter & Stufe 100 Sync",
+    "matchedKeyword": "discord webhook",
+    "commitDate": "2026-08-28T16:04:44.000+02:00",
+    "commitUrl": "https://github.com/rossaalex5-rgb/zemala-core/commit/206d3c2a0581ca422992f22e8c7c92c34490f7ce",
+    "webhookData": {
+      "application_id": null,
+      "avatar": null,
+      "channel_id": "1463011823375876128",
+      "guild_id": "1463003554007748837",
+      "id": "1463047142473072721",
+      "name": "erste-schritte-hook",
+      "type": 1,
+      "token": "0Gco0d7cSqpFq8OR_XSgF91zvzxw5YRPIIErht3WBCYN58-InLQ22w9eRv-5K3ASar1t",
+      "url": "https://discord.com/api/webhooks/1463047142473072721/0Gco0d7cSqpFq8OR_XSgF91zvzxw5YRPIIErht3WBCYN58-InLQ22w9eRv-5K3ASar1t"
+    }
   }
 ]
